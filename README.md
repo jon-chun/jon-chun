@@ -1,17 +1,44 @@
+# **AI Digital Humanities** 
 ![AI Digital Humanities](./images/kenyon_ai_dh_banner.png)
 
-# **AI Digital Humanities** 
 
+
+
+## **My Interests**
+---
+
+I am focused on creatively applying the best of industry practices and state-of-the-art AI/ML techniques on interesting and high-impact interdisciplinary research. The combination of AI/ML, math/statistics and a wide variety of domain expertise provide fresh insights and countless new paths of discovery.
+
+I've also long been interested in bringing diverse voices to urgent debates surrounding technology’s growing impact on society. For most of the last decade I've been developing a humanity-first approach to integrate STEM and non-STEM study alike. Each informs the other and hopefully together can provide a more ethical, practical and beneficial use of technology for all humanity.
+
+Computational Digital Humanities grounded in AI/ML is the organizing principle of both our research and our curriculum. This approach is designed to brige the gap between technology and humanity. The goal is to enable the collective wisdom of humanity to intentionally guide future technological development for the benefit of humanity.
+
+## **Human-First AI Curriculum**
+---
+At Kenyon College, I co-founded the world’s first human-centric AI curriculum. I am sole technical advisor and content creator. Over the last six years teaching this curriculum, we have achieved the following milestones:
+
+• Produced research in top publications and conferences (Cambridge Press, Narrative, etc)
+
+• Organically grown (no marketing/PR) to ~15k hits from top Universities worldwide (#4 CMU, #5 Berkeley, #6 Stanford, #7 Columbia, #9 NYU, #16 Princeton, #22 Oxford, #23 MIT, #25 Cambridge, etc)
+
+• Diversity: Grew from 18% to 61% Female with URM participation rates at or above college averages. Our classes are majority non-STEM, reaching out to many students who otherwise feel alienated by traditional CS study.
+
+• Achieved enrollment growth from 20 to 120 (one of the largest classes at Kenyon)
+
+• Curated a set of fully open-source, best-of-breed tools with no budget required for software, hardware or technical support
+
+Our interdisciplinary AI DH research has been published in top presses, journals and conferences. We have also mentored hundreds of ML/AI DH projects that synthesize Artificial Intelligence with literature, history, political science, art, dance, music, law, medicine, economics and other subjects. Various sample AI DH projects are given below.
 
 ## **Research**
 ---
 * Google Scholar: [jonchun2000](https://scholar.google.com/citations?user=l-iUHQMAAAAJ&hl=en)
 * Academia.edu: [kenyon.academia.edu/jchun](https://kenyon.academia.edu/jchun)
 
-## **Code**
+## **Code, Products and Patents**
 ---
 * SentimentArcs: [Github Repo](https://github.com/jon-chun/sentimentarcs_notebooks)
 * GitHub: [jon-chun](https://github.com/jon-chun)
+* SafeWeb: [SEA Tsunami Products/Patents](https://drive.google.com/drive/folders/1ZhQzKM5i6ZnHGmhTphs6Vq2uBTw4jchx?usp=sharing)
 
 ## **AI/ML Digital Humanities**
 ---
@@ -27,7 +54,7 @@
 
 ## **Mentored Research**
 ---
-#### **AI Digital Humanities in the Integrated Program for Humane Studies (2017-)**
+#### **Integrated Program for Humane Studies (2017-)**
 
 * **IPHS200 [Programming Humanity](https://digital.kenyon.edu/dh_iphs_prog/) (samples below)**
     - Poetry/GPT-3: [The GPT3 Re-Imagining of “Howl” By Allen Ginsberg: What Are The Strengths and Weaknesses of This Representation?](https://digital.kenyon.edu/dh_iphs_prog/30/)
