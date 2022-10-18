@@ -63,9 +63,15 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 [Back to Top](#ai-digital-humanities)
 
-![DHColab Whiteboard](images/dhcolab_whiteboard_20221005.jpg)
 ## **Mentored Research**
 ---
+
+<figure>
+<img src="images/dhcolab_whiteboard_20221005.jpg" alt="Trulli" style="width:80%">
+<figcaption align = "center"><i>Translating creative new insights in Literary Theory, Financial Forensics and the Latent Space of Generative Art Prompts into exploratory models.</i></figcaption>
+</figure>
+
+
 **Integrated Program for Humane Studies (2017-)**
 
 * **IPHS200 [Programming Humanity](https://digital.kenyon.edu/dh_iphs_prog/) (samples below)**
@@ -112,6 +118,13 @@ Our interdisciplinary AI DH research has been published in top presses, journals
   - Social Media/NLG with GPT-2: [GPT-2 Jomboy: Can AI produce exciting Baseball content?](https://digital.kenyon.edu/dh_iphs_ss/15/)
   - Art/Deep Neural Networks Generative Art: [An Artist's Guide to AI Art](https://digital.kenyon.edu/dh_iphs_ss/3/)
   - Economics/Time Series Anamaly Detection: [Analyzing Pump and Dump Schemes](https://digital.kenyon.edu/dh_iphs_ss/14/)
+
+
+<figure>
+<img src="images/slide_iphs200_3models.jpg" alt="Trulli" style="width:80%">
+<figcaption align = "center"><i>The virtual cycle and collaborative feedback between 3 models that fuel innovative interdiscipinary teams</i></figcaption>
+</figure>
+
 
 [Back to Top](#ai-digital-humanities)
 
