@@ -1,22 +1,19 @@
-# **AI Digital Humanities** 
+## AI Digital Humanities
 ![AI Digital Humanities](./images/kenyon_ai_dh_banner.png)
 
-## **Table of Contents**
-- [**AI Digital Humanities**](#ai-digital-humanities)
-  - [**Table of Contents**](#table-of-contents)
-  - [## **Interests**](#-interests)
-  - [## **A Human-First AI Curriculum**](#-a-human-first-ai-curriculum)
-  - [## **Research**](#-research)
-  - [## **Code, Products and Patents**](#-code-products-and-patents)
-  - [## **Kenyon AI Digital Humanities**](#-kenyon-ai-digital-humanities)
-  - [## **Social Media**](#-social-media)
-  - [## **Mentored Research**](#-mentored-research)
-      - [**Integrated Program for Humane Studies (2017-)**](#integrated-program-for-humane-studies-2017-)
-  - [## **Course Descriptions**](#-course-descriptions)
-      - [**Integrated Program for Humane Studies (2017-)**](#integrated-program-for-humane-studies-2017--1)
-      - [**Scientific Computing (2020-)**](#scientific-computing-2020-)
+## Table of Contents
+- [AI Digital Humanities](#ai-digital-humanities)
+- [Table of Contents](#table-of-contents)
+- [## Interests](#-interests)
+- [## A Human-First AI Curriculum](#-a-human-first-ai-curriculum)
+- [## Research](#-research)
+- [## Code, Products and Patents](#-code-products-and-patents)
+- [## Kenyon AI Digital Humanities](#-kenyon-ai-digital-humanities)
+- [## Social Media](#-social-media)
+- [## Mentored Research](#-mentored-research)
+- [## Course Descriptions](#-course-descriptions)
 
-## **Interests**
+## Interests
 ---
 
 I am focused on creatively applying the best of industry practices and state-of-the-art AI/ML techniques on interesting and high-impact interdisciplinary research. The combination of AI/ML, math/statistics and a wide variety of domain expertise provide fresh insights and countless new paths of discovery.
@@ -27,7 +24,7 @@ I've also long been interested in bringing diverse voices to urgent debates surr
 
 [Back to Contents](#table-of-contents)
 
-## **A Human-First AI Curriculum**
+## A Human-First AI Curriculum
 ---
 At Kenyon College, I co-founded the world’s first human-centric AI curriculum. I am sole technical advisor and content creator. Over the last six years teaching this curriculum, we have achieved the following milestones:
 
@@ -45,7 +42,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 
 [Back to Contents](#table-of-contents)
-## **Research**
+## Research
 ---
 * Google Scholar: [jonchun2000](https://scholar.google.com/citations?user=l-iUHQMAAAAJ&hl=en)
 * Academia.edu: [kenyon.academia.edu/jchun](https://kenyon.academia.edu/jchun)
@@ -53,7 +50,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 [Back to Contents](#table-of-contents)
 
-## **Code, Products and Patents**
+## Code, Products and Patents
 ---
 * SentimentArcs: [Github Repo](https://github.com/jon-chun/sentimentarcs_notebooks)
 * GitHub: [jon-chun](https://github.com/jon-chun)
@@ -61,7 +58,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 [Back to Contents](#table-of-contents)
 
-## **Kenyon AI Digital Humanities**
+## Kenyon AI Digital Humanities
 ---
 * [AI/ML Digital Huamanities Projects](https://digital.kenyon.edu/dh/)
 * [Kenyon Digital Colab](https://www.kenyon.edu/digital-humanities/kdh-colab/)
@@ -69,7 +66,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 [Back to Contents](#table-of-contents)
 
-## **Social Media**
+## Social Media
 ---
 * Twitter: [@jonchun2000](https://twitter.com/jonchun2000)
 * LinkedIn: [jonchun2000](https://www.linkedin.com/in/jonchun2000/)
@@ -77,9 +74,9 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 [Back to Contents](#table-of-contents)
 
-## **Mentored Research**
+## Mentored Research
 ---
-#### **Integrated Program for Humane Studies (2017-)**
+**Integrated Program for Humane Studies (2017-)**
 
 * **IPHS200 [Programming Humanity](https://digital.kenyon.edu/dh_iphs_prog/) (samples below)**
     - Poetry/GPT-3: [The GPT3 Re-Imagining of “Howl” By Allen Ginsberg: What Are The Strengths and Weaknesses of This Representation?](https://digital.kenyon.edu/dh_iphs_prog/30/)
@@ -127,9 +124,11 @@ Our interdisciplinary AI DH research has been published in top presses, journals
   - Economics/Time Series Anamaly Detection: [Analyzing Pump and Dump Schemes](https://digital.kenyon.edu/dh_iphs_ss/14/)
 
 [Back to Contents](#table-of-contents)
-## **Course Descriptions**
+
+
+## Course Descriptions
 ---
-#### **Integrated Program for Humane Studies (2017-)**
+**Integrated Program for Humane Studies (2017-)**
 * IPHS200 [Programming Humanity](https://programminghumanity.wordpress.com/)
 * IPHS290 [Cultural Analytics](https://jon-chun.github.io/cultural-analytics/)
     - (New Fall 2022) Projects Upcoming
@@ -137,7 +136,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 * IPHS494 Senior Seminar Research Projects
 * IPHS Independent Study Research
 
-#### **Scientific Computing (2020-)**
+**Scientific Computing (2020-)**
 
 * SciComp Senior Seminar/Research
   - Noisy Time Series Filtering, Smoothing and Feature Detection
