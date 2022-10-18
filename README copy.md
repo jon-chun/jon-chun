@@ -1,9 +1,20 @@
-## **AI Digital Humanities**
+## AI Digital Humanities
 
 ![AI Digital Humanities](./images/kenyon_ai_dh_banner.png)
 
+## Table of Contents
+- [AI Digital Humanities](#ai-digital-humanities)
+- [Table of Contents](#table-of-contents)
+- [## Interests](#-interests)
+- [## A Human First AI Curriculum](#-a-human-first-ai-curriculum)
+- [## Research](#-research)
+- [## Code Products and Patents](#-code-products-and-patents)
+- [## Kenyon AI Digital Humanities](#-kenyon-ai-digital-humanities)
+- [## Social Media](#-social-media)
+- [## Mentored Research](#-mentored-research)
+- [## Course Descriptions](#-course-descriptions)
 
-## **Interests**
+## Interests
 ---
 I am focused on creatively applying the best of industry practices and state-of-the-art AI/ML techniques on interesting and high-impact interdisciplinary research. The combination of AI/ML, math/statistics and a wide variety of domain expertise provide fresh insights and countless new paths of discovery.
 
@@ -11,9 +22,9 @@ I've also long been interested in bringing diverse voices to urgent debates surr
 
  The organizing principle of both our research and our curriculum is computational Digital Humanities grounded in AI/ML. This approach is designed to brige the gap between technology and humanity. This integrated worldview will hopefully lead to a more ethical, practical and beneficial use of technology for all humanity.
 
-[Back to Top](#ai-digital-humanities)
+[Back to Contents](#table-of-contents)
 
-## **A Human-First AI Curriculum**
+## A Human First AI Curriculum
 ---
 At Kenyon College, I co-founded the world’s first human-centric AI curriculum. I am sole technical advisor and content creator. Over the last six years teaching this curriculum, we have achieved the following milestones:
 
@@ -30,40 +41,40 @@ At Kenyon College, I co-founded the world’s first human-centric AI curriculum.
 Our interdisciplinary AI DH research has been published in top presses, journals and conferences. We have also mentored hundreds of ML/AI DH projects that synthesize Artificial Intelligence with literature, history, political science, art, dance, music, law, medicine, economics and other subjects. Various sample AI DH projects are given below.
 
 
-[Back to Top](#ai-digital-humanities)
-## **Research**
+[Back to Contents](#table-of-contents)
+## Research
 ---
 * Google Scholar: [jonchun2000](https://scholar.google.com/citations?user=l-iUHQMAAAAJ&hl=en)
 * Academia.edu: [kenyon.academia.edu/jchun](https://kenyon.academia.edu/jchun)
 
 
-[Back to Top](#ai-digital-humanities)
+[Back to Contents](#table-of-contents)
 
-## **Code, Products and Patents**
+## Code Products and Patents
 ---
 * SentimentArcs: [Github Repo](https://github.com/jon-chun/sentimentarcs_notebooks)
 * GitHub: [jon-chun](https://github.com/jon-chun)
 * SafeWeb: [SEA Tsunami Products/Patents](https://drive.google.com/drive/folders/1ZhQzKM5i6ZnHGmhTphs6Vq2uBTw4jchx?usp=sharing)
 
-[Back to Top](#ai-digital-humanities)
+[Back to Contents](#table-of-contents)
 
-## **Kenyon AI Digital Humanities**
+## Kenyon AI Digital Humanities
 ---
 * [AI/ML Digital Huamanities Projects](https://digital.kenyon.edu/dh/)
 * [Kenyon Digital Colab](https://www.kenyon.edu/digital-humanities/kdh-colab/)
 * [Kenyon AI Digital Humanities](https://www.kenyon.edu/digital-humanities/)
 
-[Back to Top](#ai-digital-humanities)
+[Back to Contents](#table-of-contents)
 
-## **Social Media**
+## Social Media
 ---
 * Twitter: [@jonchun2000](https://twitter.com/jonchun2000)
 * LinkedIn: [jonchun2000](https://www.linkedin.com/in/jonchun2000/)
 * Instagram: [jonchun2000](https://www.instagram.com/jonchun2000/)
 
-[Back to Top](#ai-digital-humanities)
+[Back to Contents](#table-of-contents)
 
-## **Mentored Research**
+## Mentored Research
 ---
 **Integrated Program for Humane Studies (2017-)**
 
@@ -112,10 +123,10 @@ Our interdisciplinary AI DH research has been published in top presses, journals
   - Art/Deep Neural Networks Generative Art: [An Artist's Guide to AI Art](https://digital.kenyon.edu/dh_iphs_ss/3/)
   - Economics/Time Series Anamaly Detection: [Analyzing Pump and Dump Schemes](https://digital.kenyon.edu/dh_iphs_ss/14/)
 
-[Back to Top](#ai-digital-humanities)
+[Back to Contents](#table-of-contents)
 
 
-## **Course Descriptions**
+## Course Descriptions
 ---
 **Integrated Program for Humane Studies (2017-)**
 * IPHS200 [Programming Humanity](https://programminghumanity.wordpress.com/)
@@ -134,4 +145,4 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 * SciComp Independent Study
   - Industrial Revolution 4.0: [End-to-End Industrial IoT Preventative Maintenace](https://github.com/jon-chun/iiot-time-series-prediction-system)
 
-[Back to Top](#ai-digital-humanities)
+[Back to Contents](#table-of-contents)
