@@ -1,8 +1,12 @@
-## **AI Digital Humanities**
+# **AI Digital Humanities**
+---
+Jon A Chun
+
+<br></br>
 
 ![AI Digital Humanities](./images/kenyon_ai_dh_banner.png)
 
-
+<br></br>
 ## **Interests**
 ---
 I am focused on creatively applying the best of industry practices and state-of-the-art AI/ML techniques on interesting and high-impact interdisciplinary research. The combination of AI/ML, math/statistics and a wide variety of domain expertise provide fresh insights and countless new paths of discovery.
@@ -12,6 +16,8 @@ I've also long been interested in bringing diverse voices to urgent debates surr
  The organizing principle of both our research and our curriculum is computational Digital Humanities grounded in AI/ML. This approach is designed to bridge the gap between technology and humanity. This integrated worldview will hopefully lead to a more ethical, practical and beneficial use of technology for all humanity.
 
 [Back to Top](#ai-digital-humanities)
+
+<br></br>
 
 ## **A Human-First AI Curriculum**
 ---
@@ -31,6 +37,8 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 
 [Back to Top](#ai-digital-humanities)
+
+<br></br>
 ## **Research**
 ---
 * Google Scholar: [jonchun2000](https://scholar.google.com/citations?user=l-iUHQMAAAAJ&hl=en)
@@ -39,6 +47,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 [Back to Top](#ai-digital-humanities)
 
+<br></br>
 ## **Code, Products and Patents**
 ---
 * SentimentArcs: [Github Repo](https://github.com/jon-chun/sentimentarcs_notebooks)
@@ -46,6 +55,8 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 * SafeWeb: [SEA Tsunami Products/Patents](https://drive.google.com/drive/folders/1ZhQzKM5i6ZnHGmhTphs6Vq2uBTw4jchx?usp=sharing)
 
 [Back to Top](#ai-digital-humanities)
+
+<br></br>
 
 ## **Kenyon AI Digital Humanities**
 ---
@@ -55,6 +66,8 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 [Back to Top](#ai-digital-humanities)
 
+<br></br>
+
 ## **Social Media**
 ---
 * Twitter: [@jonchun2000](https://twitter.com/jonchun2000)
@@ -63,6 +76,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 [Back to Top](#ai-digital-humanities)
 
+<br></br>
 ## **Mentored Research**
 ---
 
@@ -71,10 +85,12 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 <figcaption align = "center"><i>Translating creative new insights in Literary Theory, Financial Forensics and the Latent Space of Generative Art Prompts into exploratory models.</i></figcaption>
 </figure>
 
+<br></br>
 
 **Integrated Program for Humane Studies (2017-)**
 
 * **IPHS200 [Programming Humanity](https://digital.kenyon.edu/dh_iphs_prog/) (samples below)**
+<br></br>
     - Poetry/GPT-3: [The GPT3 Re-Imagining of “Howl” By Allen Ginsberg: What Are The Strengths and Weaknesses of This Representation?](https://digital.kenyon.edu/dh_iphs_prog/30/)
     - Literature/GPT-2: [345M-GPT-2 After James Wright: Can AI Generate Convincing Contemporary Poetry?](https://digital.kenyon.edu/dh_iphs_prog/11/)
     - Environmental Studies/Bayesian Time Series Analysis: [Predicting Attitudes Toward the Environment Artificial Intelligence for the Humanities](https://digital.kenyon.edu/dh_iphs_ai/7/)
@@ -95,8 +111,12 @@ Our interdisciplinary AI DH research has been published in top presses, journals
     - Philosophy/NLG w/GPT-3 Prompt Engineering: [Prompt Engineering Tips for Generating Text on Cognitive Science and Philosophy of Mind](https://digital.kenyon.edu/dh_iphs_ai/34/)
     - Political Science/Social Media NLP Sentiment Analysis: [Consequences of Social Network Architecture: Analyzing Sentiment in Reddit Posts About Donald Trump](https://digital.kenyon.edu/dh_iphs_ai/31/)
     - Film/GPT-2: [https://digital.kenyon.edu/dh_iphs_prog/19/](https://digital.kenyon.edu/dh_iphs_prog/19/)
+<br></br>
+
 * **IPHS290 [Cultural Analytics](https://jon-chun.github.io/cultural-analytics/)**
     - (New Fall 2022) Projects Upcoming
+<br></br>
+
 * **IPHS300 [AI for the Humanities](https://digital.kenyon.edu/dh_iphs_ai/) (samples below)**
     - Jewish Studies/Information Science: [Taxonomy Techniques for Holocaust-Related Image Digitization and Text](https://digital.kenyon.edu/dh_iphs_prog/21/)
     - Law: [Synthetic Biology: Analyzing Trends in Intellectual Property Rights vs. Open Access to Research, 1989-2019](https://digital.kenyon.edu/dh_iphs_prog/5/)
@@ -110,6 +130,8 @@ Our interdisciplinary AI DH research has been published in top presses, journals
     - Literature/NLP Sentiment Analysis: [Five Books, Same Story: Understanding Percy Jackson through Sentiment Analysis](https://digital.kenyon.edu/dh_iphs_prog/43/)
     - Political Science/Data Science: [2020 Election Fraud: What Can Twitter Teach Us?](https://digital.kenyon.edu/dh_iphs_prog/31/)
     - Literature/NLP Sentiment Analysis: [Jane AI-sten: What is Sentiment Analysis’s Connection to Best-Selling Literature?](https://digital.kenyon.edu/dh_iphs_prog/44/)
+<br></br>
+
 * **IPHS484 [Senior Seminar/Research](https://digital.kenyon.edu/dh_iphs_ss/) (samples below)**
   - Sociology/NLG with GPT-2 vs GPT-3: [Black Box Karl Marx: What do large language models have to say about Das Kapital? A Comparison of GPT-2 and GPT-3 Outputs](https://digital.kenyon.edu/dh_iphs_ai/32/)
   - Fiction Narrative/NLP Sentiment Analysis: [Adapted Arcs: Sentiment Analysis and The Sorcerer’s Stone](https://digital.kenyon.edu/dh_iphs_ss/1/)
@@ -126,18 +148,24 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 </figure>
 
 
+
 [Back to Top](#ai-digital-humanities)
 
+<br></br>
 
 ## **Course Descriptions**
 ---
+<br></br>
 **Integrated Program for Humane Studies (2017-)**
+
 * IPHS200 [Programming Humanity](https://programminghumanity.wordpress.com/)
 * IPHS290 [Cultural Analytics](https://jon-chun.github.io/cultural-analytics/)
     - (New Fall 2022) Projects Upcoming
 * IPHS300 [AI for the Humanities](https://aiforthehumanities.wordpress.com/) (samples)
 * IPHS494 Senior Seminar Research Projects
 * IPHS Independent Study Research
+
+<br></br>
 
 **Scientific Computing (2020-)**
 
@@ -149,3 +177,10 @@ Our interdisciplinary AI DH research has been published in top presses, journals
   - Industrial Revolution 4.0: [End-to-End Industrial IoT Preventative Maintenace](https://github.com/jon-chun/iiot-time-series-prediction-system)
 
 [Back to Top](#ai-digital-humanities)
+
+<br></br>
+
+<figure>
+<img src="images/logo_tilt5_kenyon_dh_colab.png" alt="Trulli" style="width:80%">
+<figcaption align = "center"><i><b>Kenyon DHColab</b><br>(Kenyon Digital Humanities Colab)</i></figcaption>
+</figure>
