@@ -9,17 +9,17 @@ I am focused on creatively applying the best of industry practices and state-of-
 
 I've also long been interested in bringing diverse voices to urgent debates surrounding technology’s growing impact on society. For most of the last decade I've been developing a humanity-first approach to integrate STEM and non-STEM study alike. 
 
- The organizing principle of both our research and our curriculum is computational Digital Humanities grounded in AI/ML. This approach is designed to brige the gap between technology and humanity. This integrated worldview will hopefully lead to a more ethical, practical and beneficial use of technology for all humanity.
+ The organizing principle of both our research and our curriculum is computational Digital Humanities grounded in AI/ML. This approach is designed to bridge the gap between technology and humanity. This integrated worldview will hopefully lead to a more ethical, practical and beneficial use of technology for all humanity.
 
 [Back to Top](#ai-digital-humanities)
 
 ## **A Human-First AI Curriculum**
 ---
-At Kenyon College, I co-founded the world’s first human-centric AI curriculum. I am sole technical advisor and content creator. Over the last six years teaching this curriculum, we have achieved the following milestones:
+At Kenyon College, I co-founded the world’s first human-centric AI curriculum. I am sole technical advisor and the primary collaborative content creator. Over the last six years teaching this curriculum, we have achieved the following milestones:
 
-• Produced research in top publications and conferences (Cambridge Press, Narrative, etc)
+• Produced research in top publications and conferences (Cambridge UP, Narrative, Journal of Cultural Analytics, etc)
 
-• Organically grown (no marketing/PR) to ~15k hits from top Universities worldwide (#4 CMU, #5 Berkeley, #6 Stanford, #7 Columbia, #9 NYU, #16 Princeton, #22 Oxford, #23 MIT, #25 Cambridge, etc)
+• Organically grew (no marketing/PR) to ~15k hits from top universities worldwide (#4 CMU, #5 Berkeley, #6 Stanford, #7 Columbia, #9 NYU, #16 Princeton, #22 Oxford, #23 MIT, #25 Cambridge, etc)
 
 • Diversity: Grew from 18% to 61% Female with URM participation rates at or above college averages. Our classes are majority non-STEM, reaching out to many students who otherwise feel alienated by traditional CS study.
 
@@ -27,7 +27,7 @@ At Kenyon College, I co-founded the world’s first human-centric AI curriculum.
 
 • Curated a set of fully open-source, best-of-breed tools with no budget required for software, hardware or technical support
 
-Our interdisciplinary AI DH research has been published in top presses, journals and conferences. We have also mentored hundreds of ML/AI DH projects that synthesize Artificial Intelligence with literature, history, political science, art, dance, music, law, medicine, economics and other subjects. Various sample AI DH projects are given below.
+Our interdisciplinary AI DH research has been published in top presses, journals and conferences. We have also mentored hundreds of ML/AI DH projects that synthesize Artificial Intelligence with literature, history, political science, art, dance, music, law, medicine, economics and more. Various sample AI DH projects are given below.
 
 
 [Back to Top](#ai-digital-humanities)
@@ -63,6 +63,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 [Back to Top](#ai-digital-humanities)
 
+![DHColab Whiteboard](images/dhcolab_whiteboard_20221005.jpg)
 ## **Mentored Research**
 ---
 **Integrated Program for Humane Studies (2017-)**
