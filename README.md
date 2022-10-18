@@ -82,7 +82,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 <figure>
 <img src="images/dhcolab_whiteboard_20221005.jpg" alt="Trulli" style="width:80%">
-<figcaption align = "center"><i>Translating creative new insights in Literary Theory, Financial Forensics and the Latent Space of Generative Art Prompts into exploratory models.</i></figcaption>
+<figcaption align = "center"><i>Brainstorming session to translate creative new insights in (a) Literary Theory, (b) Financial Forensics and (c) the Latent Space of Generative Art Prompts into exploratory and testable models.</i></figcaption>
 </figure>
 
 <br></br>
@@ -144,7 +144,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 <figure>
 <img src="images/slide_iphs200_3models.jpg" alt="Trulli" style="width:80%">
-<figcaption align = "center"><i>The virtual cycle and collaborative feedback between 3 models that fuel innovative interdiscipinary teams</i></figcaption>
+<figcaption align = "center"><i>The virtuous cycle and collaborative tension between 3 models that fuel innovative our interdiscipinary teams</i></figcaption>
 </figure>
 
 
