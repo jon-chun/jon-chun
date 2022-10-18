@@ -1,19 +1,33 @@
 # **AI Digital Humanities** 
 ![AI Digital Humanities](./images/kenyon_ai_dh_banner.png)
 
+## **Table of Contents**
+- [**AI Digital Humanities**](#ai-digital-humanities)
+  - [**Table of Contents**](#table-of-contents)
+  - [## **Interests**](#-interests)
+  - [## **A Human-First AI Curriculum**](#-a-human-first-ai-curriculum)
+  - [## **Research**](#-research)
+  - [## **Code, Products and Patents**](#-code-products-and-patents)
+  - [## **Kenyon AI Digital Humanities**](#-kenyon-ai-digital-humanities)
+  - [## **Social Media**](#-social-media)
+  - [## **Mentored Research**](#-mentored-research)
+      - [**Integrated Program for Humane Studies (2017-)**](#integrated-program-for-humane-studies-2017-)
+  - [## **Course Descriptions**](#-course-descriptions)
+      - [**Integrated Program for Humane Studies (2017-)**](#integrated-program-for-humane-studies-2017--1)
+      - [**Scientific Computing (2020-)**](#scientific-computing-2020-)
 
-
-
-## **My Interests**
+## **Interests**
 ---
 
 I am focused on creatively applying the best of industry practices and state-of-the-art AI/ML techniques on interesting and high-impact interdisciplinary research. The combination of AI/ML, math/statistics and a wide variety of domain expertise provide fresh insights and countless new paths of discovery.
 
-I've also long been interested in bringing diverse voices to urgent debates surrounding technology’s growing impact on society. For most of the last decade I've been developing a humanity-first approach to integrate STEM and non-STEM study alike. Each informs the other and hopefully together can provide a more ethical, practical and beneficial use of technology for all humanity.
+I've also long been interested in bringing diverse voices to urgent debates surrounding technology’s growing impact on society. For most of the last decade I've been developing a humanity-first approach to integrate STEM and non-STEM study alike. 
 
-Computational Digital Humanities grounded in AI/ML is the organizing principle of both our research and our curriculum. This approach is designed to brige the gap between technology and humanity. The goal is to enable the collective wisdom of humanity to intentionally guide future technological development for the benefit of humanity.
+ The organizing principle of both our research and our curriculum is computational Digital Humanities grounded in AI/ML. This approach is designed to brige the gap between technology and humanity. This integrated worldview will hopefully lead to a more ethical, practical and beneficial use of technology for all humanity.
 
-## **Human-First AI Curriculum**
+[Back to Contents](#table-of-contents)
+
+## **A Human-First AI Curriculum**
 ---
 At Kenyon College, I co-founded the world’s first human-centric AI curriculum. I am sole technical advisor and content creator. Over the last six years teaching this curriculum, we have achieved the following milestones:
 
@@ -29,10 +43,15 @@ At Kenyon College, I co-founded the world’s first human-centric AI curriculum.
 
 Our interdisciplinary AI DH research has been published in top presses, journals and conferences. We have also mentored hundreds of ML/AI DH projects that synthesize Artificial Intelligence with literature, history, political science, art, dance, music, law, medicine, economics and other subjects. Various sample AI DH projects are given below.
 
+
+[Back to Contents](#table-of-contents)
 ## **Research**
 ---
 * Google Scholar: [jonchun2000](https://scholar.google.com/citations?user=l-iUHQMAAAAJ&hl=en)
 * Academia.edu: [kenyon.academia.edu/jchun](https://kenyon.academia.edu/jchun)
+
+
+[Back to Contents](#table-of-contents)
 
 ## **Code, Products and Patents**
 ---
@@ -40,17 +59,23 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 * GitHub: [jon-chun](https://github.com/jon-chun)
 * SafeWeb: [SEA Tsunami Products/Patents](https://drive.google.com/drive/folders/1ZhQzKM5i6ZnHGmhTphs6Vq2uBTw4jchx?usp=sharing)
 
-## **AI/ML Digital Humanities**
+[Back to Contents](#table-of-contents)
+
+## **Kenyon AI Digital Humanities**
 ---
 * [AI/ML Digital Huamanities Projects](https://digital.kenyon.edu/dh/)
 * [Kenyon Digital Colab](https://www.kenyon.edu/digital-humanities/kdh-colab/)
 * [Kenyon AI Digital Humanities](https://www.kenyon.edu/digital-humanities/)
+
+[Back to Contents](#table-of-contents)
 
 ## **Social Media**
 ---
 * Twitter: [@jonchun2000](https://twitter.com/jonchun2000)
 * LinkedIn: [jonchun2000](https://www.linkedin.com/in/jonchun2000/)
 * Instagram: [jonchun2000](https://www.instagram.com/jonchun2000/)
+
+[Back to Contents](#table-of-contents)
 
 ## **Mentored Research**
 ---
@@ -101,7 +126,8 @@ Our interdisciplinary AI DH research has been published in top presses, journals
   - Art/Deep Neural Networks Generative Art: [An Artist's Guide to AI Art](https://digital.kenyon.edu/dh_iphs_ss/3/)
   - Economics/Time Series Anamaly Detection: [Analyzing Pump and Dump Schemes](https://digital.kenyon.edu/dh_iphs_ss/14/)
 
-## **Human-Centered AI/ML Curriculum**
+[Back to Contents](#table-of-contents)
+## **Course Descriptions**
 ---
 #### **Integrated Program for Humane Studies (2017-)**
 * IPHS200 [Programming Humanity](https://programminghumanity.wordpress.com/)
@@ -110,6 +136,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 * IPHS300 [AI for the Humanities](https://aiforthehumanities.wordpress.com/) (samples)
 * IPHS494 Senior Seminar Research Projects
 * IPHS Independent Study Research
+
 #### **Scientific Computing (2020-)**
 
 * SciComp Senior Seminar/Research
@@ -118,3 +145,5 @@ Our interdisciplinary AI DH research has been published in top presses, journals
   - Diachronic Sentiment Analysis Central Bank Speeches using SentimentArcs
 * SciComp Independent Study
   - Industrial Revolution 4.0: [End-to-End Industrial IoT Preventative Maintenace](https://github.com/jon-chun/iiot-time-series-prediction-system)
+
+[Back to Contents](#table-of-contents)
