@@ -81,7 +81,9 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 ---
 
 <figure>
+<center>
 <img src="images/dhcolab_whiteboard_20221005.jpg" alt="Trulli" style="width:80%">
+</center>
 <figcaption align = "center"><i>Brainstorming to translate new insights in (a) Literary Theory, (b) Financial Forensics and (c) the Latent Space of Generative Art Prompts into testable models.</i></figcaption>
 </figure>
 
@@ -143,7 +145,9 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 
 <figure>
+<center>
 <img src="images/slide_iphs200_3models.jpg" alt="Trulli" style="width:80%">
+</center>
 <figcaption align = "center"><i>The virtuous cycle, feedback and tension between the 3 models that fuel interdisciplinary innovation.</i></figcaption>
 </figure>
 
@@ -181,6 +185,8 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 <br></br>
 
 <figure>
-<img src="images/logo_tilt5_kenyon_dh_colab.png" alt="Trulli" style="width:80%">
+<center>
+<img src="images/logo_tilt5_kenyon_dh_colab.png" alt="Trulli" style="width:40%">
+</center>
 <figcaption align = "center"><i><b>Kenyon DHColab</b><br>(Kenyon Digital Humanities Colab)</i></figcaption>
 </figure>
