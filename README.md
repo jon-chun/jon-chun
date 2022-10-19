@@ -21,6 +21,16 @@ I've also long been interested in bringing diverse voices to urgent debates surr
 
 ## **A Human-First AI Curriculum**
 ---
+
+<figure>
+<center>
+<img src="images/screen_kenyon_dh_analytics0.png" alt="Trulli" style="width:100%">
+</center>
+<figcaption align = "center"><i>Top 10 Institutions reading our AI Projects in 2022:<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
+</figure>
+
+<br></br>
+
 At Kenyon College, I co-founded the world’s first human-centric AI curriculum. I am sole technical advisor and the primary collaborative content creator. Over the last six years teaching this curriculum, we have achieved the following milestones:
 
 • Produced research in top publications and conferences (Cambridge UP, Narrative, Journal of Cultural Analytics, etc)
@@ -35,6 +45,16 @@ At Kenyon College, I co-founded the world’s first human-centric AI curriculum.
 
 Our interdisciplinary AI DH research has been published in top presses, journals and conferences. We have also mentored hundreds of ML/AI DH projects that synthesize Artificial Intelligence with literature, history, political science, art, dance, music, law, medicine, economics and more. Various sample AI DH projects are given below.
 
+<br></br>
+
+<figure>
+<center>
+<img src="images/screen_kenyon_dh_analytics2.png" alt="Trulli" style="width:100%">
+</center>
+<figcaption align = "center"><i>More Top 20 Institutions reading our AI Projects in 2022:<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
+</figure>
+
+<br></br>
 
 [Back to Top](#ai-digital-humanities)
 
