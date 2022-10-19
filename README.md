@@ -179,10 +179,9 @@ Our interdisciplinary AI DH research has been published in top presses, journals
     - Africa Geopolitical, Economic, & Military Analysis 
     - AI Script Writing
     - Global Arms Trade
+    - Narrative Analysis
     - Medical Economics and Performance
     - Fragile Global Supply Chains
-    - etc
-  
 <br></br>
 
 * **IPHS300 [AI for the Humanities](https://digital.kenyon.edu/dh_iphs_ai/) (samples below)**
