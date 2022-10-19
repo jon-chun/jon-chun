@@ -178,7 +178,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
     - Medical Narratives
     - Africa Geopolitical, Economic, & Military Analysis 
     - AI Script Writing
-    - Racial Identity
+    - Global Arms Trade
     - Medical Economics and Performance
     - Fragile Global Supply Chains
     - etc
