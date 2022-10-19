@@ -173,15 +173,15 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 <br></br>
 
 * **IPHS290 [Cultural Analytics](https://jon-chun.github.io/cultural-analytics/) (New Fall 2022)**
-    - **Upcoming Projects:**
+    - **Upcoming Projects:** (Intentionally vague for now)
     - Multi/Racial Identity
     - Medical Narratives
-    - Africa Geopolitical, Economic, & Military Analysis 
+    - African Geopolitical, Economic, & Military Analysis 
     - AI Script Writing
     - Global Arms Trade
-    - Narrative Analysis
+    - Narrative Close Readings
     - Medical Economics and Performance
-    - Fragile Global Supply Chains
+    - Global Supply Chain Analysis
 <br></br>
 
 * **IPHS300 [AI for the Humanities](https://digital.kenyon.edu/dh_iphs_ai/) (samples below)**
