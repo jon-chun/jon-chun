@@ -15,6 +15,8 @@ I've also long been interested in bringing diverse voices to urgent debates surr
 
  The organizing principle of both our research and our curriculum is computational Digital Humanities grounded in AI/ML. This approach is designed to bridge the gap between technology and humanity. This integrated worldview will hopefully lead to a more ethical, practical and beneficial use of technology for all humanity.
 
+<br></br>
+
 [Back to Top](#ai-digital-humanities)
 
 <br></br>
@@ -25,9 +27,9 @@ I've also long been interested in bringing diverse voices to urgent debates surr
 <figure>
 <center>
 <img src="images/screen_kenyon_dh_analytics0.png" alt="Trulli" style="width:80%">
-
-<figcaption align = "center"><i>Top 10 Institutions reading our AI DH Research in 2022:<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
 </center>
+<figcaption align = "center"><i>Top 10 Institutions reading our AI DH Research in 2022:<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
+
 </figure>
 
 <br></br>
@@ -55,6 +57,8 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 <figcaption align = "center"><i>More Top 20 Institutions reading our AI DH Research in 2022:<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
 </figure>
 
+<br></br>
+
 [Back to Top](#ai-digital-humanities)
 
 <br></br>
@@ -73,12 +77,13 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 <figcaption align = "center"><i>SentimentArcs is the open-source code for<br><a href="https://www.amazon.com/Stories-Elements-Digital-Literary-Studies/dp/1009270397">The Shapes of Stories</a></i> by Katherine Elkins<br>(Cambridge Press, Aug 2022)<br></figcaption>
 </figure>
 
+<br></br>
+
 [Back to Top](#ai-digital-humanities)
 
 <br></br>
 ## **Code, Products and Patents**
 ---
-<br></br>
 * SentimentArcs: [Github Repo](https://github.com/jon-chun/sentimentarcs_notebooks)
 * GitHub: [jon-chun](https://github.com/jon-chun)
 * SafeWeb: [SEA Tsunami Products](https://drive.google.com/drive/folders/1ZhQzKM5i6ZnHGmhTphs6Vq2uBTw4jchx?usp=sharing)
@@ -93,15 +98,14 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 <figcaption align = "center"><i>Block Diagram for <br><a href="https://github.com/jon-chun/sentimentarcs_notebooks">SentimentArcs Notebooks</a></i><br></figcaption>
 </figure>
 
+<br></br>
+
 [Back to Top](#ai-digital-humanities)
 
 <br></br>
 
 ## **Kenyon AI Digital Humanities**
 ---
-<br></br>
-
-
 * [AI/ML Digital Huamanities Projects](https://digital.kenyon.edu/dh/)
 * [Kenyon Digital Colab](https://www.kenyon.edu/digital-humanities/kdh-colab/)
 * [Kenyon AI Digital Humanities](https://www.kenyon.edu/digital-humanities/)
@@ -114,6 +118,8 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 </center>
 <figcaption align = "center"><i><b>Kenyon DHColab</b><br>(Kenyon Digital Humanities Colab)</i></figcaption>
 </figure>
+
+<br></br>
 
 [Back to Top](#ai-digital-humanities)
 
@@ -194,6 +200,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
   - Art/Deep Neural Networks Generative Art: [An Artist's Guide to AI Art](https://digital.kenyon.edu/dh_iphs_ss/3/)
   - Economics/Time Series Anamaly Detection: [Analyzing Pump and Dump Schemes](https://digital.kenyon.edu/dh_iphs_ss/14/)
 
+<br></br>
 
 [Back to Top](#ai-digital-humanities)
 
@@ -228,6 +235,8 @@ Our interdisciplinary AI DH research has been published in top presses, journals
   - Diachronic Sentiment Analysis Central Bank Speeches using SentimentArcs
 * SciComp Independent Study
   - Industrial Revolution 4.0: [End-to-End Industrial IoT Preventative Maintenace](https://github.com/jon-chun/iiot-time-series-prediction-system)
+
+<br></br>
 
 [Back to Top](#ai-digital-humanities)
 
