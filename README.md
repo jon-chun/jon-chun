@@ -54,19 +54,14 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 <figcaption align = "center"><i>More Top 20 Institutions reading our AI DH Research in 2022:<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
 </figure>
 
-<br></br>
-
 [Back to Top](#ai-digital-humanities)
 
 <br></br>
 ## **Research**
 ---
-<br></br>
 
 * Google Scholar: [jonchun2000](https://scholar.google.com/citations?user=l-iUHQMAAAAJ&hl=en)
 * Academia.edu: [kenyon.academia.edu/jchun](https://kenyon.academia.edu/jchun)
-
-
 
 <br></br>
 
@@ -76,18 +71,6 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 </center>
 <figcaption align = "center"><i>SentimentArcs is the open-source code for<br><a href="https://www.amazon.com/Stories-Elements-Digital-Literary-Studies/dp/1009270397">The Shapes of Stories</a></i> by Katherine Elkins<br>(Cambridge Press, Aug 2022)<br></figcaption>
 </figure>
-
-<br></br>
-
-
-<figure>
-<center>
-<img src="images/plot_sentimentarcs_sma_ensemble.png" alt="Trulli" style="width:80%">
-</center>
-<figcaption align = "center"><i><a href="https://arxiv.org/abs/2110.09454">SentimentArcs: A Novel Method for Self-Supervised Sentiment Analysis of Time Series Shows SOTA Transformers Can Struggle Finding Narrative Arcs</a><br>(Oct 2021)</i><br></figcaption>
-</figure>
-
-<br></br>
 
 [Back to Top](#ai-digital-humanities)
 
@@ -107,15 +90,6 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 <img src="images/fig_sentimentarcs_blocks.png" alt="Trulli" style="width:80%">
 </center>
 <figcaption align = "center"><i>Block Diagram for <br><a href="https://github.com/jon-chun/sentimentarcs_notebooks">SentimentArcs Notebooks</a></i><br></figcaption>
-</figure>
-
-<br></br>
-
-<figure>
-<center>
-<img src="images/sea_tsunami_5star_review_sc_magazine.png" alt="Trulli" style="width:80%">
-</center>
-<figcaption align = "center"><i>Whitepapers, patents and technical articles: <br><a href="https://drive.google.com/drive/folders/1ZhQzKM5i6ZnHGmhTphs6Vq2uBTw4jchx?usp=sharing">SafeWeb & Symantec</a></i><br></figcaption>
 </figure>
 
 [Back to Top](#ai-digital-humanities)
@@ -139,8 +113,6 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 </center>
 <figcaption align = "center"><i><b>Kenyon DHColab</b><br>(Kenyon Digital Humanities Colab)</i></figcaption>
 </figure>
-
-<br></br>
 
 [Back to Top](#ai-digital-humanities)
 
@@ -222,6 +194,12 @@ Our interdisciplinary AI DH research has been published in top presses, journals
   - Economics/Time Series Anamaly Detection: [Analyzing Pump and Dump Schemes](https://digital.kenyon.edu/dh_iphs_ss/14/)
 
 
+[Back to Top](#ai-digital-humanities)
+
+<br></br>
+
+## **Course Descriptions**
+---
 <figure>
 <center>
 <img src="images/slide_iphs200_3models.jpg" alt="Trulli" style="width:80%">
@@ -229,14 +207,6 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 <figcaption align = "center"><i>The virtuous cycle, feedback and tension between the 3 models that fuel our interdisciplinary innovation.</i></figcaption>
 </figure>
 
-
-
-[Back to Top](#ai-digital-humanities)
-
-<br></br>
-
-## **Course Descriptions**
----
 <br></br>
 **Integrated Program for Humane Studies (2017-)**
 
