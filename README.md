@@ -25,8 +25,9 @@ I've also long been interested in bringing diverse voices to urgent debates surr
 <figure>
 <center>
 <img src="images/screen_kenyon_dh_analytics0.png" alt="Trulli" style="width:80%">
-</center>
+
 <figcaption align = "center"><i>Top 10 Institutions reading our AI DH Research in 2022:<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
+</center>
 </figure>
 
 <br></br>
