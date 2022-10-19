@@ -94,7 +94,12 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 <br></br>
 ## **Code, Products and Patents**
 ---
-
+<br></br>
+* SentimentArcs: [Github Repo](https://github.com/jon-chun/sentimentarcs_notebooks)
+* GitHub: [jon-chun](https://github.com/jon-chun)
+* SafeWeb: [SEA Tsunami Products](https://drive.google.com/drive/folders/1ZhQzKM5i6ZnHGmhTphs6Vq2uBTw4jchx?usp=sharing)
+* Patents: [SEA Tsumani](https://drive.google.com/drive/folders/15UPcgB-SfwiUBers10c3qpMAB_bF0BJL?usp=sharing)
+  
 <br></br>
 
 <figure>
@@ -103,12 +108,6 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 </center>
 <figcaption align = "center"><i>Block Diagram for <br><a href="https://github.com/jon-chun/sentimentarcs_notebooks">SentimentArcs Notebooks</a></i><br></figcaption>
 </figure>
-
-<br></br>
-* SentimentArcs: [Github Repo](https://github.com/jon-chun/sentimentarcs_notebooks)
-* GitHub: [jon-chun](https://github.com/jon-chun)
-* SafeWeb: [SEA Tsunami Products](https://drive.google.com/drive/folders/1ZhQzKM5i6ZnHGmhTphs6Vq2uBTw4jchx?usp=sharing)
-* Patents: [SEA Tsumani](https://drive.google.com/drive/folders/15UPcgB-SfwiUBers10c3qpMAB_bF0BJL?usp=sharing)
 
 <br></br>
 
@@ -127,6 +126,13 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 ---
 <br></br>
 
+
+* [AI/ML Digital Huamanities Projects](https://digital.kenyon.edu/dh/)
+* [Kenyon Digital Colab](https://www.kenyon.edu/digital-humanities/kdh-colab/)
+* [Kenyon AI Digital Humanities](https://www.kenyon.edu/digital-humanities/)
+
+<br></br>
+
 <figure>
 <center>
 <img src="images/logo_tilt5_kenyon_dh_colab.png" alt="Trulli" style="width:40%">
@@ -135,10 +141,6 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 </figure>
 
 <br></br>
-
-* [AI/ML Digital Huamanities Projects](https://digital.kenyon.edu/dh/)
-* [Kenyon Digital Colab](https://www.kenyon.edu/digital-humanities/kdh-colab/)
-* [Kenyon AI Digital Humanities](https://www.kenyon.edu/digital-humanities/)
 
 [Back to Top](#ai-digital-humanities)
 
