@@ -172,8 +172,8 @@ Our interdisciplinary AI DH research has been published in top presses, journals
     - Film/GPT-2: [https://digital.kenyon.edu/dh_iphs_prog/19/](https://digital.kenyon.edu/dh_iphs_prog/19/)
 <br></br>
 
-* **IPHS290 [Cultural Analytics](https://jon-chun.github.io/cultural-analytics/)**
-    - (New Fall 2022) Projects Upcoming
+* **IPHS290 [Cultural Analytics](https://jon-chun.github.io/cultural-analytics/) (New Fall 2022)**
+    - **Upcoming Projects:**
     - Multi/Racial Identity
     - Medical Narratives
     - Africa Geopolitical, Economic, & Military Analysis 
