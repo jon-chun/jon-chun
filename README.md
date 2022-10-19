@@ -26,7 +26,7 @@ I've also long been interested in bringing diverse voices to urgent debates surr
 <center>
 <img src="images/screen_kenyon_dh_analytics0.png" alt="Trulli" style="width:80%">
 </center>
-<figcaption align = "center"><i>Top 10 Institutions reading our AI Projects in 2022:<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
+<figcaption align = "center"><i>Top 10 Institutions reading our AI DH Research in 2022:<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
 </figure>
 
 <br></br>
@@ -51,7 +51,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 <center>
 <img src="images/screen_kenyon_dh_analytics2.png" alt="Trulli" style="width:80%">
 </center>
-<figcaption align = "center"><i>More Top 20 Institutions reading our AI Projects in 2022:<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
+<figcaption align = "center"><i>More Top 20 Institutions reading our AI DH Research in 2022:<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
 </figure>
 
 <br></br>
@@ -61,6 +61,12 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 <br></br>
 ## **Research**
 ---
+<br></br>
+
+* Google Scholar: [jonchun2000](https://scholar.google.com/citations?user=l-iUHQMAAAAJ&hl=en)
+* Academia.edu: [kenyon.academia.edu/jchun](https://kenyon.academia.edu/jchun)
+
+
 
 <br></br>
 
@@ -73,11 +79,6 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 <br></br>
 
-* Google Scholar: [jonchun2000](https://scholar.google.com/citations?user=l-iUHQMAAAAJ&hl=en)
-* Academia.edu: [kenyon.academia.edu/jchun](https://kenyon.academia.edu/jchun)
-
-
-<br></br>
 
 <figure>
 <center>
