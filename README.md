@@ -13,21 +13,6 @@ I am focused on creatively applying the best of industry practices and state-of-
 
 I've also long been interested in bringing diverse voices to urgent debates surrounding technology’s growing impact on society. For most of the last decade I've been developing a humanity-first approach to integrate STEM and non-STEM into a coherent intellectual framework. 
 
-Here is a timeline behind the development of what we believe is the world's first humanity-first AI curriculum:
-
-* **1992-99**: The <a href="https://www.kenyon.edu/academics/departments-and-majors/integrated-program-in-humane-studies/">*Integrated Program for Humane Studies*</a> (IPHS, the oldest interdisciplinary program at Kenyon) established a computer lab in Timberlake House for DH scholarship under Director Michael Brint
-* **2002 Jul**: Katherine Elkins joined Kenyon and began mentoring traditional Digital Humanities projects (e.g. critiques of techology, websites, media, etc) in the IPHS program
-* **2003 May**: Launched product Symantec Clientless VPN appliance as Director of Development and relocated from Silicon Valley
-* **2005 Mar**: Proposed new humanity-centered AI Digital Humanities curriculum in conjunction with a multi-million <a href="https://philanthropynewsdigest.org/news/morgan-kauffman-foundations-launch-liberal-arts-entrepreneurship-initiative">Ewing Marion Kauffman Foundation</a> grant
-* **2015 Aug**: Formulated detailed interdisciplinary AI Digital Humanities curriculum after years of research and training
-* **2017 Mar**: Lead DH Kenyon Team at the <a href="https://hackoh5.ohio5.org/">HackOH5</a> Hackathon to explore challenges and opportunities in implementing computational Digital Humanities and effecting collaboration across disciplines
-* **2017 Aug**: Kenyon supports first <a href="https://digital.kenyon.edu/dh_iphs_prog/">'*Programming Humanity*'</a> course co-taught with a Humanities and Comparative Literature professor.
-* **2018 Aug**: Kenyon adds first <a href="https://digital.kenyon.edu/dh_iphs_ai/">'*AI for the Humanities*'</a> course with a differentiated approach to GOFAI/ML through DNN, RL, and GA
-* **2018 Aug**: Katherine Elkins awarded multi-year <a href="https://www.kenyon.edu/offices-and-services/office-of-the-provost/recognition/neh-professorship/">National Endowment of the Humanities Distinguished Professorship</a> to continue developing a campus-wide Digital Humanities program to include every interested department
-* **2022 Jan**: Collaboration with <a href="https://cs.kenyon.edu/index.php/scmp-401-scientific-computing-seminar/">*Scientific Computing program at Kenyon*</a> mentoring several majors on interdisciplinary research  
-* **2022 Aug**: Kenyon offers first computational <a href="https://jon-chun.github.io/cultural-analytics/">'*Cultural Analytics*'</a> DH methodology course for Social Sciences and Humanities 
-* **2022 Aug**: First collaboration with local industry via <a href="https://github.com/jon-chun/iiot-time-series-prediction-system">'*Industrial IoT Independent Study*'</a> targeting technical reference implementation and strategic whitepaper
-
  The organizing principle of both our research and our curriculum is computational Digital Humanities grounded in AI/ML. This approach is designed to bridge the gap between technology and humanity. This integrated worldview will hopefully lead to a more ethical, practical and beneficial use of technology for all.
 
 <br></br>
@@ -40,6 +25,21 @@ Here is a timeline behind the development of what we believe is the world's firs
 
 * Google Scholar: [jonchun2000](https://scholar.google.com/citations?user=l-iUHQMAAAAJ&hl=en)
 * Academia.edu: [kenyon.academia.edu/jchun](https://kenyon.academia.edu/jchun)
+
+### **Recent Highlights**
+
+* (Upcoming) ""Exploring the Black Box: Narrative XAI", International Journal of Digital Humanities (IJDH) special issue "Reproducibility and Explainability in Digital Humanities"
+
+* Chun, Jon, and Katherine Elkins. <a href="https://muse.jhu.edu/article/846035">"What the Rise of AI Means for Narrative Studies: A Response to “Why Computers Will Never Read (or Write) Literature” by Angus Fletcher."</a> Narrative 30, no. 1 (2022): 104-113. doi:10.1353/nar.2022.0005.
+
+* Chun, Jon. <a href="https://arxiv.org/abs/2110.09454">"SentimentArcs: A Novel Method for Self-Supervised Sentiment Analysis of Time Series Shows SOTA Transformers Can Struggle Finding Narrative Arcs."</a> ArXiv abs/2110.09454 (2021): n. pag.
+  
+* Chun, Jon. <a href="https://www.youtube.com/watch?v=Ldb0vlCQXtQ&t=1s">AI Improv DivaBot</a> in collaboration with Katherine Elkins, James Dennen (Denison University and Wexner Arts), Lauren Katz (Thymele Arts, LA)
+
+* Elkins, Katherine, and Jon Chun. <a href="https://culturalanalytics.org/article/17212.pdf">"Can GPT-3 pass a Writer’s turing test?."</a> Journal of Cultural Analytics 5, no. 2 (2020): 17212.
+
+* <a href="https://static1.squarespace.com/static/60999fee5b063770b2d521dc/t/60aeacf2a50f8563ad437715/1622060276425/ConferenceProgram2020.pdf">Narrative 2020 Conference</a>, March 5-7 The Intercontinental Hotel, New Orleans
+  
 
 <br></br>
 
@@ -74,7 +74,22 @@ At Kenyon College, I co-founded the world’s first human-centric AI curriculum.
 
 • Curated a set of fully open-source, best-of-breed tools with no budget required for any software, new hardware or technical support
 
-Our interdisciplinary AI DH research has been published in top presses, journals and conferences. We have also mentored hundreds of ML/AI DH projects that synthesize Artificial Intelligence with literature, history, political science, art, dance, music, law, medicine, economics and more. Various sample AI DH projects are given below.
+Our interdisciplinary AI DH research has been published in top presses, journals and conferences. We have also mentored hundreds of ML/AI DH projects that synthesize Artificial Intelligence with literature, history, political science, art, dance, music, law, medicine, economics and more. Various sample AI DH projects are given at the bottom of this page.
+
+### **Timeline**
+
+* **1992-99**: The <a href="https://www.kenyon.edu/academics/departments-and-majors/integrated-program-in-humane-studies/">*Integrated Program for Humane Studies*</a> (IPHS, the oldest interdisciplinary program at Kenyon) established a computer lab in Timberlake House for DH scholarship under Director Michael Brint
+* **2002 Jul**: Katherine Elkins joined Kenyon and began mentoring traditional Digital Humanities projects (e.g. critiques of techology, websites, media, etc) in the IPHS program
+* **2003 May**: Launched product Symantec Clientless VPN appliance as Director of Development and relocated from Silicon Valley
+* **2005 Mar**: Proposed new humanity-centered AI Digital Humanities curriculum in conjunction with a multi-million <a href="https://philanthropynewsdigest.org/news/morgan-kauffman-foundations-launch-liberal-arts-entrepreneurship-initiative">Ewing Marion Kauffman Foundation</a> grant
+* **2015 Aug**: Formulated detailed interdisciplinary AI Digital Humanities curriculum after years of research and training
+* **2017 Mar**: Lead DH Kenyon Team at the <a href="https://hackoh5.ohio5.org/">HackOH5</a> Hackathon to explore challenges and opportunities in implementing computational Digital Humanities and effecting collaboration across disciplines
+* **2017 Aug**: Kenyon supports first <a href="https://digital.kenyon.edu/dh_iphs_prog/">'*Programming Humanity*'</a> course co-taught with a Humanities and Comparative Literature professor.
+* **2018 Aug**: Kenyon adds first <a href="https://digital.kenyon.edu/dh_iphs_ai/">'*AI for the Humanities*'</a> course with a differentiated approach to GOFAI/ML through DNN, RL, and GA
+* **2018 Aug**: Katherine Elkins awarded multi-year <a href="https://www.kenyon.edu/offices-and-services/office-of-the-provost/recognition/neh-professorship/">National Endowment of the Humanities Distinguished Professorship</a> to continue developing a campus-wide Digital Humanities program to include every interested department
+* **2022 Jan**: Collaboration with <a href="https://cs.kenyon.edu/index.php/scmp-401-scientific-computing-seminar/">*Scientific Computing program at Kenyon*</a> mentoring several majors on interdisciplinary research  
+* **2022 Aug**: Kenyon offers first computational <a href="https://jon-chun.github.io/cultural-analytics/">'*Cultural Analytics*'</a> DH methodology course for Social Sciences and Humanities 
+* **2022 Aug**: First collaboration with local industry via <a href="https://github.com/jon-chun/iiot-time-series-prediction-system">'*Industrial IoT Independent Study*'</a> targeting technical reference implementation and strategic whitepaper
 
 <br></br>
 
