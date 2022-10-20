@@ -1,10 +1,24 @@
 # **AI Digital Humanities**
 ---
-Jon A Chun
-
+Jon A Chun<br>
+Co-Founder, Kenyon DH Colab
 <br></br>
 
 ![AI Digital Humanities](./images/kenyon_ai_dh_banner.png)
+
+# **Contents**
+- [**Contents**](#contents)
+  - [## **Innovation in Higher Ed**](#-innovation-in-higher-ed)
+  - [## **Research**](#-research)
+    - [**Recent Highlights**](#recent-highlights)
+  - [## **A Human-First AI Curriculum**](#-a-human-first-ai-curriculum)
+    - [**Timeline**](#timeline)
+  - [## **Code, Products and Patents**](#-code-products-and-patents)
+  - [## **Kenyon AI Digital Humanities**](#-kenyon-ai-digital-humanities)
+  - [## **Social Media**](#-social-media)
+  - [## **Mentored Research**](#-mentored-research)
+  - [## **Course Descriptions**](#-course-descriptions)
+
 
 <br></br>
 ## **Innovation in Higher Ed**
@@ -38,7 +52,8 @@ I've also long been interested in bringing diverse voices to urgent debates surr
 
 * Elkins, Katherine, and Jon Chun. <a href="https://culturalanalytics.org/article/17212.pdf">"Can GPT-3 pass a Writer’s turing test?."</a> Journal of Cultural Analytics 5, no. 2 (2020): 17212.
 
-* <a href="https://static1.squarespace.com/static/60999fee5b063770b2d521dc/t/60aeacf2a50f8563ad437715/1622060276425/ConferenceProgram2020.pdf">Narrative 2020 Conference</a>, March 5-7 The Intercontinental Hotel, New Orleans
+* (Generated Narrative) <a href="https://static1.squarespace.com/static/60999fee5b063770b2d521dc/t/60aeacf2a50f8563ad437715/1622060276425/ConferenceProgram2020.pdf">How Artificial Intelligence Tells Stories: Natural Language Generation
+and Narrative</a>, Narrative 2020 Conference, March 5-7 The Intercontinental Hotel, New Orleans
   
 
 <br></br>
@@ -267,7 +282,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 <center>
 <img src="images/slide_iphs200_3models.jpg" alt="Trulli" style="width:80%">
 </center>
-<figcaption align = "center"><br><i>The virtuous cycle, feedback and tension between the 3 models that fuel our interdisciplinary innovation.</i></figcaption>
+<figcaption align = "center"><br><i>The virtuous cycle, feedback and tension between the 3 models <br>that fuel our interdisciplinary innovation.</i></figcaption>
 </figure>
 
 <br></br>
