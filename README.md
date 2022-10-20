@@ -97,7 +97,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 <center>
 <img src="images/iphs_ai_dh_stem.jpg" alt="Trulli" style="width:80%">
 </center>
-<figcaption align = "center"><i>A Humanity-First approach to AI Digital Humanities<br>consistently attracts over 90% non-STEM majors</a></i><br></figcaption>
+<figcaption align = "center"><br><i>A Humanity-First approach to AI Digital Humanities<br>consistently attracts over 90% non-STEM majors</a></i><br></figcaption>
 </figure>
 
 <br></br>
@@ -119,7 +119,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 <center>
 <img src="images/fig_sentimentarcs_blocks.png" alt="Trulli" style="width:80%">
 </center>
-<figcaption align = "center"><i>Block Diagram for <br><a href="https://github.com/jon-chun/sentimentarcs_notebooks">SentimentArcs Notebooks</a></i><br></figcaption>
+<figcaption align = "center"><br><i>Block Diagram for <br><a href="https://github.com/jon-chun/sentimentarcs_notebooks">SentimentArcs Notebooks</a></i><br></figcaption>
 </figure>
 
 <br></br>
@@ -172,7 +172,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 <center>
 <img src="images/logo_tilt5_kenyon_dh_colab.png" alt="Trulli" style="width:40%">
 </center>
-<figcaption align = "center"><i><b>Kenyon DHColab</b><br>(Kenyon AI Digital Humanities Colab)</i></figcaption>
+<figcaption align = "center"><br><i><b>Kenyon DHColab</b><br>(Kenyon AI Digital Humanities Colab)</i></figcaption>
 </figure>
 
 <br></br>
@@ -188,7 +188,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 <center>
 <img src="images/dhcolab_whiteboard_20221005.jpg" alt="Trulli" style="width:80%">
 </center>
-<figcaption align = "center"><i>Brainstorming to translate new theories into testable models for (a) Literary Analysis, (b) Financial Forensics and (c) the Latent Space of Generative Art Prompts.</i></figcaption>
+<figcaption align = "center"><br><i>Brainstorming to translate new theories into testable models for (a) Literary Analysis, (b) Financial Forensics and (c) the Latent Space of Generative Art Prompts.</i></figcaption>
 </figure>
 
 <br></br>
@@ -267,7 +267,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 <center>
 <img src="images/slide_iphs200_3models.jpg" alt="Trulli" style="width:80%">
 </center>
-<figcaption align = "center"><i>The virtuous cycle, feedback and tension between the 3 models that fuel our interdisciplinary innovation.</i></figcaption>
+<figcaption align = "center"><br><i>The virtuous cycle, feedback and tension between the 3 models that fuel our interdisciplinary innovation.</i></figcaption>
 </figure>
 
 <br></br>
