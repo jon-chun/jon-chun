@@ -71,6 +71,8 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 <figcaption align = "center"><i>More Top 20 Institutions reading our AI DH Research in 2022:<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
 </figure>
 
+<br></br>
+
 [Back to Top](#ai-digital-humanities)
 
 <br></br>
