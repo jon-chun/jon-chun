@@ -13,6 +13,21 @@ I am focused on creatively applying the best of industry practices and state-of-
 
 I've also long been interested in bringing diverse voices to urgent debates surrounding technology’s growing impact on society. For most of the last decade I've been developing a humanity-first approach to integrate STEM and non-STEM study alike. 
 
+Here is a timeline behind the development of what we believe is the world's first humanity-first AI curriculum:
+
+* **1992-99**: The <a href="https://www.kenyon.edu/academics/departments-and-majors/integrated-program-in-humane-studies/">*Integrated Program for Humane Studies*</a> (IPHS, the oldest interdisciplinary program at Kenyon) established a computer lab in Timberlake House for DH scholarship under Director Michael Brint
+* **2001 Aug**: Katherine Elkins joins Kenyon and begins mentoring traditional Digital Humanities projects (e.g. critiques of techology, websites, media, etc) in the IPHS program
+* **2003 May**: Resign as Director of Development for Clientless VPNs at Symantec and relocate from Silicon Valley
+* **2005 Mar**: I propose new humanity-centered AI Digital Humanities curriculum first in conjunction with a multi-million <a href="https://philanthropynewsdigest.org/news/morgan-kauffman-foundations-launch-liberal-arts-entrepreneurship-initiative">Ewing Marion Kauffman Foundation</a> grant
+* **2015 Aug**: I formulate detailed interdisciplinary AI Digital Humanities curriculum after years of research and training
+* **2017 Mar**: Lead DH Kenyon Team at the <a href="https://hackoh5.ohio5.org/">HackOH5</a> Hackathon to explore challenges and opportunities in implementing computational Digital Humanities and effecting collaboration across disciplines
+* **2017 Aug**: Kenyon supports first <a href="https://digital.kenyon.edu/dh_iphs_prog/">'*Programming Humanity*'</a> course co-taught with a Literary Scholar of Proust
+* **2018 Aug**: Kenyon adds first <a href="https://digital.kenyon.edu/dh_iphs_ai/">'*AI for the Humanities*'</a> course with a differentiated (including no/low-code) approach to GOFAI/ML through DNN, RL, and GA
+* **2018 Aug**: Katherine Elkins awarded multi-year <a href="https://www.kenyon.edu/offices-and-services/office-of-the-provost/recognition/neh-professorship/">National Endowment of the Humanities Distinguished Professorship</a> to continue developing a campus-wide Digital Humanities program meeting with every interested departments on campus
+* **2022 Jan**: Collaboration with <a href="https://cs.kenyon.edu/index.php/scmp-401-scientific-computing-seminar/">*Scientific Computing program at Kenyon*</a> mentoring several majors on interdisciplinary research  
+* **2022 Aug**: Kenyon offers first computational <a href="https://jon-chun.github.io/cultural-analytics/">'*Cultural Analytics*'</a> DH methodology course for Social Science and Humanities 
+* **2022 Aug**: First collaboration with local industry via <a href="https://github.com/jon-chun/iiot-time-series-prediction-system">'*Industrial IoT Independent Study*'</a> targeting technical reference implementation and strategic whitepaper
+
  The organizing principle of both our research and our curriculum is computational Digital Humanities grounded in AI/ML. This approach is designed to bridge the gap between technology and humanity. This integrated worldview will hopefully lead to a more ethical, practical and beneficial use of technology for all humanity.
 
 [Back to Top](#ai-digital-humanities)
@@ -37,13 +52,11 @@ I've also long been interested in bringing diverse voices to urgent debates surr
 <br></br>
 ## **A Human-First AI Curriculum**
 ---
-
 <figure>
 <center>
-<img src="images/screen_kenyon_dh_analytics0.png" alt="Trulli" style="width:80%">
+<img src="images/iphs_ai_dh_gender.jpg" alt="Trulli" style="width:80%">
 </center>
-<figcaption align = "center"><i>Top 10 Institutions reading our AI DH Research in 2022:<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
-
+<figcaption align = "center"><i>Evolution of AI Digital Humanities curriculum since<br>the 2017-2018 academic year</figcaption>
 </figure>
 
 <br></br>
@@ -66,12 +79,11 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 <figure>
 <center>
-<img src="images/screen_kenyon_dh_analytics2.png" alt="Trulli" style="width:80%">
+<img src="images/iphs_ai_dh_stem.jpg" alt="Trulli" style="width:80%">
 </center>
-<figcaption align = "center"><i>More Top 20 Institutions reading our AI DH Research in 2022:<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
+<figcaption align = "center"><i>Humanity-First AI Digital Humanities<br>consistently attracts over 90% non-STEM majors</a></i><br></figcaption>
 </figure>
 
-<br></br>
 
 [Back to Top](#ai-digital-humanities)
 
@@ -101,6 +113,16 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 ## **Kenyon AI Digital Humanities**
 ---
+<figure>
+<center>
+<img src="images/screen_kenyon_dh_analytics0.png" alt="Trulli" style="width:80%">
+</center>
+<figcaption align = "center"><i>Top 10 Institutions reading our AI DH Research in 2022:<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
+
+</figure>
+
+<br></br>
+
 * [AI/ML Digital Huamanities Projects](https://digital.kenyon.edu/dh/)
 * [Kenyon Digital Colab](https://www.kenyon.edu/digital-humanities/kdh-colab/)
 * [Kenyon AI Digital Humanities](https://www.kenyon.edu/digital-humanities/)
@@ -109,12 +131,13 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 <figure>
 <center>
-<img src="images/logo_tilt5_kenyon_dh_colab.png" alt="Trulli" style="width:40%">
+<img src="images/screen_kenyon_dh_analytics2.png" alt="Trulli" style="width:80%">
 </center>
-<figcaption align = "center"><i><b>Kenyon DHColab</b><br>(Kenyon Digital Humanities Colab)</i></figcaption>
+<figcaption align = "center"><i>More Top 20 Institutions reading our AI DH Research in 2022:<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
 </figure>
 
 <br></br>
+
 
 [Back to Top](#ai-digital-humanities)
 
@@ -126,9 +149,21 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 * LinkedIn: [jonchun2000](https://www.linkedin.com/in/jonchun2000/)
 * Instagram: [jonchun2000](https://www.instagram.com/jonchun2000/)
 
+<br></br>
+
+<figure>
+<center>
+<img src="images/logo_tilt5_kenyon_dh_colab.png" alt="Trulli" style="width:40%">
+</center>
+<figcaption align = "center"><i><b>Kenyon DHColab</b><br>(Kenyon AI Digital Humanities Colab)</i></figcaption>
+</figure>
+
+<br></br>
+
 [Back to Top](#ai-digital-humanities)
 
 <br></br>
+
 ## **Mentored Research**
 ---
 
