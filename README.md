@@ -7,7 +7,7 @@ Jon A Chun
 ![AI Digital Humanities](./images/kenyon_ai_dh_banner.png)
 
 <br></br>
-## **Innovation in Higher Edu**
+## **Innovation in Higher Ed**
 ---
 I am focused on creatively applying the best of industry practices and state-of-the-art AI/ML techniques on interesting and high-impact interdisciplinary research. The combination of AI/ML, math/statistics and a wide variety of domain expertise provide fresh insights and countless new paths of discovery.
 
@@ -71,31 +71,10 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 <figcaption align = "center"><i>More Top 20 Institutions reading our AI DH Research in 2022:<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
 </figure>
 
-<br></br>
-
 [Back to Top](#ai-digital-humanities)
 
 <br></br>
-## **Research**
----
 
-* Google Scholar: [jonchun2000](https://scholar.google.com/citations?user=l-iUHQMAAAAJ&hl=en)
-* Academia.edu: [kenyon.academia.edu/jchun](https://kenyon.academia.edu/jchun)
-
-<br></br>
-
-<figure>
-<center>
-<img src="images/banner_cambridge_elements_digital_literary_studies.jpg" alt="Trulli" style="width:80%">
-</center>
-<figcaption align = "center"><i>SentimentArcs is the open-source code for<br><a href="https://www.amazon.com/Stories-Elements-Digital-Literary-Studies/dp/1009270397">The Shapes of Stories</a></i> by Katherine Elkins<br>(Cambridge Press, Aug 2022)<br></figcaption>
-</figure>
-
-<br></br>
-
-[Back to Top](#ai-digital-humanities)
-
-<br></br>
 ## **Code, Products and Patents**
 ---
 * SentimentArcs: [Github Repo](https://github.com/jon-chun/sentimentarcs_notebooks)
