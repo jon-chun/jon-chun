@@ -182,7 +182,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 <figure>
 <center>
-<img src="images/icon_twitter.png" alt="Trulli" style="width:40%">
+<img src="images/icon_twitter.png" alt="Trulli" style="width:20%">
 </center>
 <figcaption align = "center"><br><i><b>@jonchun2000</b><br>Main Social Media Account</i></figcaption>
 </figure>
