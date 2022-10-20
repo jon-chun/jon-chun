@@ -1,4 +1,4 @@
-# **AI Digital Humanities**
+<h1><b>AI Digital Humanities</b></h1>
 ---
 Jon A Chun<br>
 Co-Founder, Kenyon DH Colab
@@ -6,22 +6,18 @@ Co-Founder, Kenyon DH Colab
 
 ![AI Digital Humanities](./images/kenyon_ai_dh_banner.png)
 
-# **Contents**
-- [**Contents**](#contents)
-  - [## **Innovation in Higher Ed**](#-innovation-in-higher-ed)
-  - [## **Research**](#-research)
-    - [**Recent Highlights**](#recent-highlights)
-  - [## **A Human-First AI Curriculum**](#-a-human-first-ai-curriculum)
-    - [**Timeline**](#timeline)
-  - [## **Code, Products and Patents**](#-code-products-and-patents)
-  - [## **Kenyon AI Digital Humanities**](#-kenyon-ai-digital-humanities)
-  - [## **Social Media**](#-social-media)
-  - [## **Mentored Research**](#-mentored-research)
-  - [## **Course Descriptions**](#-course-descriptions)
-
+**Contents**
+- [Innovation in Higher Ed](#innovation-in-higher-ed)
+- [Research](#research)
+- [A Human-First AI Curriculum](#a-human-first-ai-curriculum)
+- [Code, Products and Patents](#code-products-and-patents)
+- [Kenyon AI Digital Humanities](#kenyon-ai-digital-humanities)
+- [Social Media](#-social-media)
+- [Mentored Research](#mentored-research)
+- [Course Descriptions](#course-descriptions)
 
 <br></br>
-## **Innovation in Higher Ed**
+## Innovation in Higher Ed
 ---
 I am focused on creatively applying the best of industry practices and state-of-the-art AI/ML techniques on interesting and high-impact interdisciplinary research. The combination of AI/ML, math/statistics and a diversity of domain expertise provides fresh insights and countless new paths of discovery.
 
@@ -30,17 +26,18 @@ I've also long been interested in bringing diverse voices to urgent debates surr
  The organizing principle of both our research and our curriculum is computational Digital Humanities grounded in AI/ML. This approach is designed to bridge the gap between technology and humanity. This integrated worldview will hopefully lead to a more ethical, practical and beneficial use of technology for all.
 
 <br></br>
+
 [Back to Top](#ai-digital-humanities)
 
 <br></br>
 
-## **Research**
+## Research
 ---
 
 * Google Scholar: [jonchun2000](https://scholar.google.com/citations?user=l-iUHQMAAAAJ&hl=en)
 * Academia.edu: [kenyon.academia.edu/jchun](https://kenyon.academia.edu/jchun)
 
-### **Recent Highlights**
+<b>Recent Highlights</b>
 
 * (Upcoming) ""Exploring the Black Box: Narrative XAI", International Journal of Digital Humanities (IJDH) special issue "Reproducibility and Explainability in Digital Humanities"
 
@@ -53,7 +50,7 @@ I've also long been interested in bringing diverse voices to urgent debates surr
 * Elkins, Katherine, and Jon Chun. <a href="https://culturalanalytics.org/article/17212.pdf">"Can GPT-3 pass a Writer’s turing test?."</a> Journal of Cultural Analytics 5, no. 2 (2020): 17212.
 
 * (Generated Narrative) <a href="https://static1.squarespace.com/static/60999fee5b063770b2d521dc/t/60aeacf2a50f8563ad437715/1622060276425/ConferenceProgram2020.pdf">How Artificial Intelligence Tells Stories: Natural Language Generation
-and Narrative</a>, Narrative 2020 Conference, March 5-7 The Intercontinental Hotel, New Orleans
+and Narrative</a>, Narrative 2020 Conference (page 28), March 5-7 The Intercontinental Hotel, New Orleans
   
 
 <br></br>
@@ -66,7 +63,11 @@ and Narrative</a>, Narrative 2020 Conference, March 5-7 The Intercontinental Hot
 </figure>
 
 <br></br>
-## **A Human-First AI Curriculum**
+
+[Back to Top](#ai-digital-humanities)
+
+<br></br>
+## A Human-First AI Curriculum
 ---
 <figure>
 <center>
@@ -91,7 +92,7 @@ At Kenyon College, I co-founded the world’s first human-centric AI curriculum.
 
 Our interdisciplinary AI DH research has been published in top presses, journals and conferences. We have also mentored hundreds of ML/AI DH projects that synthesize Artificial Intelligence with literature, history, political science, art, dance, music, law, medicine, economics and more. Various sample AI DH projects are given at the bottom of this page.
 
-### **Timeline**
+<b>Timeline</b>
 
 * **1992-99**: The <a href="https://www.kenyon.edu/academics/departments-and-majors/integrated-program-in-humane-studies/">*Integrated Program for Humane Studies*</a> (IPHS, the oldest interdisciplinary program at Kenyon) established a computer lab in Timberlake House for DH scholarship under Director Michael Brint
 * **2002 Jul**: Katherine Elkins joined Kenyon and began mentoring traditional Digital Humanities projects (e.g. critiques of techology, websites, media, etc) in the IPHS program
@@ -121,7 +122,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 <br></br>
 
-## **Code, Products and Patents**
+## Code, Products and Patents
 ---
 * SentimentArcs: [Github Repo](https://github.com/jon-chun/sentimentarcs_notebooks)
 * GitHub: [jon-chun](https://github.com/jon-chun)
@@ -143,7 +144,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 <br></br>
 
-## **Kenyon AI Digital Humanities**
+## Kenyon AI Digital Humanities
 ---
 <figure>
 <center>
@@ -175,7 +176,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 <br></br>
 
-## **Social Media**
+## Social Media
 ---
 * Twitter: [@jonchun2000](https://twitter.com/jonchun2000)
 * LinkedIn: [jonchun2000](https://www.linkedin.com/in/jonchun2000/)
@@ -196,7 +197,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 <br></br>
 
-## **Mentored Research**
+## Mentored Research
 ---
 
 <figure>
@@ -208,9 +209,9 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 <br></br>
 
-**Integrated Program for Humane Studies (2017-)**
+<b>Integrated Program for Humane Studies (2017-)</b>
 
-* **IPHS200 [Programming Humanity](https://digital.kenyon.edu/dh_iphs_prog/) (samples below)**
+* <b>IPHS200 [Programming Humanity](https://digital.kenyon.edu/dh_iphs_prog/) (samples below)</b>
 
     - Poetry/GPT-3: [The GPT3 Re-Imagining of “Howl” By Allen Ginsberg: What Are The Strengths and Weaknesses of This Representation?](https://digital.kenyon.edu/dh_iphs_prog/30/)
     - Literature/GPT-2: [345M-GPT-2 After James Wright: Can AI Generate Convincing Contemporary Poetry?](https://digital.kenyon.edu/dh_iphs_prog/11/)
@@ -234,7 +235,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
     - Film/GPT-2: [https://digital.kenyon.edu/dh_iphs_prog/19/](https://digital.kenyon.edu/dh_iphs_prog/19/)
 <br></br>
 
-* **IPHS290 [Cultural Analytics](https://jon-chun.github.io/cultural-analytics/) (New Fall 2022)**
+* <b>IPHS290 [Cultural Analytics](https://jon-chun.github.io/cultural-analytics/) (New Fall 2022)</b>
     - **Upcoming Projects:** (Intentionally vague for now)
     - Multi/Racial Identity
     - Medical Narratives
@@ -246,7 +247,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
     - Global Supply Chain Analysis
 <br></br>
 
-* **IPHS300 [AI for the Humanities](https://digital.kenyon.edu/dh_iphs_ai/) (samples below)**
+* <b>IPHS300 [AI for the Humanities](https://digital.kenyon.edu/dh_iphs_ai/) (samples below)</b>
     - Jewish Studies/Information Science: [Taxonomy Techniques for Holocaust-Related Image Digitization and Text](https://digital.kenyon.edu/dh_iphs_prog/21/)
     - Law: [Synthetic Biology: Analyzing Trends in Intellectual Property Rights vs. Open Access to Research, 1989-2019](https://digital.kenyon.edu/dh_iphs_prog/5/)
     - Asian-American Studies/Sentiment Analysis: [The Rise of Anti-Asian American Sentiment with COVID-19](https://digital.kenyon.edu/dh_iphs_prog/15/)
@@ -261,7 +262,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
     - Literature/NLP Sentiment Analysis: [Jane AI-sten: What is Sentiment Analysis’s Connection to Best-Selling Literature?](https://digital.kenyon.edu/dh_iphs_prog/44/)
 <br></br>
 
-* **IPHS484 [Senior Seminar/Research](https://digital.kenyon.edu/dh_iphs_ss/) (samples below)**
+* <b>IPHS484 [Senior Seminar/Research](https://digital.kenyon.edu/dh_iphs_ss/) (samples below)</b>
   - Sociology/NLG with GPT-2 vs GPT-3: [Black Box Karl Marx: What do large language models have to say about Das Kapital? A Comparison of GPT-2 and GPT-3 Outputs](https://digital.kenyon.edu/dh_iphs_ai/32/)
   - Fiction Narrative/NLP Sentiment Analysis: [Adapted Arcs: Sentiment Analysis and The Sorcerer’s Stone](https://digital.kenyon.edu/dh_iphs_ss/1/)
   - Public Health/Statistical Machine Learning: [Evaluating Ohio’s Opioid Overdose Epidemic with AI](https://digital.kenyon.edu/dh_iphs_ss/5/)
@@ -276,7 +277,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 <br></br>
 
-## **Course Descriptions**
+## Course Descriptions
 ---
 <figure>
 <center>
@@ -286,7 +287,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 </figure>
 
 <br></br>
-**Integrated Program for Humane Studies (2017-)**
+<b>Integrated Program for Humane Studies (2017-)</b>
 
 * IPHS200 [Programming Humanity](https://programminghumanity.wordpress.com/)
 * IPHS290 [Cultural Analytics](https://jon-chun.github.io/cultural-analytics/)
@@ -297,7 +298,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 <br></br>
 
-**Scientific Computing (2020-)**
+<b>Scientific Computing (2020-)</b>
 
 * SciComp Senior Seminar/Research
   - Noisy Time Series Filtering, Smoothing and Feature Detection
