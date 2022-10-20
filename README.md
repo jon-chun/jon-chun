@@ -178,18 +178,23 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 ## Social Media
 ---
-* Twitter: [@jonchun2000](https://twitter.com/jonchun2000)
-* LinkedIn: [jonchun2000](https://www.linkedin.com/in/jonchun2000/)
-* Instagram: [jonchun2000](https://www.instagram.com/jonchun2000/)
-
 <br></br>
 
 <figure>
 <center>
-<img src="images/logo_tilt5_kenyon_dh_colab.png" alt="Trulli" style="width:40%">
+<img src="images/icon_twitter.png" alt="Trulli" style="width:40%">
 </center>
-<figcaption align = "center"><br><i><b>Kenyon DHColab</b><br>(Kenyon AI Digital Humanities Colab)</i></figcaption>
+<figcaption align = "center"><br><i><b>@jonchun2000</b><br>Main Social Media Account</i></figcaption>
 </figure>
+
+<br></br>
+
+
+
+* Twitter: [@jonchun2000](https://twitter.com/jonchun2000)
+* LinkedIn: [jonchun2000](https://www.linkedin.com/in/jonchun2000/)
+* Instagram: [jonchun2000](https://www.instagram.com/jonchun2000/)
+
 
 <br></br>
 
@@ -311,3 +316,11 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 [Back to Top](#ai-digital-humanities)
 
+<br></br>
+
+<figure>
+<center>
+<img src="images/logo_tilt5_kenyon_dh_colab.png" alt="Trulli" style="width:40%">
+</center>
+<figcaption align = "center"><br><i><b>Kenyon DHColab</b><br>(Kenyon AI Digital Humanities Colab)</i></figcaption>
+</figure>
