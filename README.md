@@ -9,26 +9,26 @@ Jon A Chun
 <br></br>
 ## **Innovation in Higher Ed**
 ---
-I am focused on creatively applying the best of industry practices and state-of-the-art AI/ML techniques on interesting and high-impact interdisciplinary research. The combination of AI/ML, math/statistics and a wide variety of domain expertise provide fresh insights and countless new paths of discovery.
+I am focused on creatively applying the best of industry practices and state-of-the-art AI/ML techniques on interesting and high-impact interdisciplinary research. The combination of AI/ML, math/statistics and a diversity of domain expertise provides fresh insights and countless new paths of discovery.
 
-I've also long been interested in bringing diverse voices to urgent debates surrounding technology’s growing impact on society. For most of the last decade I've been developing a humanity-first approach to integrate STEM and non-STEM study alike. 
+I've also long been interested in bringing diverse voices to urgent debates surrounding technology’s growing impact on society. For most of the last decade I've been developing a humanity-first approach to integrate STEM and non-STEM into a coherent intellectual framework. 
 
 Here is a timeline behind the development of what we believe is the world's first humanity-first AI curriculum:
 
 * **1992-99**: The <a href="https://www.kenyon.edu/academics/departments-and-majors/integrated-program-in-humane-studies/">*Integrated Program for Humane Studies*</a> (IPHS, the oldest interdisciplinary program at Kenyon) established a computer lab in Timberlake House for DH scholarship under Director Michael Brint
-* **2001 Aug**: Katherine Elkins joins Kenyon and begins mentoring traditional Digital Humanities projects (e.g. critiques of techology, websites, media, etc) in the IPHS program
-* **2003 May**: Resign as Director of Development for Clientless VPNs at Symantec and relocate from Silicon Valley
-* **2005 Mar**: Propose new humanity-centered AI Digital Humanities curriculum in conjunction with a multi-million <a href="https://philanthropynewsdigest.org/news/morgan-kauffman-foundations-launch-liberal-arts-entrepreneurship-initiative">Ewing Marion Kauffman Foundation</a> grant
-* **2015 Aug**: I formulate detailed interdisciplinary AI Digital Humanities curriculum after years of research and training
+* **2002 Jul**: Katherine Elkins joined Kenyon and began mentoring traditional Digital Humanities projects (e.g. critiques of techology, websites, media, etc) in the IPHS program
+* **2003 May**: Launched product Symantec Clientless VPN appliance as Director of Development and relocated from Silicon Valley
+* **2005 Mar**: Proposed new humanity-centered AI Digital Humanities curriculum in conjunction with a multi-million <a href="https://philanthropynewsdigest.org/news/morgan-kauffman-foundations-launch-liberal-arts-entrepreneurship-initiative">Ewing Marion Kauffman Foundation</a> grant
+* **2015 Aug**: Formulated detailed interdisciplinary AI Digital Humanities curriculum after years of research and training
 * **2017 Mar**: Lead DH Kenyon Team at the <a href="https://hackoh5.ohio5.org/">HackOH5</a> Hackathon to explore challenges and opportunities in implementing computational Digital Humanities and effecting collaboration across disciplines
-* **2017 Aug**: Kenyon supports first <a href="https://digital.kenyon.edu/dh_iphs_prog/">'*Programming Humanity*'</a> course co-taught with a Literary Scholar of Proust
-* **2018 Aug**: Kenyon adds first <a href="https://digital.kenyon.edu/dh_iphs_ai/">'*AI for the Humanities*'</a> course with a differentiated (including no/low-code) approach to GOFAI/ML through DNN, RL, and GA
-* **2018 Aug**: Katherine Elkins awarded multi-year <a href="https://www.kenyon.edu/offices-and-services/office-of-the-provost/recognition/neh-professorship/">National Endowment of the Humanities Distinguished Professorship</a> to continue developing a campus-wide Digital Humanities program meeting with every interested departments on campus
+* **2017 Aug**: Kenyon supports first <a href="https://digital.kenyon.edu/dh_iphs_prog/">'*Programming Humanity*'</a> course co-taught with a Humanities and Comparative Literature professor.
+* **2018 Aug**: Kenyon adds first <a href="https://digital.kenyon.edu/dh_iphs_ai/">'*AI for the Humanities*'</a> course with a differentiated approach to GOFAI/ML through DNN, RL, and GA
+* **2018 Aug**: Katherine Elkins awarded multi-year <a href="https://www.kenyon.edu/offices-and-services/office-of-the-provost/recognition/neh-professorship/">National Endowment of the Humanities Distinguished Professorship</a> to continue developing a campus-wide Digital Humanities program to include every interested department
 * **2022 Jan**: Collaboration with <a href="https://cs.kenyon.edu/index.php/scmp-401-scientific-computing-seminar/">*Scientific Computing program at Kenyon*</a> mentoring several majors on interdisciplinary research  
-* **2022 Aug**: Kenyon offers first computational <a href="https://jon-chun.github.io/cultural-analytics/">'*Cultural Analytics*'</a> DH methodology course for Social Science and Humanities 
+* **2022 Aug**: Kenyon offers first computational <a href="https://jon-chun.github.io/cultural-analytics/">'*Cultural Analytics*'</a> DH methodology course for Social Sciences and Humanities 
 * **2022 Aug**: First collaboration with local industry via <a href="https://github.com/jon-chun/iiot-time-series-prediction-system">'*Industrial IoT Independent Study*'</a> targeting technical reference implementation and strategic whitepaper
 
- The organizing principle of both our research and our curriculum is computational Digital Humanities grounded in AI/ML. This approach is designed to bridge the gap between technology and humanity. This integrated worldview will hopefully lead to a more ethical, practical and beneficial use of technology for all humanity.
+ The organizing principle of both our research and our curriculum is computational Digital Humanities grounded in AI/ML. This approach is designed to bridge the gap between technology and humanity. This integrated worldview will hopefully lead to a more ethical, practical and beneficial use of technology for all.
 
 <br></br>
 [Back to Top](#ai-digital-humanities)
