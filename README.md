@@ -18,7 +18,7 @@ Here is a timeline behind the development of what we believe is the world's firs
 * **1992-99**: The <a href="https://www.kenyon.edu/academics/departments-and-majors/integrated-program-in-humane-studies/">*Integrated Program for Humane Studies*</a> (IPHS, the oldest interdisciplinary program at Kenyon) established a computer lab in Timberlake House for DH scholarship under Director Michael Brint
 * **2001 Aug**: Katherine Elkins joins Kenyon and begins mentoring traditional Digital Humanities projects (e.g. critiques of techology, websites, media, etc) in the IPHS program
 * **2003 May**: Resign as Director of Development for Clientless VPNs at Symantec and relocate from Silicon Valley
-* **2005 Mar**: I propose new humanity-centered AI Digital Humanities curriculum first in conjunction with a multi-million <a href="https://philanthropynewsdigest.org/news/morgan-kauffman-foundations-launch-liberal-arts-entrepreneurship-initiative">Ewing Marion Kauffman Foundation</a> grant
+* **2005 Mar**: Propose new humanity-centered AI Digital Humanities curriculum in conjunction with a multi-million <a href="https://philanthropynewsdigest.org/news/morgan-kauffman-foundations-launch-liberal-arts-entrepreneurship-initiative">Ewing Marion Kauffman Foundation</a> grant
 * **2015 Aug**: I formulate detailed interdisciplinary AI Digital Humanities curriculum after years of research and training
 * **2017 Mar**: Lead DH Kenyon Team at the <a href="https://hackoh5.ohio5.org/">HackOH5</a> Hackathon to explore challenges and opportunities in implementing computational Digital Humanities and effecting collaboration across disciplines
 * **2017 Aug**: Kenyon supports first <a href="https://digital.kenyon.edu/dh_iphs_prog/">'*Programming Humanity*'</a> course co-taught with a Literary Scholar of Proust
@@ -117,7 +117,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 <center>
 <img src="images/screen_kenyon_dh_analytics0.png" alt="Trulli" style="width:80%">
 </center>
-<figcaption align = "center"><i>Top 10 Institutions reading our AI DH Research in 2022:<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
+<figcaption align = "center"><br><i>Top 10 Institutions reading our AI DH Research in 2022:<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
 
 </figure>
 
@@ -133,7 +133,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 <center>
 <img src="images/screen_kenyon_dh_analytics2.png" alt="Trulli" style="width:80%">
 </center>
-<figcaption align = "center"><i>More Top 20 Institutions reading our AI DH Research in 2022:<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
+<figcaption align = "center"><br><i>More Top 20 Institutions reading our AI DH Research in 2022:<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
 </figure>
 
 <br></br>
