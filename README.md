@@ -7,7 +7,7 @@ Jon A Chun
 ![AI Digital Humanities](./images/kenyon_ai_dh_banner.png)
 
 <br></br>
-## **Interests**
+## **Innovation in Higher Edu**
 ---
 I am focused on creatively applying the best of industry practices and state-of-the-art AI/ML techniques on interesting and high-impact interdisciplinary research. The combination of AI/ML, math/statistics and a wide variety of domain expertise provide fresh insights and countless new paths of discovery.
 
@@ -15,12 +15,26 @@ I've also long been interested in bringing diverse voices to urgent debates surr
 
  The organizing principle of both our research and our curriculum is computational Digital Humanities grounded in AI/ML. This approach is designed to bridge the gap between technology and humanity. This integrated worldview will hopefully lead to a more ethical, practical and beneficial use of technology for all humanity.
 
-<br></br>
-
 [Back to Top](#ai-digital-humanities)
 
 <br></br>
 
+## **Research**
+---
+
+* Google Scholar: [jonchun2000](https://scholar.google.com/citations?user=l-iUHQMAAAAJ&hl=en)
+* Academia.edu: [kenyon.academia.edu/jchun](https://kenyon.academia.edu/jchun)
+
+<br></br>
+
+<figure>
+<center>
+<img src="images/banner_cambridge_elements_digital_literary_studies.jpg" alt="Trulli" style="width:80%">
+</center>
+<figcaption align = "center"><i>SentimentArcs is the open-source code for<br><a href="https://www.amazon.com/Stories-Elements-Digital-Literary-Studies/dp/1009270397">The Shapes of Stories</a></i> by Katherine Elkins<br>(Cambridge Press, Aug 2022)<br></figcaption>
+</figure>
+
+<br></br>
 ## **A Human-First AI Curriculum**
 ---
 
@@ -40,11 +54,11 @@ At Kenyon College, I co-founded the world’s first human-centric AI curriculum.
 
 • Organically grew (no marketing/PR) to ~15k hits from top universities worldwide (#4 CMU, #5 Berkeley, #6 Stanford, #7 Columbia, #9 NYU, #16 Princeton, #22 Oxford, #23 MIT, #25 Cambridge, etc)
 
-• Diversity: Grew from 18% to 61% Female with URM participation rates at or above college averages. Our classes are majority non-STEM, reaching out to many students who otherwise feel alienated by traditional CS study.
+• Diversity: Grew from 18% to 61% Female with URM participation rates often at or above college averages. Our classes are majority non-STEM, reaching out to many students who otherwise feel alienated by traditional CS study.
 
-• Achieved enrollment growth from 20 to 120 (one of the largest classes at Kenyon)
+• Achieved enrollment growth from 20 to 120 becoming one of the largest classes at Kenyon
 
-• Curated a set of fully open-source, best-of-breed tools with no budget required for software, hardware or technical support
+• Curated a set of fully open-source, best-of-breed tools with no budget required for any software, new hardware or technical support
 
 Our interdisciplinary AI DH research has been published in top presses, journals and conferences. We have also mentored hundreds of ML/AI DH projects that synthesize Artificial Intelligence with literature, history, political science, art, dance, music, law, medicine, economics and more. Various sample AI DH projects are given below.
 
