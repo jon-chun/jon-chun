@@ -30,6 +30,7 @@ Here is a timeline behind the development of what we believe is the world's firs
 
  The organizing principle of both our research and our curriculum is computational Digital Humanities grounded in AI/ML. This approach is designed to bridge the gap between technology and humanity. This integrated worldview will hopefully lead to a more ethical, practical and beneficial use of technology for all humanity.
 
+<br></br>
 [Back to Top](#ai-digital-humanities)
 
 <br></br>
@@ -84,6 +85,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 <figcaption align = "center"><i>A Humanity-First approach to AI Digital Humanities<br>consistently attracts over 90% non-STEM majors</a></i><br></figcaption>
 </figure>
 
+<br></br>
 
 [Back to Top](#ai-digital-humanities)
 
@@ -179,7 +181,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 **Integrated Program for Humane Studies (2017-)**
 
 * **IPHS200 [Programming Humanity](https://digital.kenyon.edu/dh_iphs_prog/) (samples below)**
-<br></br>
+
     - Poetry/GPT-3: [The GPT3 Re-Imagining of “Howl” By Allen Ginsberg: What Are The Strengths and Weaknesses of This Representation?](https://digital.kenyon.edu/dh_iphs_prog/30/)
     - Literature/GPT-2: [345M-GPT-2 After James Wright: Can AI Generate Convincing Contemporary Poetry?](https://digital.kenyon.edu/dh_iphs_prog/11/)
     - Environmental Studies/Bayesian Time Series Analysis: [Predicting Attitudes Toward the Environment Artificial Intelligence for the Humanities](https://digital.kenyon.edu/dh_iphs_ai/7/)
