@@ -56,7 +56,7 @@ Here is a timeline behind the development of what we believe is the world's firs
 <center>
 <img src="images/iphs_ai_dh_gender.jpg" alt="Trulli" style="width:80%">
 </center>
-<figcaption align = "center"><i>Evolution of AI Digital Humanities curriculum since<br>the 2017-2018 academic year</figcaption>
+<figcaption align = "center"><i>Progress of Gender Diversity in AI Digital Humanities curriculum since<br>the 2017-2018 academic year</figcaption>
 </figure>
 
 <br></br>
@@ -81,7 +81,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 <center>
 <img src="images/iphs_ai_dh_stem.jpg" alt="Trulli" style="width:80%">
 </center>
-<figcaption align = "center"><i>Humanity-First AI Digital Humanities<br>consistently attracts over 90% non-STEM majors</a></i><br></figcaption>
+<figcaption align = "center"><i>A Humanity-First approach to AI Digital Humanities<br>consistently attracts over 90% non-STEM majors</a></i><br></figcaption>
 </figure>
 
 
