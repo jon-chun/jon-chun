@@ -108,6 +108,10 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 * **2022 Aug**: First collaboration with local industry via <a href="https://github.com/jon-chun/iiot-time-series-prediction-system">'*Industrial IoT Independent Study*'</a> targeting technical reference implementation and strategic whitepaper
 
 <br></br>
+```
+The National Endowment for the Humanities (NEH) Distinguished Teaching Professor honors a member of Kenyon’s humanities faculty who has displayed excellence in teaching and has developed a compelling vision of how the professorship would enhance the study of the humanities at the College.  For the purpose of the Professorship, we interpret the "humanities" as broadly as NEH does -- that is, as encompassing not only the disciplines in our own Humanities Division but also all other disciplines that examine historical, literary, and philosophical questions about the human condition.  The professorship is funded by the earnings from an endowment created by a grant from the NEH and gifts from friends of Kenyon. The NEH Professorship is a three year term.
+```
+<br></br>
 
 <figure>
 <center>
