@@ -41,6 +41,8 @@ I've also long been interested in bringing diverse voices to urgent debates surr
 
 * (Upcoming) ""Exploring the Black Box: Narrative XAI", International Journal of Digital Humanities (IJDH) special issue "Reproducibility and Explainability in Digital Humanities"
 
+* Elkins, Kate <a href="https://www.helixcenter.org/roundtables/coding-and-the-new-human-phenotype-are-natural-language-generators-for-real/">Coding and the new Human Phenotype: Are Natural Language Generators for Real?</a>, The Helix Center, Oct 16, 2022, NY, NY
+
 * Chun, Jon, and Katherine Elkins. <a href="https://muse.jhu.edu/article/846035">"What the Rise of AI Means for Narrative Studies: A Response to “Why Computers Will Never Read (or Write) Literature” by Angus Fletcher."</a> Narrative 30, no. 1 (2022): 104-113. doi:10.1353/nar.2022.0005.
 
 * Chun, Jon. <a href="https://arxiv.org/abs/2110.09454">"SentimentArcs: A Novel Method for Self-Supervised Sentiment Analysis of Time Series Shows SOTA Transformers Can Struggle Finding Narrative Arcs."</a> ArXiv abs/2110.09454 (2021): n. pag.
