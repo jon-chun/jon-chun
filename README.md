@@ -49,7 +49,7 @@ I've also long been interested in bringing diverse voices to urgent debates surr
 
 * Elkins, Katherine, and Jon Chun. <a href="https://culturalanalytics.org/article/17212.pdf">"Can GPT-3 pass a Writer’s turing test?."</a> Journal of Cultural Analytics 5, no. 2 (2020): 17212.
 
-* (Generated Narrative) <a href="https://github.com/jon-chun/conference-narrative2020-GPT2-NLG">How Artificial Intelligence Tells Stories: Natural Language Generation
+* (AI Story Generation / AI Narrative Generation) <a href="https://github.com/jon-chun/conference-narrative2020-GPT2-NLG">How Artificial Intelligence Tells Stories: Natural Language Generation
 and Narrative</a>, Narrative 2020 Conference (page 28), March 5-7 The Intercontinental Hotel, New Orleans
   
 
