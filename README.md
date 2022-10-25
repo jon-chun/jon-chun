@@ -7,8 +7,8 @@ Co-Founder, Kenyon DH Colab
 ![AI Digital Humanities](./images/kenyon_ai_dh_banner.png)
 
 **Contents**
-- [Innovation in Higher Ed](#innovation-in-higher-ed)
 - [Research](#research)
+- [Innovation in Higher Ed](#innovation-in-higher-ed)
 - [A Human-First AI Curriculum](#a-human-first-ai-curriculum)
 - [Code, Products and Patents](#code-products-and-patents)
 - [Kenyon AI Digital Humanities](#kenyon-ai-digital-humanities)
@@ -20,6 +20,8 @@ Co-Founder, Kenyon DH Colab
 
 ## Research
 ---
+
+Jon Chun researches ML/AI approaches to NLP with a particular focus on large language models, prompt engineering and XAI/FATE. He was a successful Silicon Valley entrepreneur/CEO as well as a Fortune 500 Director of Development and has worked in a wide variety of fields. Most recently, he created the open-source library SentimentArcs, the world's largest ensemble for diachronic sentiment analysis and the basis for Elkins's “The Shape of Stories” (Cambridge UP 2022). He presented some of the earliest GPT-2 story generation work at Narrative2020 and has since published in Cultural Analytics and Narrative on AI and Narrative. He has mentored hundreds of computational Digital Humanities projects in the Kenyon DH Colab and is currently working on “Exploring the Black Box: Narrative XAI” for a special issue of The International Journal of Digital Humanities.
 
 * Google Scholar: [jonchun2000](https://scholar.google.com/citations?user=l-iUHQMAAAAJ&hl=en)
 * Academia.edu: [kenyon.academia.edu/jchun](https://kenyon.academia.edu/jchun)
@@ -114,11 +116,25 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 <br></br>
 
-> The ***National Endowment for the Humanities (NEH) Distinguished Teaching Professor** honors a member of Kenyon’s humanities faculty who has displayed excellence in teaching and has developed a ***compelling vision*** of how the professorship would enhance the study of the humanities at the College.  For the purpose of the Professorship, we interpret the "humanities" as broadly as NEH does -- that is, as ***encompassing not only the disciplines in our own Humanities Division but also all other disciplines that examine historical, literary, and philosophical questions about the human condition***.  The professorship is funded by the earnings from an endowment created by a grant from the NEH and gifts from friends of Kenyon. The NEH Professorship is a three year term.
+<figure>
+<center>
+<img src="images/kenyon_neh_history.jpg" alt="Trulli" style="width:80%">
+</center>
+<figcaption align = "center"><br><i>Kenyon College's<br><a href="https://www.kenyon.edu/offices-and-services/office-of-the-provost/recognition/neh-professorship/">The National Endowment for the Humanities Professorship</a></i><br></figcaption>
+</figure>
+
+<br></br>
 
 Our AI research and DHColab were collaboratively developed and the cirriculum is currently co-taught by a technology expert (Jon Chun) and an accomplished academic (Katherine Elkins). Both have broad experiences, publications, and interests transcending traditional domain boundaries. Administrative support was provided with a ***3-year National Endowment for the Humanities (NEH) appointment*** described here.
 
->Kate Elkins is developing a Digital Humanities program, an innovative curriculum involving the place of computation and artificial intelligence in the humanities, and a faculty-student research Colab.
+<br></br>
+
+<figure>
+<center>
+<img src="images/kenyon_neh_elkinsk.jpg" alt="Trulli" style="width:80%">
+</center>
+<figcaption align = "center"><br><i>Collaborator Katherine Elkins work as<br><a href="https://www.kenyon.edu/offices-and-services/office-of-the-provost/recognition/neh-professorship/">Kenyon College's National Endowment for the Humanities Professorship</a></i><br></figcaption>
+</figure>
 
 <br></br>
 
