@@ -17,19 +17,6 @@ Co-Founder, Kenyon DH Colab
 - [Course Descriptions](#course-descriptions)
 
 <br></br>
-## Innovation in Higher Ed
----
-I am focused on creatively applying the best of industry practices and state-of-the-art AI/ML techniques on interesting and high-impact interdisciplinary research. The combination of AI/ML, math/statistics and a diversity of domain expertise provides fresh insights and countless new paths of discovery.
-
-I've also long been interested in bringing diverse voices to urgent debates surrounding technology’s growing impact on society. For most of the last decade I've been developing a humanity-first approach to integrate STEM and non-STEM into a coherent intellectual framework. 
-
- The organizing principle of both our research and our curriculum is computational Digital Humanities grounded in AI/ML. This approach is designed to bridge the gap between technology and humanity. This integrated worldview will hopefully lead to a more ethical, practical and beneficial use of technology for all.
-
-<br></br>
-
-[Back to Top](#ai-digital-humanities)
-
-<br></br>
 
 ## Research
 ---
@@ -39,17 +26,17 @@ I've also long been interested in bringing diverse voices to urgent debates surr
 
 <b>Recent Highlights</b>
 
-* (Upcoming) ""Exploring the Black Box: Narrative XAI", International Journal of Digital Humanities (IJDH) special issue "Reproducibility and Explainability in Digital Humanities"
+* (Upcoming) "Exploring the Black Box: Narrative XAI", International Journal of Digital Humanities (IJDH) special issue "Reproducibility and Explainability in Digital Humanities"
 
 * Elkins, Kate <a href="https://www.helixcenter.org/roundtables/coding-and-the-new-human-phenotype-are-natural-language-generators-for-real/">Are Natural Language Generators for Real?</a>, The Helix Center, Coding and the new Human Phenotype, Oct 15-16, 2022, NY, NY
 
 * Chun, Jon, and Katherine Elkins. <a href="https://muse.jhu.edu/article/846035">"What the Rise of AI Means for Narrative Studies: A Response to “Why Computers Will Never Read (or Write) Literature” by Angus Fletcher."</a> Narrative 30, no. 1 (2022): 104-113. doi:10.1353/nar.2022.0005.
 
-* Chun, Jon. <a href="https://arxiv.org/abs/2110.09454">"SentimentArcs: A Novel Method for Self-Supervised Sentiment Analysis of Time Series Shows SOTA Transformers Can Struggle Finding Narrative Arcs."</a> ArXiv abs/2110.09454 (2021): n. pag.
+* Chun, Jon. <a href="https://arxiv.org/abs/2110.09454">"SentimentArcs: A Novel Method for Self-Supervised Sentiment Analysis of Time Series Shows SOTA Transformers Can Struggle Finding Narrative Arcs."</a> ArXiv abs/2110.09454 (2021): n. page.
   
 * Chun, Jon. <a href="https://www.youtube.com/watch?v=Ldb0vlCQXtQ&t=1s">AI Improv DivaBot</a> in collaboration with Katherine Elkins, James Dennen (Denison University and Wexner Arts), Lauren Katz (Thymele Arts, LA)
 
-* Elkins, Katherine, and Jon Chun. <a href="https://culturalanalytics.org/article/17212.pdf">"Can GPT-3 pass a Writer’s turing test?."</a> Journal of Cultural Analytics 5, no. 2 (2020): 17212.
+* Elkins, Katherine, and Jon Chun. <a href="https://culturalanalytics.org/article/17212.pdf">"Can GPT-3 pass a Writer’s Turing Test?."</a> Journal of Cultural Analytics 5, no. 2 (2020): 17212.
 
 * (AI Story Generation / AI Narrative Generation) <a href="https://github.com/jon-chun/conference-narrative2020-GPT2-NLG">How Artificial Intelligence Tells Stories: Natural Language Generation
 and Narrative</a>, Narrative 2020 Conference (page 28), March 5-7 The Intercontinental Hotel, New Orleans
@@ -69,6 +56,22 @@ and Narrative</a>, Narrative 2020 Conference (page 28), March 5-7 The Interconti
 [Back to Top](#ai-digital-humanities)
 
 <br></br>
+
+
+## Innovation in Higher Ed
+---
+I am focused on creatively applying the best of industry practices and state-of-the-art AI/ML techniques on interesting and high-impact interdisciplinary research. The combination of AI/ML, math/statistics and a diversity of domain expertise provides fresh insights and countless new paths of discovery.
+
+I've also long been interested in bringing diverse voices to urgent debates surrounding technology’s growing impact on society. For most of the last decade, I have been developing a humanity-first approach to integrate STEM and non-STEM into a coherent intellectual framework. 
+
+ The organizing principle of both our research and our curriculum is computational Digital Humanities grounded in AI/ML. This approach is designed to bridge the gap between technology and humanity. This integrated worldview will hopefully lead to more ethical, practical and beneficial use of technology for all.
+
+<br></br>
+
+[Back to Top](#ai-digital-humanities)
+
+<br></br>
+
 ## A Human-First AI Curriculum
 ---
 <figure>
@@ -80,13 +83,13 @@ and Narrative</a>, Narrative 2020 Conference (page 28), March 5-7 The Interconti
 
 <br></br>
 
-At Kenyon College, I co-founded the world’s first human-centric AI curriculum. I am sole technical advisor and the primary collaborative content creator. Over the last six years teaching this curriculum, we have achieved the following milestones:
+At Kenyon College, I co-founded the world’s first human-centric AI curriculum. I am the sole technical advisor and the primary collaborative content creator. Over the last six years of teaching this curriculum, we have achieved the following milestones:
 
 • Produced research in top publications and conferences (Cambridge UP, Narrative, Journal of Cultural Analytics, etc)
 
 • Organically grew (no marketing/PR) to ~15k hits from top universities worldwide (#4 CMU, #5 Berkeley, #6 Stanford, #7 Columbia, #9 NYU, #16 Princeton, #22 Oxford, #23 MIT, #25 Cambridge, etc)
 
-• Diversity: Grew from 18% to 61% Female with URM participation rates often at or above college averages. Our classes are majority non-STEM, reaching out to many students who otherwise feel alienated by traditional CS study.
+• Diversity: Grew from 18% to 61% female with URM participation rates often at or above college averages. Our classes are majority non-STEM, reaching out to many students who otherwise feel alienated by traditional CS study.
 
 • Achieved enrollment growth from 20 to 120 becoming one of the largest classes at Kenyon
 
@@ -97,14 +100,14 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 <b>Timeline</b>
 
 * **1992-99**: The <a href="https://www.kenyon.edu/academics/departments-and-majors/integrated-program-in-humane-studies/">*Integrated Program for Humane Studies*</a> (IPHS, the oldest interdisciplinary program at Kenyon) established a computer lab in Timberlake House for DH scholarship under Director Michael Brint
-* **2002 Jul**: Katherine Elkins joined Kenyon and began mentoring traditional Digital Humanities projects (e.g. critiques of techology, websites, media, etc) in the IPHS program
+* **2002 Jul**: Katherine Elkins joined Kenyon and began mentoring traditional Digital Humanities projects (e.g. critiques of technology, websites, media, etc) in the IPHS program
 * **2003 May**: Launched product Symantec Clientless VPN appliance as Director of Development and relocated from Silicon Valley
 * **2005 Mar**: Proposed new humanity-centered AI Digital Humanities curriculum in conjunction with a multi-million <a href="https://philanthropynewsdigest.org/news/morgan-kauffman-foundations-launch-liberal-arts-entrepreneurship-initiative">Ewing Marion Kauffman Foundation</a> grant
 * **2015 Aug**: Formulated detailed interdisciplinary AI Digital Humanities curriculum after years of research and training
 * **2017 Mar**: Lead DH Kenyon Team at the <a href="https://hackoh5.ohio5.org/">HackOH5</a> Hackathon to explore challenges and opportunities in implementing computational Digital Humanities and effecting collaboration across disciplines
-* **2017 Aug**: Kenyon supports first <a href="https://digital.kenyon.edu/dh_iphs_prog/">'*Programming Humanity*'</a> course co-taught with a Humanities and Comparative Literature professor.
+* **2017 Aug**: Kenyon supports the first <a href="https://digital.kenyon.edu/dh_iphs_prog/">'*Programming Humanity*'</a> course co-taught with a Humanities and Comparative Literature professor.
 * **2018 Aug**: Kenyon adds first <a href="https://digital.kenyon.edu/dh_iphs_ai/">'*AI for the Humanities*'</a> course with a differentiated approach to GOFAI/ML through DNN, RL, and GA
-* **2018 Aug**: Katherine Elkins awarded multi-year <a href="https://www.kenyon.edu/offices-and-services/office-of-the-provost/recognition/neh-professorship/">National Endowment of the Humanities Distinguished Professorship</a> to continue developing a campus-wide Digital Humanities program to include every interested department
+* **2018 Aug**: Katherine Elkins awarded a multi-year <a href="https://www.kenyon.edu/offices-and-services/office-of-the-provost/recognition/neh-professorship/">National Endowment of the Humanities Distinguished Professorship</a> to continue developing a campus-wide Digital Humanities program to include every interested department
 * **2022 Jan**: Collaboration with <a href="https://cs.kenyon.edu/index.php/scmp-401-scientific-computing-seminar/">*Scientific Computing program at Kenyon*</a> mentoring several majors on interdisciplinary research  
 * **2022 Aug**: Kenyon offers first computational <a href="https://jon-chun.github.io/cultural-analytics/">'*Cultural Analytics*'</a> DH methodology course for Social Sciences and Humanities 
 * **2022 Aug**: First collaboration with local industry via <a href="https://github.com/jon-chun/iiot-time-series-prediction-system">'*Industrial IoT Independent Study*'</a> targeting technical reference implementation and strategic whitepaper
@@ -113,7 +116,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 > The ***National Endowment for the Humanities (NEH) Distinguished Teaching Professor** honors a member of Kenyon’s humanities faculty who has displayed excellence in teaching and has developed a ***compelling vision*** of how the professorship would enhance the study of the humanities at the College.  For the purpose of the Professorship, we interpret the "humanities" as broadly as NEH does -- that is, as ***encompassing not only the disciplines in our own Humanities Division but also all other disciplines that examine historical, literary, and philosophical questions about the human condition***.  The professorship is funded by the earnings from an endowment created by a grant from the NEH and gifts from friends of Kenyon. The NEH Professorship is a three year term.
 
-Our AI research and DHColab were collaboratively developed and the cirrculum is currently co-taught by a technology expert (Jon Chun) and an accomplished academic (Katherine Elkins). Both have broad experiences, publications, and interests transcending traditional domain boundaries. Administrative support was provided with a ***3 year National Endowment for the Humanities (NEH) appointment*** described here.
+Our AI research and DHColab were collaboratively developed and the cirriculum is currently co-taught by a technology expert (Jon Chun) and an accomplished academic (Katherine Elkins). Both have broad experiences, publications, and interests transcending traditional domain boundaries. Administrative support was provided with a ***3-year National Endowment for the Humanities (NEH) appointment*** described here.
 
 >Kate Elkins is developing a Digital Humanities program, an innovative curriculum involving the place of computation and artificial intelligence in the humanities, and a faculty-student research Colab.
 
@@ -166,7 +169,7 @@ Our AI research and DHColab were collaboratively developed and the cirrculum is 
 
 <br></br>
 
-* [AI/ML Digital Huamanities Projects](https://digital.kenyon.edu/dh/)
+* [AI/ML Digital Humanities Projects](https://digital.kenyon.edu/dh/)
 * [Kenyon Digital Colab](https://www.kenyon.edu/digital-humanities/kdh-colab/)
 * [Kenyon AI Digital Humanities](https://www.kenyon.edu/digital-humanities/)
 
@@ -284,7 +287,7 @@ Our AI research and DHColab were collaboratively developed and the cirrculum is 
   - TV Script/NLP Sentiment Analysis: [Blood in the Water: Storytelling and Sentiment Analysis in ABC's Shark Tank](https://digital.kenyon.edu/dh_iphs_ss/4/)
   - Social Media/NLG with GPT-2: [GPT-2 Jomboy: Can AI produce exciting Baseball content?](https://digital.kenyon.edu/dh_iphs_ss/15/)
   - Art/Deep Neural Networks Generative Art: [An Artist's Guide to AI Art](https://digital.kenyon.edu/dh_iphs_ss/3/)
-  - Economics/Time Series Anamaly Detection: [Analyzing Pump and Dump Schemes](https://digital.kenyon.edu/dh_iphs_ss/14/)
+  - Economics/Time Series Anomaly Detection: [Analyzing Pump and Dump Schemes](https://digital.kenyon.edu/dh_iphs_ss/14/)
 
 <br></br>
 
