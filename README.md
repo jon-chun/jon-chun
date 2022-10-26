@@ -125,7 +125,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 <br></br>
 
-Our AI research and DHColab were collaboratively developed and the cirriculum is currently co-taught by a technology expert (Jon Chun) and an accomplished academic (Katherine Elkins). Both have broad experiences, publications, and interests transcending traditional domain boundaries. Administrative support was provided with a ***3-year National Endowment for the Humanities (NEH) appointment*** described here.
+Our AI research and DHColab were collaboratively developed and the curriculum is currently co-taught by a technology expert (Jon Chun) and an accomplished academic (Katherine Elkins). Both have broad experiences, publications, and interests transcending traditional domain boundaries. Support was provided with a ***3-year National Endowment for the Humanities (NEH) appointment*** described here.
 
 <br></br>
 
