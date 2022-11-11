@@ -95,7 +95,7 @@ At Kenyon College, I co-founded the world’s first human-centric AI curriculum.
 
 • Achieved enrollment growth from 20 to 120 becoming one of the largest classes at Kenyon
 
-• Without a budget, have innovated from scratch a globally-recognized computational DH Colab research center and AI Digital Humanities program in operation for 6 years now. This includes no costs for hardware, software, cloud computing, support staff or other expenses. Achieved this by strategic planning, carefully curating and constantly updating a set of fully open-source, best-of-breed and/or freely available resources.
+• Without a budget, have innovated from scratch a globally-recognized computational DH Colab research center and AI Digital Humanities program in operation for 6 years now. This includes no costs for hardware, software, cloud computing, support staff or other expenses. Achieved this by strategic planning, carefully curating and constantly updating a set of fully open-source, robust, best-of-breed and/or freely available resources.
 
 Our interdisciplinary AI DH research has been published in top presses, journals and conferences. We have also mentored hundreds of ML/AI DH projects that synthesize Artificial Intelligence with literature, history, political science, art, dance, music, law, medicine, economics and more. Various sample AI DH projects are given at the bottom of this page.
 
