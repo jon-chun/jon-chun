@@ -90,8 +90,7 @@ I've also long been interested in bringing diverse voices to urgent debates surr
 | Category | Count | Percent |
 | -------- | ----- | ------- |
 | Male | 41 | 53% |
-| Female | 32 | 42% |
-| Non-Binary | 4 | 5% |
+| Female | 36 | 47% |
 | TOTAL | 78 | 100% |
 * 13% African-American (10)
 
@@ -110,19 +109,19 @@ I've also long been interested in bringing diverse voices to urgent debates surr
 
 At Kenyon College, I co-founded the world’s first human-centric AI curriculum. I am the sole technical advisor and the primary collaborative content creator. Over the last six years of teaching this curriculum, we have achieved the following milestones:
 
-• Produced research in top publications and conferences (Cambridge UP, Narrative, Journal of Cultural Analytics, etc)
+• <b>Research:</b> Published research in top publications and conferences (Cambridge UP, Narrative, Journal of Cultural Analytics, etc) with clear growth in citations.
 
-• Organically grew (no marketing/PR) to ~15k hits from top universities worldwide (#4 CMU, #5 Berkeley, #6 Stanford, #7 Columbia, #9 NYU, #16 Princeton, #22 Oxford, #23 MIT, #25 Cambridge, etc)
+• <b>AI Digital Humanities/DH Colab Research:</b> Organically grew (no marketing/PR) to ~15k hits from top universities worldwide (#4 CMU, #5 Berkeley, #6 Stanford, #7 Columbia, #9 NYU, #16 Princeton, #22 Oxford, #23 MIT, #25 Cambridge, etc)
 
-• Diversity: 
+• <b>Diversity:</b> 
   * <b>Female</b> Grew from 18% to 61% between 2017-2021 
   * <b>Hispanic</b> participation rates are often at or above college averages
   * <b>African-American</b> 13% (Fall 2022 estimate above) 
   * <b>Non-STEM</b> Our classes are ~90% non-STEM from across nearly all departments, enfranchising many students who may otherwise feel alienated by traditional CS programs
 
-• Experienced enrollment growth from 20 to 120 between 2017-2022 becoming one of the largest classes at Kenyon as an elective with no credit toward the traditional STEM computing major/minor
+• <b>Enrollment:</b> Experienced enrollment growth from 20 to 120 between 2017-2022 becoming one of the largest classes at Kenyon as an elective with no credit toward the traditional STEM computing major/minor
 
-• With no budget or antecedent, innovated from scratch a globally-recognized computational DH Colab research center and AI Digital Humanities. This includes no funds for hardware, software, cloud computing, support staff or other common expenses. This is achieved thru continual strategic planning, careful curation and testing fully open-source, robust, best-of-breed and/or freely available resources informed by decades of experience in industry.
+• <b>Budget:</b> With no budget or antecedent, innovated from scratch a globally-recognized computational DH Colab research center and AI Digital Humanities. This includes no funds for hardware, software, cloud computing, support staff or other common expenses. This is achieved thru continual strategic planning, careful curation and testing fully open-source, robust, best-of-breed and/or freely available resources informed by decades of experience in industry.
 
 Our interdisciplinary AI DH research has been published in top presses, journals and conferences. We have also mentored hundreds of ML/AI DH projects that synthesize Artificial Intelligence with literature, history, political science, art, dance, music, law, medicine, economics and more. Various sample AI DH projects are given at the bottom of this page.
 
