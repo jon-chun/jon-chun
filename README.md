@@ -76,12 +76,35 @@ I've also long been interested in bringing diverse voices to urgent debates surr
 
 ## A Human-First AI Curriculum
 ---
+
+<br></br><figure>
+<center>
+<img src="images/ascension_blackboard_2022fall.jpg" alt="Trulli" style="width:80%">
+</center>
+<figcaption align = "center"><b>UPDATE:</b> <i>Progress on UMR Diversity</i><br></figcaption>
+</figure>
+
+<br>
+<b>Fall 2022</b> <i>IPHS 200 Programming Humanity (estimate)</i>
+
+| Category | Count | Percent |
+| -------- | ----- | ------- |
+| Male | 41 | 53% |
+| Female | 32 | 42% |
+| Non-Binary | 4 | 5% |
+| TOTAL | 78 | 100% |
+* 13% African-American (10)
+
+
+<br></br>
+---
 <figure>
 <center>
 <img src="images/iphs_ai_dh_gender.jpg" alt="Trulli" style="width:80%">
 </center>
-<figcaption align = "center"><i>Progress of Gender Diversity in AI Digital Humanities curriculum since<br>the 2017-2018 academic year</figcaption>
+<figcaption align = "center"><i>Progress on Gender Diversity in AI Digital Humanities curriculum since<br>the 2017-2018 academic year</figcaption>
 </figure>
+
 
 <br></br>
 
