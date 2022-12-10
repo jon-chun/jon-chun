@@ -114,11 +114,15 @@ At Kenyon College, I co-founded the world’s first human-centric AI curriculum.
 
 • Organically grew (no marketing/PR) to ~15k hits from top universities worldwide (#4 CMU, #5 Berkeley, #6 Stanford, #7 Columbia, #9 NYU, #16 Princeton, #22 Oxford, #23 MIT, #25 Cambridge, etc)
 
-• Diversity: Grew from 18% to 61% female with URM participation rates often at or above college averages. Our classes are majority non-STEM, reaching out to many students who otherwise feel alienated by traditional CS study.
+• Diversity: 
+  * <b>Female</b> Grew from 18% to 61% between 2017-2021 
+  * <b>Hispanic</b> participation rates are often at or above college averages
+  * <b>African-American</b> 13% (Fall 2022 estimate above) 
+  * <b>Non-STEM</b> Our classes are ~90% non-STEM from across nearly all departments, enfranchising many students who may otherwise feel alienated by traditional CS programs
 
-• Achieved enrollment growth from 20 to 120 becoming one of the largest classes at Kenyon
+• Experienced enrollment growth from 20 to 120 between 2017-2022 becoming one of the largest classes at Kenyon as an elective with no credit toward the traditional STEM computing major/minor
 
-• Without a budget, have innovated from scratch a globally-recognized computational DH Colab research center and AI Digital Humanities program in operation for 6 years now. This includes no costs for hardware, software, cloud computing, support staff or other expenses. Achieved this by strategic planning, carefully curating and constantly updating a set of fully open-source, robust, best-of-breed and/or freely available resources.
+• With no budget or antecedent, innovated from scratch a globally-recognized computational DH Colab research center and AI Digital Humanities. This includes no funds for hardware, software, cloud computing, support staff or other common expenses. This is achieved thru continual strategic planning, careful curation and testing fully open-source, robust, best-of-breed and/or freely available resources informed by decades of experience in industry.
 
 Our interdisciplinary AI DH research has been published in top presses, journals and conferences. We have also mentored hundreds of ML/AI DH projects that synthesize Artificial Intelligence with literature, history, political science, art, dance, music, law, medicine, economics and more. Various sample AI DH projects are given at the bottom of this page.
 
