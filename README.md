@@ -1,5 +1,4 @@
 <h1><b>AI Digital Humanities</b></h1>
----
 Jon A Chun<br>
 Co-Founder, Kenyon DH Colab
 <br></br>
