@@ -102,7 +102,7 @@ I've also long been interested in bringing diverse voices to urgent debates surr
 <center>
 <img src="images/iphs_ai_dh_gender.jpg" alt="Trulli" style="width:80%">
 </center>
-<figcaption align = "center"><i>Progress on Gender Diversity in AI Digital Humanities curriculum since<br>the 2017-2018 academic year</figcaption>
+<figcaption align = "center"><i>Progress on Gender Diversity in AI Digital Humanities curriculum since<br>the 2017-2018 academic year<br>(61% female as of Spring 2022)</figcaption>
 </figure>
 
 
