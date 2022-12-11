@@ -20,7 +20,7 @@ Co-Founder, Kenyon DH Colab
 ## Research
 ---
 
-Jon Chun researches ML/AI approaches to NLP with a particular focus on large language models, prompt engineering, XAI/FATE and low/no code approaches for domain experts outside the AI community. He was a successful Silicon Valley entrepreneur/CEO as well as a Fortune 500 Director of Development and has worked in a wide variety of fields including Medicine, Network Security and Finance. 
+Jon Chun researches ML/AI approaches to NLP, narrative and AffectiveAI with a particular focus on large language models, prompt engineering, XAI/FATE and low/no code approaches for domain experts outside the AI community. He was a successful Silicon Valley entrepreneur/CEO as well as a Fortune 500 Director of Development and has worked in a wide variety of fields including Medicine, Network Security and Finance. 
 
 Most recently, he created the open-source library SentimentArcs, the largest ensemble for diachronic sentiment analysis and the basis for Katherine Elkins's “The Shape of Stories” (Cambridge UP 2022). He presented some of the earliest GPT-2 story generation work at Narrative2020 and has since published in Cultural Analytics and Narrative on AI and Narrative. He has mentored approximately three hundred computational Digital Humanities projects over 6 years in the Kenyon College AI Digital Humanities program which he co-founded as the world's first AI curriculum for the Liberal Arts. He is currently working on “Exploring the Black Box: Narrative XAI” for a special issue of The International Journal of Digital Humanities.
 
