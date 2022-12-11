@@ -65,9 +65,13 @@ and Narrative</a>, Narrative 2020 Conference (page 28), March 5-7 The Interconti
 ---
 I am focused on creatively applying the best of industry practices and state-of-the-art AI/ML techniques on interesting and high-impact interdisciplinary research. The combination of AI/ML, math/statistics and a diversity of domain expertise provides fresh insights and countless new paths of discovery.
 
-I've also long been interested in bringing diverse voices to urgent debates surrounding technology’s growing impact on society. For most of the last decade, I have been developing a humanity-first approach to integrate STEM and non-STEM into a coherent intellectual framework. 
+I've also long been interested in bringing diverse voices to urgent debates surrounding technology’s growing impact on society. Our AI Digital Humanities computing curriculum has succeeded in attracting a majority female (61%), non-STEM (91%) and Under-Represented Minorities (11% Hispanic, 13% African-American) as of 2022. Enrollments have steadily grown to become one of the most popular courses on campus. Both our research and that of our students have seen exponential growth in terms of citations and thousands of visits from top academic institutions around the world.
 
- The organizing principle of both our research and our curriculum is computational Digital Humanities grounded in AI/ML. This approach is designed to bridge the gap between technology and humanity. This integrated worldview will hopefully lead to more ethical, practical and beneficial use of technology for all.
+Over most of the last decade, I have been developing a new humanity-first approach to teaching computation grounded in ML, AI and Data Science with real-world applications inseparable from ethics. One challenge was to bridge the STEM and non-STEM divide. Another challenge was harmonizing the rigorous specialization of academia with practical, cross-discipline and generalizable real-world solutions. The final challenge was to bootstrap an entirely new AI Digital Humanities computing curriculum without a budget, support staff, or credit toward any major/minor.
+
+Over the first 6 years, our foundational course has become one of the most popular on campus. Both our professors' and students' research have been published in top journals, presented at leading conferences and have been read by thousands from top universities and research centers around the world. Both founders of our program have been involved in several organizations beyond Kenyon dedicated to AI, Ethics and innovating CS Education.
+
+Philosophically, we believe humanity needs to shrink and reverse the growing gap between our technological advances that currently outpace and threaten to eclipse our humanity. One goal is to cultivate in our students a technologically informed worldview grounded in universal humanistic values. This integrated worldview is designed to more intimately align the core strengths of traditional education with more ethical, practical and beneficial uses of technology for all.
 
 <br></br>
 
