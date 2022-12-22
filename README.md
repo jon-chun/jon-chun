@@ -26,6 +26,7 @@ Most recently, he created the open-source library SentimentArcs, the largest ens
 
 * Google Scholar: [jonchun2000](https://scholar.google.com/citations?user=l-iUHQMAAAAJ&hl=en)
 * Academia.edu: [kenyon.academia.edu/jchun](https://kenyon.academia.edu/jchun)
+* Following: [ArXiv CS.(x)](https://jon-chun.github.io/MyArXiv/)
 
 <b>Recent Highlights</b>
 
