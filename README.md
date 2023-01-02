@@ -14,7 +14,7 @@ Co-Founder, Kenyon DH Colab
 - [Social Media](#-social-media)
 - [Mentored Research](#mentored-research)
 - [Course Descriptions](#course-descriptions)
-- [Volunteer Organizations](#organizations)
+- [Organizations](#organizations)
 
 <br></br>
 
@@ -280,6 +280,7 @@ Our AI research and DHColab were collaboratively developed and the curriculum is
 
 * <b>IPHS200 [Programming Humanity](https://digital.kenyon.edu/dh_iphs_prog/) (samples below)</b>
 
+    - 
     - Poetry/GPT-3: [The GPT3 Re-Imagining of “Howl” By Allen Ginsberg: What Are The Strengths and Weaknesses of This Representation?](https://digital.kenyon.edu/dh_iphs_prog/30/)
     - Literature/GPT-2: [345M-GPT-2 After James Wright: Can AI Generate Convincing Contemporary Poetry?](https://digital.kenyon.edu/dh_iphs_prog/11/)
     - Environmental Studies/Bayesian Time Series Analysis: [Predicting Attitudes Toward the Environment Artificial Intelligence for the Humanities](https://digital.kenyon.edu/dh_iphs_ai/7/)
@@ -393,11 +394,12 @@ Our AI research and DHColab were collaboratively developed and the curriculum is
 
 <br></br>
 
-<b>Volunteer Organizations</b>
+## Organizations
+---
 
 * <a href="https://www.helixcenter.org/">The Helix Center</a>, NY, NY
-  - Executive Committee (2022-)
-  - Round-Table: <a href="https://www.helixcenter.org/participants/jon-chun/">Living in Difficult Times</a>, Nov 19, 2022
+  - **Executive Committee** (2022-)
+  - **Round-Table**: <a href="https://www.helixcenter.org/participants/jon-chun/">Living in Difficult Times</a>, Nov 19, 2022
   - **About**: The original inspiration for interdisciplinary forums arose from the observations by our director, Dr. Edward Nersessian, of the constraints in both communication and creativity among scientists at professional meetings, fueled both by narrow specialization and the grant process, that with its demand for sharply defined investigation seemed, in fact, to be limiting curiosity and inquiry. This motivated him to form discussion groups drawing on multiple disciplines, the creative productivity of which inspired the formation of the Philoctetes Center for the Multidisciplinary Study of the Imagination.
   - **Mission**: The primary mission of The Helix Center is to draw together leaders from distinct spheres of knowledge in the arts, humanities, sciences, and technology for interdisciplinary roundtables, the unique format of which potentiates new ideas, new questions, and facilitates emergent creative qualities of mind less possible in conventional collaborations. Such a drawing together of leaders of various disciplines irrespective of their academic affiliation allows the Helix Center to function as a kind of university without walls. In addition, through audience attendance and its Q&A engagement with the roundtable participants, and live streamed and archived events, we aim to expand public understanding and appreciation of the sciences and technology, the arts and humanities.
 
