@@ -14,6 +14,7 @@ Co-Founder, Kenyon DH Colab
 - [Social Media](#-social-media)
 - [Mentored Research](#mentored-research)
 - [Course Descriptions](#course-descriptions)
+- [Volunteer Organizations](#organizations)
 
 <br></br>
 
@@ -304,13 +305,13 @@ Our AI research and DHColab were collaboratively developed and the curriculum is
 * <b>IPHS290 [Cultural Analytics](https://jon-chun.github.io/cultural-analytics/) (New Fall 2022)</b>
     - **Upcoming Projects:** (Intentionally vague for now)
     - Multi/Racial Identity
-    - Medical Narratives
-    - African Geopolitical, Economic, & Military Analysis 
-    - AI Script Writing
-    - Global Arms Trade
-    - Narrative Close Readings
-    - Medical Economics and Performance
-    - Global Supply Chain Analysis
+    - NLP Analysis of End of Life Medical Narratives 
+    - US-Latin American Geopolitical, Economic, & Military Aid and Analysis 
+    - Multimodal Generative AI Script Writing and Story Boarding
+    - Original Analysis of Post 9/11 Pentagon Budgets and Financial Reports of top 5 Defense Contractors
+    - Exploring Representations of Utopia in Literature over Time
+    - Analysis of Economic Performance and Healthcare Quality Metrics after Private Equity Acquisitions
+    - Global Supply Chain Analysis post Covid
 <br></br>
 
 * <b>IPHS300 [AI for the Humanities](https://digital.kenyon.edu/dh_iphs_ai/) (samples below)</b>
@@ -329,6 +330,9 @@ Our AI research and DHColab were collaboratively developed and the curriculum is
 <br></br>
 
 * <b>IPHS484 [Senior Seminar/Research](https://digital.kenyon.edu/dh_iphs_ss/) (samples below)</b>
+  - Film/ChatGPT & DALL-E2: [When AI Met Screenwriting... Can AI Generate Beat Sheets and Storyboards?]()
+  - Sociology/AI Visual Sentiment Analysis:[AI reads Playboy (but not for the articles): Revealing Cover Trends with Deep Neural Networks]() 
+  - Political Science/Econometrics: [An Econometric Measure of the Post-9/11 Growth of the Defense Budget: Quantifying the Military-Industrial Complex’s Growing Influence Over the Pentagon]()
   - Sociology/NLG with GPT-2 vs GPT-3: [Black Box Karl Marx: What do large language models have to say about Das Kapital? A Comparison of GPT-2 and GPT-3 Outputs](https://digital.kenyon.edu/dh_iphs_ai/32/)
   - Fiction Narrative/NLP Sentiment Analysis: [Adapted Arcs: Sentiment Analysis and The Sorcerer’s Stone](https://digital.kenyon.edu/dh_iphs_ss/1/)
   - Public Health/Statistical Machine Learning: [Evaluating Ohio’s Opioid Overdose Epidemic with AI](https://digital.kenyon.edu/dh_iphs_ss/5/)
@@ -378,6 +382,29 @@ Our AI research and DHColab were collaboratively developed and the curriculum is
 [Back to Top](#ai-digital-humanities)
 
 <br></br>
+<b>Integrated Program for Humane Studies (2017-)</b>
+
+* IPHS200 [Programming Humanity](https://programminghumanity.wordpress.com/)
+* IPHS290 [Cultural Analytics](https://jon-chun.github.io/cultural-analytics/)
+    - (New Fall 2022) Projects Upcoming
+* IPHS300 [AI for the Humanities](https://aiforthehumanities.wordpress.com/) (samples)
+* IPHS494 Senior Seminar Research Projects
+* IPHS Independent Study Research
+
+<br></br>
+
+<b>Volunteer Organizations</b>
+
+* <a href="https://www.helixcenter.org/">The Helix Center</a>, NY, NY
+  - Executive Committee (2022-)
+  - Round-Table: <a href="https://www.helixcenter.org/participants/jon-chun/">Living in Difficult Times</a>, Nov 19, 2022
+  - **About**: The original inspiration for interdisciplinary forums arose from the observations by our director, Dr. Edward Nersessian, of the constraints in both communication and creativity among scientists at professional meetings, fueled both by narrow specialization and the grant process, that with its demand for sharply defined investigation seemed, in fact, to be limiting curiosity and inquiry. This motivated him to form discussion groups drawing on multiple disciplines, the creative productivity of which inspired the formation of the Philoctetes Center for the Multidisciplinary Study of the Imagination.
+  - **Mission**: The primary mission of The Helix Center is to draw together leaders from distinct spheres of knowledge in the arts, humanities, sciences, and technology for interdisciplinary roundtables, the unique format of which potentiates new ideas, new questions, and facilitates emergent creative qualities of mind less possible in conventional collaborations. Such a drawing together of leaders of various disciplines irrespective of their academic affiliation allows the Helix Center to function as a kind of university without walls. In addition, through audience attendance and its Q&A engagement with the roundtable participants, and live streamed and archived events, we aim to expand public understanding and appreciation of the sciences and technology, the arts and humanities.
+
+
+<br></br>
+
+[Back to Top](#ai-digital-humanities)
 
 <figure>
 <center>
