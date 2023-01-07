@@ -31,9 +31,12 @@ Most recently, he created the open-source library SentimentArcs, the largest ens
 
 <b>Recent Highlights</b>
 
-* (Upcoming) "Exploring the Black Box: Narrative XAI", International Journal of Digital Humanities (IJDH) special issue "Reproducibility and Explainability in Digital Humanities"
+* (Upcoming) "Augmenting Narrative Generation with Visual Imagery Using Integrated Prompt Engineering (ChatGPT, DALL-E 2)",
+Narrative 2023, March 1-4th, Dallas, TX -[Narrative Society](https://www.thenarrativesociety.org/2023-confere)  
 
-* Elkins, Kate <a href="https://www.helixcenter.org/roundtables/coding-and-the-new-human-phenotype-are-natural-language-generators-for-real/">Are Natural Language Generators for Real?</a>, The Helix Center, Coding and the new Human Phenotype, Oct 15-16, 2022, NY, NY
+* (Upcoming) "Exploring the Black Box: Narrative XAI", [International Journal of Digital Humanities (IJDH)](https://www.springer.com/journal/42803) 2023 Special Issue on "Reproducibility and Explainability in Digital Humanities"
+
+* <a href="https://www.helixcenter.org/roundtables/living-in-difficult-times/">Living In Difficult Times</a>, The Helix Center, Nov 19th, 2022, NY, NY
 
 * Chun, Jon, and Katherine Elkins. <a href="https://muse.jhu.edu/article/846035">"What the Rise of AI Means for Narrative Studies: A Response to “Why Computers Will Never Read (or Write) Literature” by Angus Fletcher."</a> Narrative 30, no. 1 (2022): 104-113. doi:10.1353/nar.2022.0005.
 
