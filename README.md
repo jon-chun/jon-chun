@@ -321,14 +321,12 @@ Our AI research and DHColab were collaboratively developed and the curriculum is
 
 * <b>IPHS290 [Cultural Analytics](https://jon-chun.github.io/cultural-analytics/) (New Fall 2022)</b>
     - **Upcoming Projects:** (Intentionally vague for now)
-    - Multi/Racial Identity
-    - NLP Analysis of End of Life Medical Narratives 
+    - Multi-Racial Identity
+    - NLP Analysis of End-of-Life Medical Narratives 
     - US-Latin American Geopolitical, Economic, & Military Aid and Analysis 
-    - Multimodal Generative AI Script Writing and Story Boarding
-    - Original Analysis of Post 9/11 Pentagon Budgets and Financial Reports of top 5 Defense Contractors
     - Exploring Representations of Utopia in Literature over Time
     - Analysis of Economic Performance and Healthcare Quality Metrics after Private Equity Acquisitions
-    - Global Supply Chain Analysis post Covid
+    - Global Supply Chain Analysis post-Covid
 <br></br>
 
 * <b>IPHS300 [AI for the Humanities](https://digital.kenyon.edu/dh_iphs_ai/) (samples below)</b>
