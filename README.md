@@ -283,15 +283,20 @@ Our AI research and DHColab were collaboratively developed and the curriculum is
 
 * <b>IPHS200 [Programming Humanity](https://digital.kenyon.edu/dh_iphs_prog/) (samples below)</b>
 
-    - Cultural Bias/DALL-E 2: [Adjectivally-Oriented: Women Through the Decades: Stylistic Shifts In Magazines As Represented By Image-Generating AI]() Coming...
-    - Gender Studies/Topic Modeling: [The Second Meaning: Uncovering the Linguistic Interpretation of Simone de Beauvior’s The Second Sex]() Coming...
-    - Literature/Multilingual Sentiment Analysis: [The Trials of Translation: A Cross-Linguistic Survey of Sentiment Analysis on Franz Kafka’s Trial]() Coming...
-    - ChatGPT/Security: [Breaking ChatGPT with Dangerous Questions]() Coming...
-    - Art Communities/DALL-E 2: [Do Andriods Dream of Digital Art? Addressing the Spectrum of Perspectives on AI-Generated Artwork]() Coming...
-    - Economics/Social Media Sentiment: [How the Mighty Have Fallen: Analyzing Twitter Sentiment in the Wake of FTX Bankruptcy and Sam Bankman-Fried's Indictment]() Coming...
-    - Literature/Spanish Sentiment Analysis: [Multilingual Sentiment Analysis and Translation: Spanish and English Story Arcs in Juan Rulfo’s Pedro Páramo]() Coming...
-    - Sociology/Social Media: [Understanding Caste System in Nepal: Surfacing changes in public sentiment on Twitter over time]() Coming...
-    - Sport Economics/Social Media: [Values or Profit? An Analysis on the Impact of Legal Sports Betting on Sports Business]() Coming...
+    - Cultural Bias/DALL-E 2: [Adjectivally-Oriented: Women Through the Decades: Stylistic Shifts In Magazines As Represented By Image-Generating AI](https://digital.kenyon.edu/dh_iphs_prog/53)
+    - Political Science/Social Media [How Did Sri Lankan Protestors End Up in the President’s Pool? Understanding the evolution of an occupy-style protest: A story of economic turmoil, declining social sentiment and resulting political change](https://digital.kenyon.edu/dh_iphs_prog/59)
+    - Gender Studies/Topic Modeling: [The Second Meaning: Uncovering the Linguistic Interpretation of Simone de Beauvior’s The Second Sex](https://digital.kenyon.edu/dh_iphs_prog/52)
+    - Literature/Multilingual Sentiment Analysis: [The Trials of Translation: A Cross-Linguistic Survey of Sentiment Analysis on Franz Kafka’s Trial](https://digital.kenyon.edu/dh_iphs_prog/55)
+    - ChatGPT/Security: [Breaking ChatGPT with Dangerous Questions](https://digital.kenyon.edu/dh_iphs_prog/63)
+    - Art Communities/DALL-E 2: [Do Andriods Dream of Digital Art? Addressing the Spectrum of Perspectives on AI-Generated Artwork](https://digital.kenyon.edu/dh_iphs_prog/61)
+    - Economics/Social Media Sentiment: [How the Mighty Have Fallen: Analyzing Twitter Sentiment in the Wake of FTX Bankruptcy and Sam Bankman-Fried's Indictment](https://digital.kenyon.edu/dh_iphs_prog/60)
+    - Literature/Spanish Sentiment Analysis: [Multilingual Sentiment Analysis and Translation: Spanish and English Story Arcs in Juan Rulfo’s Pedro Páramo](https://digital.kenyon.edu/dh_iphs_prog/56) 
+    - Sociology/Social Media: [Understanding Caste System in Nepal: Surfacing changes in public sentiment on Twitter over time](https://digital.kenyon.edu/dh_iphs_prog/51)
+    - Political Science/Economics [Military Expenditures and Terrorism: Assessing Correlation Between Terror Attacks and Global Military Spending](https://digital.kenyon.edu/dh_iphs_prog/58)
+    - Literature/Sentiment Analysis [Hitchhiker's Guide to Sentiment Analysis: A Comparison between Movie and Film](https://digital.kenyon.edu/dh_iphs_prog/57)
+    - Sports Economics/Social Media: [Values or Profit? An Analysis on the Impact of Legal Sports Betting on Sports Business](https://digital.kenyon.edu/dh_iphs_prog/50)
+    - Environmental Studies/Social Media [Energy Conversation on Alternative Energy World perspective vs Bangladesh](https://digital.kenyon.edu/dh_iphs_prog/54)
+    - Political Science/Social Media [Understanding Public Opinion towards the Government of Bangladesh through Sentiment Analysis of Twitter](https://digital.kenyon.edu/dh_iphs_prog/62)
     - Poetry/GPT-3: [The GPT3 Re-Imagining of “Howl” By Allen Ginsberg: What Are The Strengths and Weaknesses of This Representation?](https://digital.kenyon.edu/dh_iphs_prog/30/)
     - Literature/GPT-2: [345M-GPT-2 After James Wright: Can AI Generate Convincing Contemporary Poetry?](https://digital.kenyon.edu/dh_iphs_prog/11/)
     - Environmental Studies/Bayesian Time Series Analysis: [Predicting Attitudes Toward the Environment Artificial Intelligence for the Humanities](https://digital.kenyon.edu/dh_iphs_ai/7/)
