@@ -31,10 +31,12 @@ Most recently, he created the open-source library SentimentArcs, the largest ens
 
 <b>Recent Highlights</b>
 
+* (January 2023) "Roundtable on Generative AI Art and Writing: Current and future models with implications for Higher Education", Kenyon College, Gambier, OH
+
 * (Upcoming) "Augmenting Narrative Generation with Visual Imagery Using Integrated Prompt Engineering (ChatGPT, DALL-E 2)",
 Narrative 2023, March 1-4th, Dallas, TX -[Narrative Society](https://www.thenarrativesociety.org/2023-confere)  
 
-* (Upcoming) "Exploring the Black Box: Narrative XAI", [International Journal of Digital Humanities (IJDH)](https://www.springer.com/journal/42803) 2023 Special Issue on "Reproducibility and Explainability in Digital Humanities"
+* (Upcoming) "Exploring the Black Box: Narrative XAI (eXplainable AI)", [International Journal of Digital Humanities (IJDH)](https://www.springer.com/journal/42803) 2023 Special Issue on "Reproducibility and Explainability in Digital Humanities"
 
 * <a href="https://www.helixcenter.org/roundtables/living-in-difficult-times/">Living In Difficult Times</a>, The Helix Center, Nov 19th, 2022, NY, NY
 
