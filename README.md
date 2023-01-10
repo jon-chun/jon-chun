@@ -295,12 +295,12 @@ Our AI research and DHColab were collaboratively developed and the curriculum is
     - Political Science/Economics [Military Expenditures and Terrorism: Assessing Correlation Between Terror Attacks and Global Military Spending](https://digital.kenyon.edu/dh_iphs_prog/58)
     - Literature/Sentiment Analysis [Hitchhiker's Guide to Sentiment Analysis: A Comparison between Movie and Film](https://digital.kenyon.edu/dh_iphs_prog/57)
     - Sports Economics/Social Media: [Values or Profit? An Analysis on the Impact of Legal Sports Betting on Sports Business](https://digital.kenyon.edu/dh_iphs_prog/50)
-    - Environmental Studies/Social Media [Energy Conversation on Alternative Energy World perspective vs Bangladesh](https://digital.kenyon.edu/dh_iphs_prog/54)
+    - Environmental Studies/Social Media [Energy Conversation on Alternative Energy World Perspective vs Bangladesh](https://digital.kenyon.edu/dh_iphs_prog/54)
     - Political Science/Social Media [Understanding Public Opinion towards the Government of Bangladesh through Sentiment Analysis of Twitter](https://digital.kenyon.edu/dh_iphs_prog/62)
     - Poetry/GPT-3: [The GPT3 Re-Imagining of “Howl” By Allen Ginsberg: What Are The Strengths and Weaknesses of This Representation?](https://digital.kenyon.edu/dh_iphs_prog/30/)
     - Literature/GPT-2: [345M-GPT-2 After James Wright: Can AI Generate Convincing Contemporary Poetry?](https://digital.kenyon.edu/dh_iphs_prog/11/)
     - Environmental Studies/Bayesian Time Series Analysis: [Predicting Attitudes Toward the Environment Artificial Intelligence for the Humanities](https://digital.kenyon.edu/dh_iphs_ai/7/)
-    - Political Science/NLP Topic Modeling: [https://digital.kenyon.edu/dh_iphs_ai/1/](https://digital.kenyon.edu/dh_iphs_ai/1/)
+    - Political Science/NLP Topic Modeling: [Transitional Justice Terminology Analysis in United Nations General Assembly Speeches (1971-2015)](https://digital.kenyon.edu/dh_iphs_ai/1/)
     - Literature/NLP Sentiment Analysis [Doubles and Reflections: Sentiment Analysis and Vladimir Nabokov’s Pale Fire](https://digital.kenyon.edu/dh_iphs_ai/12/)
     - Conflict Studies/Data Science [Cold War Conflicts: Analyzing the Role of U.S. Arms Exports](https://digital.kenyon.edu/dh_iphs_ai/10/)
     - Music/RNN Composition: [RNN monophonic sheet music generation with LilyPond](https://digital.kenyon.edu/dh_iphs_ai/2/)
@@ -345,9 +345,9 @@ Our AI research and DHColab were collaboratively developed and the curriculum is
 <br></br>
 
 * <b>IPHS484 [Senior Seminar/Research](https://digital.kenyon.edu/dh_iphs_ss/) (samples below)</b>
-  - Film/ChatGPT & DALL-E2: [When AI Met Screenwriting... Can AI Generate Beat Sheets and Storyboards?]() Coming...
-  - Sociology/AI Visual Sentiment Analysis:[AI reads Playboy (but not for the articles): Revealing Cover Trends with Deep Neural Networks]() Coming...
-  - Political Science/Econometrics: [An Econometric Measure of the Post-9/11 Growth of the Defense Budget: Quantifying the Military-Industrial Complex’s Growing Influence Over the Pentagon]() Coming...
+  - Film/ChatGPT & DALL-E2: [When AI Met Screenwriting... Can AI Generate Beat Sheets and Storyboards?](https://digital.kenyon.edu/dh_iphs_ss/18/)
+  - Sociology/AI Visual Sentiment Analysis: [AI reads Playboy (but not for the articles): Revealing Cover Trends with Deep Neural Networks](https://digital.kenyon.edu/dh_iphs_ss/17/)
+  - Political Science/Econometrics: [An Econometric Measure of the Post-9/11 Growth of the Defense Budget: Quantifying the Military-Industrial Complex’s Growing Influence Over the Pentagon](https://digital.kenyon.edu/dh_iphs_ss/16/)
   - Sociology/NLG with GPT-2 vs GPT-3: [Black Box Karl Marx: What do large language models have to say about Das Kapital? A Comparison of GPT-2 and GPT-3 Outputs](https://digital.kenyon.edu/dh_iphs_ai/32/)
   - Fiction Narrative/NLP Sentiment Analysis: [Adapted Arcs: Sentiment Analysis and The Sorcerer’s Stone](https://digital.kenyon.edu/dh_iphs_ss/1/)
   - Public Health/Statistical Machine Learning: [Evaluating Ohio’s Opioid Overdose Epidemic with AI](https://digital.kenyon.edu/dh_iphs_ss/5/)
