@@ -31,7 +31,7 @@ Most recently, he created the open-source library SentimentArcs, the largest ens
 
 <b>Recent Highlights</b>
 
-* (January 2023) "Roundtable on Generative AI Art and Writing: Current and future models with implications for Higher Education", Kenyon College, Gambier, OH
+* (January 2023) "Roundtable on Generative AI Art and Writing: Current and future models with implications for Higher Education", AI DHColab, Kenyon College, Gambier, OH
 
 * (Upcoming) "Augmenting Narrative Generation with Visual Imagery Using Integrated Prompt Engineering (ChatGPT, DALL-E 2)",
 Narrative 2023, March 1-4th, Dallas, TX -[Narrative Society](https://www.thenarrativesociety.org/2023-confere)  
@@ -78,7 +78,7 @@ Over most of the last decade, I have been developing a new humanity-first approa
 
 Over the first 6 years, our foundational course has become one of the most popular on campus. Both our professors' and students' research have been published in top journals, presented at leading conferences and have been read by thousands from top universities and research centers around the world. Both founders of our program have been involved in several organizations beyond Kenyon dedicated to AI, Ethics and innovating CS Education.
 
-Philosophically, we believe humanity needs to shrink and reverse the growing gap between our technological advances that currently outpace and threaten to eclipse our humanity. One goal is to cultivate in students a technologically informed worldview grounded in universal humanistic values. This integrated worldview is designed to more intimately align the core strengths of traditional education with more ethical, practical and beneficial uses of technology for all.
+Philosophically, we believe humanity needs to shrink and reverse the growing gap between our technological advances that currently outpace and threaten to eclipse our humanity. One goal is to cultivate in students a technologically informed worldview grounded in universal humanistic values. This integrated worldview is designed to intimately align the core strengths of traditional education with more ethical, practical and beneficial uses of technology for all.
 
 <br></br>
 
@@ -121,9 +121,9 @@ Philosophically, we believe humanity needs to shrink and reverse the growing gap
 
 At Kenyon College, I co-founded the world’s first human-centric AI curriculum. I am the sole technical advisor and the primary collaborative content creator. Over the last six years of teaching this curriculum, we have achieved the following milestones:
 
-• <b>Research:</b> Published research in top publications and conferences (Cambridge UP, Narrative, Journal of Cultural Analytics, etc) with clear growth in citations.
+• <b>Research:</b> Published research in top publications and conferences (Cambridge UP, Narrative, Journal of Cultural Analytics, etc.) with clear growth in citations.
 
-• <b>AI Digital Humanities/DH Colab Research:</b> Organically grew (no marketing/PR) to ~15k hits from top universities worldwide (#4 CMU, #5 Berkeley, #6 Stanford, #7 Columbia, #9 NYU, #16 Princeton, #22 Oxford, #23 MIT, #25 Cambridge, etc)
+• <b>AI Digital Humanities/DH Colab Research:</b> Organically grew (no marketing/PR) to ~15k hits from top universities worldwide (#4 CMU, #5 Berkeley, #6 Stanford, #7 Columbia, #9 NYU, #16 Princeton, #22 Oxford, #23 MIT, #25 Cambridge, etc.)
 
 • <b>Diversity:</b> 
   * <b>Female</b> Grew from 18% to 61% between 2017-2021 
@@ -133,14 +133,14 @@ At Kenyon College, I co-founded the world’s first human-centric AI curriculum.
 
 • <b>Enrollment:</b> Experienced enrollment growth from 20 to 120 between 2017-2022 becoming one of the largest classes at Kenyon as an elective with no credit toward the traditional STEM computing major/minor
 
-• <b>Budget:</b> With no budget or antecedent, innovated from scratch a globally-recognized computational DH Colab research center and AI Digital Humanities. This includes no funds for hardware, software, cloud computing, support staff or other common expenses. This is achieved thru continual strategic planning, careful curation and testing fully open-source, robust, best-of-breed and/or freely available resources informed by decades of experience in industry.
+• <b>Budget:</b> With no budget or antecedent, innovated from scratch a globally recognized computational DH Colab research center and AI Digital Humanities. This includes no funds for hardware, software, cloud computing, support staff or other common expenses. This is achieved thru continual strategic planning, careful curation and testing fully open-source, robust, best-of-breed and/or freely available resources informed by decades of experience in industry.
 
-Our interdisciplinary AI DH research has been published in top presses, journals and conferences. We have also mentored hundreds of ML/AI DH projects that synthesize Artificial Intelligence with literature, history, political science, art, dance, music, law, medicine, economics and more. Various sample AI DH projects are given at the bottom of this page.
+Our interdisciplinary AI DH research has been published in top presses, journals, and conferences. We have also mentored hundreds of ML/AI DH projects that synthesize Artificial Intelligence with literature, history, political science, art, dance, music, law, medicine, economics and more. Various sample AI DH projects are given at the bottom of this page.
 
 <b>Timeline</b>
 
 * **1992-99**: The <a href="https://www.kenyon.edu/academics/departments-and-majors/integrated-program-in-humane-studies/">*Integrated Program for Humane Studies*</a> (IPHS, the oldest interdisciplinary program at Kenyon) established a computer lab in Timberlake House for DH scholarship under Director Michael Brint
-* **2002 Jul**: Katherine Elkins joined Kenyon and began mentoring traditional Digital Humanities projects (e.g. critiques of technology, websites, media, etc) in the IPHS program
+* **2002 Jul**: Katherine Elkins joined Kenyon and began mentoring traditional Digital Humanities projects (e.g. critiques of technology, websites, media, etc.) in the IPHS program
 * **2003 May**: Launched product Symantec Clientless VPN appliance as Director of Development and relocated from Silicon Valley
 * **2005 Mar**: Proposed new humanity-centered AI Digital Humanities curriculum in conjunction with a multi-million <a href="https://philanthropynewsdigest.org/news/morgan-kauffman-foundations-launch-liberal-arts-entrepreneurship-initiative">Ewing Marion Kauffman Foundation</a> grant
 * **2015 Aug**: Formulated detailed interdisciplinary AI Digital Humanities curriculum after years of research and training
@@ -180,7 +180,7 @@ Our AI research and DHColab were collaboratively developed and the curriculum is
 <center>
 <img src="images/iphs_ai_dh_stem.jpg" alt="Trulli" style="width:80%">
 </center>
-<figcaption align = "center"><br><i>A Humanity-First approach to AI Digital Humanities<br>consistently attracts over 90% non-STEM majors</a></i><br></figcaption>
+<figcaption align = "center"><br><i>A Humanity-First approach to AI Digital Humanities<br>consistently attracts over 90% non-STEM majors<br>(Kenyon College Institutional Research)</a></i><br></figcaption>
 </figure>
 
 <br></br>
@@ -370,7 +370,7 @@ Our AI research and DHColab were collaboratively developed and the curriculum is
 <center>
 <img src="images/slide_iphs200_3models.jpg" alt="Trulli" style="width:80%">
 </center>
-<figcaption align = "center"><br><i>The virtuous cycle, feedback and tension between the 3 models <br>that fuel our interdisciplinary innovation.</i></figcaption>
+<figcaption align = "center"><br><i>The virtuous cycle, feedback and tension between <br>the 3 models that guide our interdisciplinary innovation</i></figcaption>
 </figure>
 
 <br></br>
@@ -392,7 +392,7 @@ Our AI research and DHColab were collaboratively developed and the curriculum is
   - Narrative Metrics for NLG using LLM Transformers
   - Diachronic Sentiment Analysis Central Bank Speeches using SentimentArcs
 * SciComp Independent Study
-  - Industrial Revolution 4.0: [End-to-End Industrial IoT Preventative Maintenace](https://github.com/jon-chun/iiot-time-series-prediction-system)
+  - Industrial Revolution 4.0: [End-to-End Industrial IoT Preventative Maintenance](https://github.com/jon-chun/iiot-time-series-prediction-system)
 
 <br></br>
 
