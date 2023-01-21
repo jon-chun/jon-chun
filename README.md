@@ -44,7 +44,7 @@ Narrative 2023, March 1-4th, Dallas, TX -[Narrative Society](https://www.thenarr
 
 * Chun, Jon. <a href="https://arxiv.org/abs/2110.09454">"SentimentArcs: A Novel Method for Self-Supervised Sentiment Analysis of Time Series Shows SOTA Transformers Can Struggle Finding Narrative Arcs."</a> ArXiv abs/2110.09454 (2021): n. page.
   
-* Chun, Jon. <a href="https://www.youtube.com/watch?v=Ldb0vlCQXtQ&t=1s">AI Improv DivaBot</a> in collaboration with Katherine Elkins, James Dennen (Denison University and Wexner Arts), Lauren Katz (Thymele Arts, LA)
+* Chun, Jon. <a href="https://www.youtube.com/watch?v=Ldb0vlCQXtQ&t=1s">AI Improv DivaBot</a> in collaboration with Katherine Elkins, James Dennen (Denison University and Wexner Arts), Lauren Katz (Thymele Arts, LA), ***100th anniversary of the premiere of “R.U.R.,” by Czechoslovakian playwright Karel Capek. “R.U.R.”*** (for “Rossum’s Universal Robots”) opened on January 25th, 1921, at the National Theater of Prague and marks the first use of the word “robot,” coined by Capek and derived from the Czech word for “forced labor.”, 25 Jan 2021
 
 * Elkins, Katherine, and Jon Chun. <a href="https://culturalanalytics.org/article/17212.pdf">"Can GPT-3 pass a Writer’s Turing Test?."</a> Journal of Cultural Analytics 5, no. 2 (2020): 17212.
 
