@@ -63,6 +63,8 @@ and Narrative</a>, Narrative 2020 Conference (page 28), March 5-7 The Interconti
 
 <br></br>
 
+<b>Prior Academic Publications (Electronic Health Records and Gene Therapy)</b>
+
 * J.R. Flanagan, J. Chun and J.R. Wagner <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2232982/">Evolution of a legacy system to a Web patient record server: leveraging investment while opening the system</a> Proceedings of the AMIA Annual Fall Symposium, 1996
 
 * K. G. Lamping , C. D. Rios , J. A. Chun , H. Ooboshi , B. L. Davidson , and D. D. Heistad. <a href="https://journals.physiology.org/doi/abs/10.1152/ajpheart.1997.272.1.h310?casa_token=y5ZyFi4XEP8AAAAA:LSyZh7GoKfZDJafhJQ25Q20NeYFU43u-L4j84OqtIdLLknnJpxMV5f8kR9F_Gb-_LAERHOM8u5KNDw">Intrapericardial administration of adenovirus for gene transfer</a> American Journal of Physiology, Vol 272, Issue 1, 1 Jan 1997
