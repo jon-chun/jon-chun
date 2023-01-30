@@ -5,6 +5,7 @@ Co-Founder, Kenyon DH Colab
 
 ![AI Digital Humanities](./images/kenyon_ai_dh_banner.png)
 
+
 **Contents**
 - [Research](#research)
 - [Innovation in Higher Ed](#innovation-in-higher-ed)
