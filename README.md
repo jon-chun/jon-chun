@@ -274,7 +274,7 @@ Our AI research and DHColab were collaboratively developed and the curriculum is
 <center>
 <img src="images\kenyon_dh_analytics_institutions_1958.png" alt="Trulli" style="width:80%">
 </center>
-<figcaption align = "center"><br><i>Institutions Worldwide<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
+<figcaption align = "center"><br><i>Institutions Worldwide (2023 May)<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
 </figure>
 
 <br></br>
