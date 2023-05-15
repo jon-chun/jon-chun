@@ -240,6 +240,38 @@ Our AI research and DHColab were collaboratively developed and the curriculum is
 <br></br>
 
 
+<figure>
+<center>
+<img src="images\kenyon_dh_20230514_map_eurasia.png" alt="Trulli" style="width:80%">
+</center>
+<figcaption align = "center"><br><i>Eurasian Institutions<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
+</figure>
+
+<br></br>
+
+
+<figure>
+<center>
+<img src="images\kenyon_dh_20230514_map_americas.png" alt="Trulli" style="width:80%">
+</center>
+<figcaption align = "center"><br><i>The Americas<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
+</figure>
+
+<br></br>
+
+
+<figure>
+<center>
+<img src="images\kenyon_dh_analytics_countries_149.png" alt="Trulli" style="width:80%">
+</center>
+<figcaption align = "center"><br><i>Worldwide Visitors<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
+</figure>
+
+<br></br>
+
+
+
+
 [Back to Top](#ai-digital-humanities)
 
 <br></br>
