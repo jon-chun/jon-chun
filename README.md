@@ -218,7 +218,7 @@ Our AI research and DHColab were collaboratively developed and the curriculum is
 <center>
 <img src="images/screen_kenyon_dh_analytics0.png" alt="Trulli" style="width:80%">
 </center>
-<figcaption align = "center"><br><i>Top 10 Institutions reading our AI DH Research in 2022:<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
+<figcaption align = "center"><br><i>Top 10 Institutions reading our AI DH Research in 2022<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
 
 </figure>
 
@@ -234,7 +234,7 @@ Our AI research and DHColab were collaboratively developed and the curriculum is
 <center>
 <img src="images/screen_kenyon_dh_analytics2.png" alt="Trulli" style="width:80%">
 </center>
-<figcaption align = "center"><br><i>Leading Institutions reading our AI DH Research in 2023<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
+<figcaption align = "center"><br><i>Leading Institutions reading our AI DH Research in 2022<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
 </figure>
 
 <br></br>
@@ -264,10 +264,22 @@ Our AI research and DHColab were collaboratively developed and the curriculum is
 <center>
 <img src="images\kenyon_dh_analytics_countries_149.png" alt="Trulli" style="width:80%">
 </center>
-<figcaption align = "center"><br><i>Worldwide Visitors<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
+<figcaption align = "center"><br><i>Visitors Worldwide<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
 </figure>
 
 <br></br>
+
+
+<figure>
+<center>
+<img src="images\kenyon_dh_analytics_institutions_1958.png" alt="Trulli" style="width:80%">
+</center>
+<figcaption align = "center"><br><i>Institutions Worldwide<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
+</figure>
+
+<br></br>
+
+images\kenyon_dh_analytics_institutions_1958.png
 
 
 
