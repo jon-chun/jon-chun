@@ -234,7 +234,7 @@ Our AI research and DHColab were collaboratively developed and the curriculum is
 <center>
 <img src="images/screen_kenyon_dh_analytics2.png" alt="Trulli" style="width:80%">
 </center>
-<figcaption align = "center"><br><i>More Top 20 Institutions reading our AI DH Research in 2022:<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
+<figcaption align = "center"><br><i>Leading Institutions reading our AI DH Research in 2023<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
 </figure>
 
 <br></br>
@@ -254,7 +254,7 @@ Our AI research and DHColab were collaboratively developed and the curriculum is
 <center>
 <img src="images\kenyon_dh_20230514_map_americas.png" alt="Trulli" style="width:80%">
 </center>
-<figcaption align = "center"><br><i>The Americas<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
+<figcaption align = "center"><br><i>Institutions from The Americas<br><a href="https://digital.kenyon.edu/dh/">digital.kenyon.edu/dh</a></i><br></figcaption>
 </figure>
 
 <br></br>
