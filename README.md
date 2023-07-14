@@ -7,6 +7,7 @@ Co-Founder, Kenyon DH Colab
 
 
 **Contents**
+- [Personal Website](https://jonachun.com/)
 - [Research](#research)
 - [Innovation in Higher Ed](#innovation-in-higher-ed)
 - [A Human-First AI Curriculum](#a-human-first-ai-curriculum)
