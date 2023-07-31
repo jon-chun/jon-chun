@@ -5,9 +5,9 @@ Co-Founder, Kenyon DH Colab
 
 ![AI Digital Humanities](./images/kenyon_ai_dh_banner.png)
 
-<h2>UPDATED: See my <a href="https://jonachun.com/">Personal Website</a> for a current overview.</h2>
+<h2>UPDATE: See <a href="https://jonachun.com/">www.jonachun.com</a> for a current information.</h2>
 
-**Contents (upto Jan 2023)**
+**Contents (Thru Jan 2023)**
 - [Research](#research)
 - [Innovation in Higher Ed](#innovation-in-higher-ed)
 - [A Human-First AI Curriculum](#a-human-first-ai-curriculum)
