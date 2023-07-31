@@ -5,7 +5,7 @@ Co-Founder, Kenyon DH Colab
 
 ![AI Digital Humanities](./images/kenyon_ai_dh_banner.png)
 
-</br>&nbsp</br>
+</br>&nbsp;</br>
 
 <h3>UPDATE: See <a href="https://jonachun.com/">www.jonachun.com</a> for a current information.</h3>
 
