@@ -10,7 +10,7 @@ Co-Founder, Kenyon DH Colab
 **Contents (As of Jan 2023, see <a href="https://jonachun.com/">www.jonachun.com</a> for a current information)**
 - [Research](#research)
 - [Innovation in Higher Ed](#innovation-in-higher-ed)
-- [Diversity and A Human-Centered AI Curriculum](#diversity-and-a-human-centered-ai-curriculum)
+- [Diversity from A Human-Centered AI Curriculum](#diversity-from-a-human-centered-ai-curriculum)
 - [Code, Products and Patents](#code-products-and-patents)
 - [Kenyon AI Digital Humanities](#kenyon-ai-digital-humanities)
 - [Social Media](#-social-media)
@@ -88,7 +88,7 @@ Philosophically, we believe humanity needs to shrink and reverse the growing gap
 
 <br></br>
 
-## Diversity and A Human-Centered AI Curriculum
+## Diversity from A Human-Centered AI Curriculum
 ---
 
 <br></br><figure>
