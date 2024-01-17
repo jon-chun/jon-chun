@@ -435,7 +435,7 @@ images\kenyon_dh_analytics_institutions_1958.png
 3. Advanced Retrieval-Augmented Generation (RAG) techniques using LangChain,
 4. Multi-agent network simluations of collaborating autonomous agents using AutoGen.
 
-Alongside these projects, students will undertake four substantive subprojects and a culminating final project, offering opportunities to apply theoretical knowledge to practical, real-world AI challenges. This course is meticulously designed to equip students with the skills and knowledge essential for innovation in the fast-paced world of artificial intelligence, placing a strong emphasis on both technical proficiency and ethical considerations. Prerequisite: Introductory Python programming experience.
+These four substantive subprojects will form a foundation for each student creating an original final project based upon their interests and domains of expertise, offering opportunities to apply theoretical knowledge to practical, real-world AI challenges. This course is meticulously designed to equip students with the skills and knowledge essential for innovation in the fast-paced world of artificial intelligence, placing a strong emphasis on both technical proficiency and ethical considerations. Prerequisite: Introductory Python programming experience.
 </ul>
 
 * IPHS494 Senior Seminar Research Projects
