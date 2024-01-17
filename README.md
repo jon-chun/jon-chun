@@ -133,7 +133,8 @@ At Kenyon College, I co-founded the world’s first human-centric AI curriculum.
   * <b>African-American</b> 13% (Fall 2022 estimate above) 
   * <b>Non-STEM</b> Our classes are ~90% non-STEM from across nearly all departments, enfranchising many students who may otherwise feel alienated by traditional CS programs
   * <b>100%</b> Pass rate (Quality of student work independently confirmed by success of their research archive at digital.kenyon.edu/dh)
-
+  * <b>0%</b> Drop rate
+    
 • <b>Enrollment:</b> Experienced enrollment growth from 20 to 120 between 2017-2022 becoming one of the largest classes at Kenyon as an elective with no credit toward the traditional STEM computing major/minor
 
 • <b>Budget:</b> With no budget or antecedent, innovated from scratch a globally recognized computational DH Colab research center and AI Digital Humanities. This includes no funds for hardware, software, cloud computing, support staff or other common expenses. This is achieved thru continual strategic planning, careful curation and testing fully open-source, robust, best-of-breed and/or freely available resources informed by decades of experience in industry.
