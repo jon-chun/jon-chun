@@ -132,6 +132,7 @@ At Kenyon College, I co-founded the world’s first human-centric AI curriculum.
   * <b>Hispanic</b> participation rates are often at or above college averages
   * <b>African-American</b> 13% (Fall 2022 estimate above) 
   * <b>Non-STEM</b> Our classes are ~90% non-STEM from across nearly all departments, enfranchising many students who may otherwise feel alienated by traditional CS programs
+  * <b>100%</b> Pass rate (Quality of student work independently confirmed by success of their research archive at digital.kenyon.edu/dh)
 
 • <b>Enrollment:</b> Experienced enrollment growth from 20 to 120 between 2017-2022 becoming one of the largest classes at Kenyon as an elective with no credit toward the traditional STEM computing major/minor
 
