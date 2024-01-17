@@ -429,12 +429,12 @@ images\kenyon_dh_analytics_institutions_1958.png
 * IPHS3xx (proposed fall 2024) Interdisciplinary AI Frontiers: From Large Language Models and Autonomous Multi-Agent Networks
 
 <ul>This upper-division course provides an in-depth exploration of advanced AI concepts, with a focus on interdisciplinary applications across large language models, AI information systems, and autonomous agents. Spanning 15 weeks, the course begins with a foundational review of Python, setting the stage for a series of four intensive, hands-on projects:
-<br>
+&nbsp;
 1. Programming a GPT-based chatbot using OpenAI API Function Calling,
 2. Exploring the internal workings of transformer models with Huggingface Transformers,
 3. Advanced Retrieval-Augmented Generation (RAG) techniques using LangChain,
 4. Multi-agent network simluations of collaborating autonomous agents using AutoGen.
-<br>
+&nbsp;
 These four substantive subprojects will form a foundation for each student creating an original final project based upon their interests and domains of expertise, offering opportunities to apply theoretical knowledge to practical, real-world AI challenges. This course is meticulously designed to equip students with the skills and knowledge essential for innovation in the fast-paced world of artificial intelligence, placing a strong emphasis on both technical proficiency and ethical considerations. Prerequisite: Introductory Python programming experience (IPHS200, IPHS300, COMP118 or approval of instructor).
 </ul>
 
