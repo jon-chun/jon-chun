@@ -7,7 +7,7 @@ Co-Founder, Kenyon DH Colab
 
 </br>&nbsp;</br>
 
-**Contents (As of Jan 2023, see <a href="https://jonachun.com/">www.jonachun.com</a> for a current information)**
+**Contents (As of early 2023, see <a href="https://jonachun.com/">www.jonachun.com</a> for a updated information)**
 - [Research](#research)
 - [Innovation in Higher Ed](#innovation-in-higher-ed)
 - [Diversity from A Human-Centered AI Curriculum](#diversity-from-a-human-centered-ai-curriculum)
@@ -426,6 +426,17 @@ images\kenyon_dh_analytics_institutions_1958.png
 * IPHS290 [Cultural Analytics](https://jon-chun.github.io/cultural-analytics/)
     - (New Fall 2022) Projects Upcoming
 * IPHS300 [AI for the Humanities](https://aiforthehumanities.wordpress.com/) (samples)
+* IPHS3xx (proposed fall 2024) Interdisciplinary AI Frontiers: From Large Language Models and Autonomous Multi-Agent Networks
+
+This upper-division course provides an in-depth exploration of advanced AI concepts, with a focus on interdisciplinary applications across large language models, AI information systems, and autonomous agents. Spanning 15 weeks, the course begins with a foundational review of Python, setting the stage for a series of four intensive, hands-on projects:
+
+1. Programming a GPT-based chatbot using OpenAI API Function Calling,
+2. Exploring the internal workings of transformer models with Huggingface Transformers,
+3. Advanced Retrieval-Augmented Generation (RAG) techniques using LangChain,
+4. Multi-agent network simluations of collaborating autonomous agents using AutoGen.
+
+Alongside these projects, students will undertake four substantive subprojects and a culminating final project, offering opportunities to apply theoretical knowledge to practical, real-world AI challenges. This course is meticulously designed to equip students with the skills and knowledge essential for innovation in the fast-paced world of artificial intelligence, placing a strong emphasis on both technical proficiency and ethical considerations. Prerequisite: Introductory Python programming experience.
+
 * IPHS494 Senior Seminar Research Projects
 * IPHS Independent Study Research
 
@@ -443,16 +454,6 @@ images\kenyon_dh_analytics_institutions_1958.png
 <br></br>
 
 [Back to Top](#ai-digital-humanities)
-
-<br></br>
-<b>Integrated Program for Humane Studies (2017-)</b>
-
-* IPHS200 [Programming Humanity](https://programminghumanity.wordpress.com/)
-* IPHS290 [Cultural Analytics](https://jon-chun.github.io/cultural-analytics/)
-    - (New Fall 2022) Projects Upcoming
-* IPHS300 [AI for the Humanities](https://aiforthehumanities.wordpress.com/) (samples)
-* IPHS494 Senior Seminar Research Projects
-* IPHS Independent Study Research
 
 <br></br>
 
