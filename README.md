@@ -20,10 +20,16 @@ Co-Founder, Kenyon DH Colab
 
 <br></br>
 
-## Research
+## Overview
 ---
 
-Jon Chun researches ML/AI approaches to NLP, Narrative and AffectiveAI with a particular focus on large language models, prompt engineering, and XAI/FATE. He also promotes and develops low/no code approaches for domain experts outside the AI community. He has been a successful Silicon Valley entrepreneur/CEO as well as a Fortune 500 Director of Development for the world's largest security company. He has worked in a wide variety of fields including Medicine, Network Security and Finance in the US, Asia and Latin America.
+Hello, my name is Jon Chun and I am an interdisciplinary ML/AI researcher and educator bridging academic research, industry best practices and realated social topics like regulation, ethics and entrepreneurship.  I focus on ML/AI approaches to Language, Narrative, emotion, persuasion/deception, and  ultimodality with a particular focus on NLP, LLMs, Affective AI, ethics, regulation, and XAI/FATE. 
+
+I have been a lifetime entrepreneur and innovator in diverse fields including network security, finance, insurance, and healthcare   I co-founded the world's first human-centered AI curriculm and AI Colab with low/no code approaches for domain experts outside the AI community. I was the first Japanese localization engineer in the US for DELL and the first competitive analysis for SEMATECH. created the first web-based electronic medical records system published in AMIA, started the first precision medicine group in medical school, and have mentored hundreds of original student ML/AI research projects downloaded over 55,000 time worldwide at a successful Silicon Valley entrepreneur/CEO as well as a Fortune 500 Director of Development for the world's largest security company. He has worked in a wide variety of fields including Medicine, Network Security and Finance in the US, Asia and Latin America.
+
+
+## Research
+---
 
 Most recently, he created the open-source library SentimentArcs, the largest ensemble for diachronic sentiment analysis and the basis for Katherine Elkins's “The Shape of Stories” (Cambridge UP 2022). He presented some of the earliest GPT-2 story generation work at Narrative2020 and has since published in Cultural Analytics and Narrative on AI and Narrative. He has mentored approximately three hundred computational Digital Humanities projects over 6 years and across virtually every department at Kenyon College as part of the Integrated Program for Humane Studies and the Scientific Computing programs. He co-founded the AI Digital Humanities Colab and the world's first AI curriculum for the Liberal Arts at Kenyon. He is currently working on “Exploring the Black Box: Narrative XAI” for a special issue of The International Journal of Digital Humanities.
 
