@@ -277,14 +277,25 @@ Stories are everywhere. Here are a few examples of original research projects us
 
 <br></br>
 
-
-
 <figure>
 <center>
 <img src="images/royal_wedding_1951_sma10_plot.png" alt="Royal Wedding (1951) 10% SMA Plot" style="width:80%">
 </center>
-<figcaption align = "center"><br><i>Multimodal SentimentArcs: Royal Wedding (1951) 10% SMA Plot (2024)</figcaption>
+<figcaption align = "center"><br><i>Multimodal SentimentArcs: Royal Wedding (1951) Video 10% SMA Plot (2024)</figcaption>
 </figure>
+
+<br></br>
+
+<figure>
+<center>
+<img src="images/Royal_Wedding_1951_sma10_plot_transcript.png" alt="Royal Wedding (1951) 10% SMA Plot" style="width:80%">
+</center>
+<figcaption align = "center"><br><i>Multimodal SentimentArcs: Royal Wedding (1951) Transcript 10% SMA Plot (2024)</figcaption>
+</figure>
+
+
+Royal_Wedding_1951_sma10_plot_transcript
+
 
 <br><br>
 
