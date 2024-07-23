@@ -280,9 +280,9 @@ Stories are everywhere. Here are a few examples of original research projects us
 
 <figure>
 <center>
-<img src="[images/fig_sentimentarcs_blocks.png](https://github.com/jon-chun/multisentimentarcs/blob/main/data/plots/musical/royal_wedding_1951_sma10_plot.png)" alt="Trulli" style="width:80%">
+<img src="[images/royal_wedding_1951_kde_plot.png](https://github.com/jon-chun/multisentimentarcs/)" alt="Trulli" style="width:80%">
 </center>
-<figcaption align = "center"><br><i>Multimodal SentimentArcs (2024) <br><a href="https://github.com/jon-chun/sentimentarcs_notebooks">SentimentArcs Notebooks</a></i><br></figcaption>
+<figcaption align = "center"><br><i>Multimodal SentimentArcs: Royal Wedding (1951) KDE Plot (2024)</figcaption>
 </figure>
 
 
