@@ -68,11 +68,11 @@ pivotal role in the rapidly growing fields of AI safety and regulation. This pap
 * <a ref="https://link.springer.com/article/10.1007/s42803-023-00069-8">"eXplainable AI with GPT4 for story analysis and generation: A novel framework for diachronic sentiment analysis"</a> Springer International Journal of Digital Humanities 5, 507–532 (2023). https://doi.org/10.1007/s42803-023-00069-8 (Oct 11, 2023)
   
 The recent development of Transformers and large language models (LLMs) offer unique opportunities to work with natural language. They bring a degree of understanding and fluidity far surpassing previous language models, and they are rapidly progressing. They excel at representing and interpreting ideas and experiences that involve complex and subtle language and are therefore ideal for Computational Digital Humanities research. This paper briefly surveys how XAI can be used to augment two Computational Digital Humanities research areas relying on LLMs: (a) diachronic text sentiment analysis and (b) narrative generation. We also introduce a novel XAI greybox ensemble for diachronic sentiment analysis generalizable to any AI classification data points within a structured time series. Under human-in-the-loop supervision (HITL), this greybox ensemble combines the high performance of SOTA blackbox models like gpt-4–0613 with the interpretability, efficiency, and privacy-preserving nature of whitebox models. Two new local (EPC) and global (ECC) metrics enable multi-scale XAI at both the local and global levels. This greybox ensemble framework extends the SentimentArcs framework with OpenAI’s latest GPT models, new metrics and a modified supervisory HITL workflow released as open source software at https://github.com/jon-chun/SentimentArcs-Greybox.
-  
-* "Augmenting Narrative Generation with Visual Imagery Using Integrated Prompt Engineering (ChatGPT, DALL-E 2)",
-Narrative 2023, March 1-4th, Dallas, TX -[Narrative Society](https://www.thenarrativesociety.org/2023-confere)
 
-* "Exploring the Black Box: Narrative XAI (eXplainable AI)", [International Journal of Digital Humanities (IJDH)](https://www.springer.com/journal/42803) 2023 Special Issue on "Reproducibility and Explainability in Digital Humanities"
+* <a href="https://www.academia.edu/100561565/How_to_Identify_Understand_and_Analyze_ChatGPT_AI_Narratives">"How to Identify, Understand, and Analyze ChatGPT AI Narratives"</a> Narrative 2023, March 1-4th, Dallas, TX
+
+* "Augmenting Narrative Generation with Visual Imagery Using Integrated Prompt Engineering (ChatGPT, DALL-E 2)",
+Narrative 2023, March 1-4th, Dallas, TX -[Narrative Society](https://www.thenarrativesociety.org/2023-conference)
 
 * Roundtable: <a href="https://github.com/jon-chun/generative_ai_roundtable">"Generative AI Art and Writing: ChatGPT and Generative AI Art: How it Works, Where It's Going, and What It Means for Our Future"</a> (video and links to generative AI resources), 17th January 2023, AI DHColab, Kenyon College, Gambier, OH
 
@@ -81,15 +81,17 @@ Narrative 2023, March 1-4th, Dallas, TX -[Narrative Society](https://www.thenarr
 * Chun, Jon, and Katherine Elkins. <a href="https://muse.jhu.edu/article/846035">"What the Rise of AI Means for Narrative Studies: A Response to “Why Computers Will Never Read (or Write) Literature” by Angus Fletcher."</a> Narrative 30, no. 1 (2022): 104-113. doi:10.1353/nar.2022.0005.
 
 * Chun, Jon. <a href="https://arxiv.org/abs/2110.09454">"SentimentArcs: A Novel Method for Self-Supervised Sentiment Analysis of Time Series Shows SOTA Transformers Can Struggle Finding Narrative Arcs."</a> ArXiv abs/2110.09454 (2021): n. page.
+
+SOTA Transformer and DNN short text sentiment classifiers report over 97% accuracy on narrow domains like IMDB movie reviews. Real-world performance is significantly lower because traditional models overfit benchmarks and generalize poorly to different or more open domain texts. This paper introduces SentimentArcs, a new self-supervised time series sentiment analysis methodology that addresses the two main limitations of traditional supervised sentiment analysis: limited labeled training datasets and poor generalization. A large ensemble of diverse models provides a synthetic ground truth for self-supervised learning. Novel metrics jointly optimize an exhaustive search across every possible corpus:model combination. The joint optimization over both the corpus and model solves the generalization problem. Simple visualizations exploit the temporal structure in narratives so domain experts can quickly spot trends, identify key features, and note anomalies over hundreds of arcs and millions of data points. To our knowledge, this is the first self-supervised method for time series sentiment analysis and the largest survey directly comparing real-world model performance on long-form narratives.
   
 * Chun, Jon. <a href="https://www.youtube.com/watch?v=Ldb0vlCQXtQ&t=1s">AI Improv DivaBot</a> in collaboration with Katherine Elkins, James Dennen (Denison University and Wexner Arts), Lauren Katz (Thymele Arts, LA), ***100th anniversary of the premiere of “R.U.R.,” by Czechoslovakian playwright Karel Capek. “R.U.R.”*** (for “Rossum’s Universal Robots”) opened on January 25th, 1921, at the National Theater of Prague and marks the first use of the word “robot,” coined by Capek and derived from the Czech word for “forced labor.”, 25 Jan 2021
 
 * Elkins, Katherine, and Jon Chun. <a href="https://culturalanalytics.org/article/17212.pdf">"Can GPT-3 pass a Writer’s Turing Test?."</a> Journal of Cultural Analytics 5, no. 2 (2020): 17212.
 
-* (AI Story Generation / AI Narrative Generation) <a href="https://github.com/jon-chun/conference-narrative2020-GPT2-NLG">How Artificial Intelligence Tells Stories: Natural Language Generation
-and Narrative</a>, Narrative 2020 Conference (page 28), March 5-7 The Intercontinental Hotel, New Orleans
-  
+Until recently the field of natural language generation relied upon formalized grammar systems, small-scale statistical models, and lengthy sets of heuristic rules. This older technology was fairly limited and brittle: it could remix language into word salad poems or chat with humans within narrowly defined topics. Recently, very large-scale statistical language models have dramatically advanced the field, and GPT-3 is just one example. It can internalize the rules of language without explicit programming or rules. Instead, much like a human child, GPT-3 learns language through repeated exposure, albeit on a much larger scale. Without explicit rules, it can sometimes fail at the simplest of linguistic tasks, but it can also excel at more difficult ones like imitating an author or waxing philosophical.
 
+* (AI Story Generation / AI Narrative Generation) <a href="https://github.com/jon-chun/conference-narrative2020-GPT2-NLG">How Artificial Intelligence Tells Stories: Natural Language Generation and Narrative</a>, Narrative 2020 Conference (page 28), March 5-7 The Intercontinental Hotel, New Orleans
+  
 <br></br>
 
 <figure>
@@ -99,6 +101,7 @@ and Narrative</a>, Narrative 2020 Conference (page 28), March 5-7 The Interconti
 <figcaption align = "center"><i>SentimentArcs is the open-source code for<br><a href="https://www.amazon.com/Stories-Elements-Digital-Literary-Studies/dp/1009270397">The Shapes of Stories</a></i> by Katherine Elkins<br>(Cambridge Press, Aug 2022)<br></figcaption>
 </figure>
 
+Sentiment analysis has gained widespread adoption in many fields, but not―until now―in literary studies. Scholars have lacked a robust methodology that adapts the tool to the skills and questions central to literary scholars. Also lacking has been quantitative data to help the scholar choose between the many models. Which model is best for which narrative, and why? By comparing over three dozen models, including the latest Deep Learning AI, the author details how to choose the correct model―or set of models―depending on the unique affective fingerprint of a narrative. The author also demonstrates how to combine a clustered close reading of textual cruxes in order to interpret a narrative. By analyzing a diverse and cross-cultural range of texts in a series of case studies, the Element highlights new insights into the many shapes of stories.
 <br></br>
 
 [Back to Top](#ai-digital-humanities)
