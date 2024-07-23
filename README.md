@@ -293,10 +293,6 @@ Stories are everywhere. Here are a few examples of original research projects us
 <figcaption align = "center"><br><i>Multimodal SentimentArcs: Royal Wedding (1951) Transcript 10% SMA Plot (2024)</figcaption>
 </figure>
 
-
-Royal_Wedding_1951_sma10_plot_transcript
-
-
 <br><br>
 
 <figure>
