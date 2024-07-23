@@ -111,15 +111,16 @@ Sentiment analysis has gained widespread adoption in many fields, but not―unti
 
 ## Innovation in Higher Ed
 ---
-I am focused on creatively applying the best of industry practices and state-of-the-art AI/ML techniques on interesting and high-impact interdisciplinary research. The combination of AI/ML, math/statistics and a diversity of domain expertise provides fresh insights and countless new paths of discovery.
+I creatively apply the best of industry practices and state-of-the-art AI/ML techniques on interesting and high-impact interdisciplinary research. The combination of AI/ML, math/statistics and a diversity of domain expertise provides fresh insights and countless new paths of discovery.
 
-I've also long been interested in bringing diverse voices to urgent debates surrounding technology’s growing impact on society. Our AI Digital Humanities computing curriculum has succeeded in attracting a majority female (61%), non-STEM (91%) and Under-Represented Minorities (11% Hispanic, 13% African-American) as of 2022. Enrollments have steadily grown to become one of the most popular courses on campus. Both our research and that of our students have seen exponential growth in terms of citations and thousands of visits from top academic institutions around the world.
+I've also long been interested in bringing diverse voices to urgent debates surrounding technology’s growing impact on society. Our AI Digital Humanities computing curriculum has succeeded in attracting a majority female (61%), non-STEM (91%) and Under-Represented Minorities (11% Hispanic, 13% Black) as of 2022. Enrollments have steadily grown to become one of the most popular courses on campus. Both our research and that of our students have seen exponential growth in terms of citations and thousands of visits from top academic institutions around the world.
 
-Over most of the last decade, I have been developing a new humanity-first approach to teaching computation grounded in ML, AI and Data Science with real-world applications inseparable from ethics. One challenge was to bridge the STEM and non-STEM divide. Another challenge was harmonizing the rigorous specialization of academia with practical, cross-discipline and generalizable real-world solutions. The final challenge was to bootstrap an entirely new AI Digital Humanities computing curriculum without a budget, support staff, or academic credit toward any major/minor.
+Over most of the last decade, I have been developing a new human-first approach to teaching computation grounded in ML, AI and Data Science with real-world applications inseparable from ethics. One challenge was to bridge the STEM and non-STEM divide. Another challenge was harmonizing the rigorous specialization of academia with practical, interdisciplinary and generalizable real-world solutions. The final challenge was to bootstrap an entirely new AI Digital Humanities computing curriculum without a budget, support staff, or academic credit toward any major/minor.
 
 Over the first 6 years, our foundational course has become one of the most popular on campus. Both our professors' and students' research have been published in top journals, presented at leading conferences and have been read by thousands from top universities and research centers around the world. Both founders of our program have been involved in several organizations beyond Kenyon dedicated to AI, Ethics and innovating CS Education.
 
 Philosophically, we believe humanity needs to shrink and reverse the growing gap between our technological advances that currently outpace and threaten to eclipse our humanity. One goal is to cultivate in students a technologically informed worldview grounded in universal humanistic values. This integrated worldview is designed to intimately align the core strengths of traditional education with more ethical, practical and beneficial uses of technology for all.
+
 
 <br></br>
 
@@ -169,7 +170,7 @@ At Kenyon College, I co-founded the world’s first human-centric AI curriculum.
 • <b>Diversity:</b> 
   * <b>Female</b> Grew from 18% to 61% between 2017-2021 
   * <b>Hispanic</b> participation rates are often at or above college averages
-  * <b>African-American</b> 13% (Fall 2022 estimate above) 
+  * <b>Black</b> 13% (Fall 2022 estimate above) 
   * <b>Non-STEM</b> Our classes are ~90% non-STEM from across nearly all departments, enfranchising many students who may otherwise feel alienated by traditional CS programs
   * <b>100%</b> Pass rate (Quality of student work independently confirmed by success of their research archive at digital.kenyon.edu/dh)
   * <b>0%</b> Drop rate
@@ -206,7 +207,7 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 
 <br></br>
 
-Our AI research and DHColab were collaboratively developed and the curriculum is currently co-taught by a technology expert (Jon Chun) and an accomplished academic (Katherine Elkins). Both have broad experiences, publications, and interests transcending traditional domain boundaries. Support was provided with a ***3-year National Endowment for the Humanities (NEH) appointment*** described here.
+Our AI research and DHColab were collaboratively developed, and the curriculum is currently co-taught by a technology expert (Jon Chun) and an accomplished academic (Katherine Elkins). Both have broad experiences, publications, and interests transcending traditional domain boundaries. Support was provided with a ***3-year National Endowment for the Humanities (NEH) appointment*** described here.
 
 <br></br>
 
@@ -465,27 +466,20 @@ images\kenyon_dh_analytics_institutions_1958.png
 
 * IPHS200 [Programming Humanity](https://programminghumanity.wordpress.com/)
 * IPHS290 [Cultural Analytics](https://jon-chun.github.io/cultural-analytics/)
-    - (New Fall 2022) Projects Upcoming
 * IPHS300 [AI for the Humanities](https://aiforthehumanities.wordpress.com/) (samples)
-* IPHS3xx (proposed fall 2024) Interdisciplinary AI Frontiers: From Large Language Models and Autonomous Multi-Agent Networks
-
-<ul>This upper-division course provides an in-depth exploration of advanced AI concepts, with a focus on interdisciplinary applications across large language models, AI information systems, and autonomous agents. Spanning 15 weeks, the course begins with a foundational review of Python, setting the stage for a series of four intensive, hands-on projects:
-
-<ol>
-<li>Programming a GPT-based chatbot using OpenAI API Function Calling</li>
-<li>Exploring the internal workings of transformer models with Huggingface Transformers</li>
-<li>Advanced Retrieval-Augmented Generation (RAG) techniques using LangChain</li>
-<li>Multi-agent network simluations of collaborating autonomous agents using AutoGen</li>
-</ol>
-These four substantive subprojects will form a foundation for each student creating an original final project based upon their interests and domains of expertise, offering opportunities to apply theoretical knowledge to practical, real-world AI challenges. This course is meticulously designed to equip students with the skills and knowledge essential for innovation in the fast-paced world of artificial intelligence, placing a strong emphasis on both technical proficiency and ethical considerations. Prerequisite: Introductory Python programming experience (IPHS200, IPHS300, COMP118 or approval of instructor).
-</ul>
-
 * IPHS494 Senior Seminar Research Projects
 * IPHS Independent Study Research
+* IPHS391 [Frontiers in Generative AI](https://docs.google.com/document/d/1JxitCrsh32QfIM1JtBwvUiYxMpC3WX1QtIBPDTqOBNg/edit?usp=drive_link) (New Fall 2024, Approved Fall 2023)
+
+OVERVIEW:
+
+This upper-division course offers an in-depth exploration of advanced AI concepts, focusing on interdisciplinary applications of large language models, AI information systems, and autonomous agents. Over 15 weeks, students will engage with a progressive curriculum, starting with a review of Python and a series of four hands-on projects: (a) OpenAI API programming a GPT-based chatbot, (b) mechanistic interpretations of transformer internals using Huggingface Transformers, (c) Retrieval-Augmented Generation (RAG) using LangChain, and (d) simulations of autonomous multi-agent systems using AutoGen. The course includes four substantive subprojects and one final project, enabling students to apply theoretical knowledge to practical, real-world AI challenges. This course is designed to equip students with the skills and knowledge necessary to innovate in the rapidly evolving field of artificial intelligence, emphasizing both technical proficiency and ethical considerations. Introductory Python programming experience required. 
+
+NOTE: These 4 broad frontiers of AI research are rapidly evolving and based upon my AI research and industry consulting with Meta, IBM, the Whitehouse/NIST AI Safety Institute, etc. There is a constant flow of major new AI research, libraries, frameworks and startups nearly every week. Since this course will begin 9 months after this syllabus was written, expect updates to reflect the most recent in AI research breakthroughs, tooling, and industry best practices as of August 2024. Nonetheless, the class will be structured around these 4 broad and relatively consistent universal areas in AI.
 
 <br></br>
 
-<b>Scientific Computing (2020-)</b>
+<b>Scientific Computing Mentored Projects(2020-)</b>
 
 * SciComp Senior Seminar/Research
   - Noisy Time Series Filtering, Smoothing and Feature Detection
@@ -503,12 +497,21 @@ These four substantive subprojects will form a foundation for each student creat
 ## Organizations
 ---
 
+* <a href="https://www.nist.gov/aisi/artificial-intelligence-safety-institute-consortium-aisic">US NIST AI Safety Institute Consortium</a>
+  - **Principle Investigator* (2024-) for the <a href="https://www.mla.org/">Modern Language Association</a> 
+  - **<a href="https://news.mla.hcommons.org/2024/04/16/mla-will-participate-in-department-of-commerce-consortium-dedicated-to-ai-safety/">Announcement</a>**: For over 100 years, the MLA has become the principle organization of scholars in language and literature with over 25,000 members in over 100 countries. The MLA is joining more than 200 of the nation’s leading artificial intelligence (AI) stakeholders to participate in a US Department of Commerce initiative to support the development and deployment of trustworthy and safe AI. Established by the Department of Commerce’s National Institute of Standards and Technology (NIST) on 8 February 2024, the US AI Safety Institute Consortium (AISIC) brings together AI creators and users, academics, government and industry researchers, and civil society organizations to meet this mission.The MLA-sponsored team will be led by Katherine Elkins and Jon Chun at Kenyon College. The team will evaluate model capabilities with a special focus on linguistic edge cases and ethical frameworks.
+
+The AISIC includes companies and organizations on the front lines of developing and using AI systems as well as the civil society and academic teams building the foundational understanding AI’s potential to transform our society. Consortium members represent the nation’s largest companies and innovative startups; creators of the world’s most advanced AI systems and hardware; representatives of professions with deep engagement in AI’s use today; state and local governments; and nonprofits. The consortium will also work with organizations from other nations in order to establish interoperable and effective safety around the world.
+ 
+* <a href="https://humancenteredailab.org/portfolio/">Human Centered AI Lab.Org</a>
+  - **Cofounder* (2023-)
+  - **About**: Our mission is to facilitate efficient collaboration on interdisciplinary AI between individual researchers and domain experts separated by geographic, organizational, doctrinal, and legal divisions. We focus on human-centered AI topics like safety, bias, explainability, ethics, and policy grounded in careful experimentation and expert interpretation. Our goal is to enable fast, focused and flexible research funding and collaboration overlooked by traditional institutional research structures. We are a purely volunteer and wholly virtual non-profit corporation conducting human-centered AI research and education in the public interest.
+
 * <a href="https://www.helixcenter.org/">The Helix Center</a>, NY, NY
   - **Executive Committee** (2022-)
   - **Round-Table**: <a href="https://www.helixcenter.org/participants/jon-chun/">Living in Difficult Times</a>, Nov 19, 2022
   - **About**: The original inspiration for interdisciplinary forums arose from the observations by our director, Dr. Edward Nersessian, of the constraints in both communication and creativity among scientists at professional meetings, fueled both by narrow specialization and the grant process, that with its demand for sharply defined investigation seemed, in fact, to be limiting curiosity and inquiry. This motivated him to form discussion groups drawing on multiple disciplines, the creative productivity of which inspired the formation of the Philoctetes Center for the Multidisciplinary Study of the Imagination.
   - **Mission**: The primary mission of The Helix Center is to draw together leaders from distinct spheres of knowledge in the arts, humanities, sciences, and technology for interdisciplinary roundtables, the unique format of which potentiates new ideas, new questions, and facilitates emergent creative qualities of mind less possible in conventional collaborations. Such a drawing together of leaders of various disciplines irrespective of their academic affiliation allows the Helix Center to function as a kind of university without walls. In addition, through audience attendance and its Q&A engagement with the roundtable participants, and live streamed and archived events, we aim to expand public understanding and appreciation of the sciences and technology, the arts and humanities.
-
 
 <br></br>
 
