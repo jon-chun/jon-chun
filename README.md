@@ -277,6 +277,18 @@ Stories are everywhere. Here are a few examples of original research projects us
 
 <br></br>
 
+
+<figure>
+<center>
+<img src="[images/fig_sentimentarcs_blocks.png](https://github.com/jon-chun/multisentimentarcs/blob/main/data/plots/musical/royal_wedding_1951_sma10_plot.png)" alt="Trulli" style="width:80%">
+</center>
+<figcaption align = "center"><br><i>Multimodal SentimentArcs (2024) <br><a href="https://github.com/jon-chun/sentimentarcs_notebooks">SentimentArcs Notebooks</a></i><br></figcaption>
+</figure>
+
+
+
+
+
 [Back to Top](#ai-digital-humanities)
 
 <br></br>
