@@ -267,6 +267,14 @@ Our AI research and DHColab were collaboratively developed, and the curriculum i
 <figcaption align = "center"><br><i>Block Diagram for <br><a href="https://github.com/jon-chun/sentimentarcs_notebooks">SentimentArcs Notebooks</a></i><br></figcaption>
 </figure>
 
+Stories are everywhere. Here are a few examples of original research projects using SentimentArcs to extract and analyze narrative emotional arcs in:
+* Literature: <a href="https://digital.kenyon.edu/dh_iphs_ai/12/">Doubles and Reflections: Sentiment Analysis and Vladimir Nabokov’s Pale Fire</a>
+* Translations: <a href="https://digital.kenyon.edu/dh_iphs_prog/55/">The Trials of Translation: A Cross-Linguistic Survey of Sentiment Analysis on Franz Kafka’s Trial</a> 
+* TV Scripts: <a href="https://digital.kenyon.edu/dh_iphs_ss/4/">Blood in the Water: Storytelling and Sentiment Analysis in ABC's Shark Tank</a>
+* Medical End of Life Narratives: <a href="https://digital.kenyon.edu/dh_iphs_ss/20/">On Death and Emotion: Evaluating the Five Stages of Grief in End-of-Life Memoirs Using AI Deep Learning Models</a>
+* Social Media (Government Collapse): <a href="https://digital.kenyon.edu/dh_iphs_prog/59/">How Did Sri Lankan Protestors End Up in the President’s Pool? Understanding the evolution of an occupy-style protest: A story of economic turmoil, declining social sentiment and resulting political change</a>
+* Social Media (Elections): <a href="https://digital.kenyon.edu/dh_iphs_prog/66/">Quantifying Polarization around Election Denial: Measuring Public Sentiment Changes in the 2022 Midterms</a>
+
 <br></br>
 
 [Back to Top](#ai-digital-humanities)
