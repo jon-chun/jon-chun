@@ -8,8 +8,8 @@ Co-Founder, Kenyon DH Colab
 </br>&nbsp;</br>
 
 **Contents (UPDATED July 2024, see <a href="https://jonachun.com/">www.jonachun.com</a> for a 2023 information)**
-- [Research](#research)
 - [Overview](#overview)
+- [Research](#research)
 - [Innovation in Higher Ed](#innovation-in-higher-ed)
 - [Diversity from A Human-Centered AI Curriculum](#diversity-from-a-human-centered-ai-curriculum)
 - [Code, Products and Patents](#code-products-and-patents)
