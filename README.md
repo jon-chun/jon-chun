@@ -280,7 +280,7 @@ Stories are everywhere. Here are a few examples of original research projects us
 
 <figure>
 <center>
-<img src="https://github.com/jon-chun/multisentimentarcs/blob/main/images/royal_wedding_1951_kde_plot.png" alt="Royal Wedding (1951) KDE Plot" style="width:80%">
+<img src="images/royal_wedding_1951_kde_plot.png" alt="Royal Wedding (1951) KDE Plot" style="width:80%">
 </center>
 <figcaption align = "center"><br><i>Multimodal SentimentArcs: Royal Wedding (1951) KDE Plot (2024)</figcaption>
 </figure>
