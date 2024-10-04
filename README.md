@@ -55,6 +55,11 @@ This research project targets a pivotal issue at the intersection of technology 
 **ANONIMIZED ABSTRACT:**
 As artificial intelligence becomes increasingly integrated into various technologies and decision-making processes, concerns about trust, safety, and potential manipulation of humans by AI systems are growing. This study, however, explores the reverse scenario: how humans might influence AI decision-making. The research examines the impact of prompt reframing and empathetic backstories on the ethical decision-making processes of advanced language models. A novel benchmark is introduced, enabling human-in-the-loop evaluations of how both confidence and compassion in AI ethical decision-making are affected by framing and empathy. This research represents a pioneering effort in understanding the bidirectional nature of human-AI influence in ethical contexts.
 
+* <a href="https://arxiv.org">"Comparative Global AI Regulation: Policy Perspectives from the EU, China, and the US"</a>
+* SSRN and ArXiv (final edits)
+
+As a powerful and rapidly advancing dual-use technology, AI offers both immense benefits and worrisome risks. In response, governing bodies around the world are developing a range of regulatory AI laws and policies. This paper compares three distinct approaches taken by the EU, China and the US. Within the US, we explore AI regulation at both the federal and state level, with a focus on California's pending Senate Bill 1047. Each regulatory system reflects distinct cultural, political and economic perspectives. Each also highlights differing regional perspectives on regulatory risk-benefit tradeoffs, with divergent judgments on the balance between safety versus innovation and cooperation versus competition. Finally, differences between regulatory frameworks reflect contrastive stances in regards to trust in centralized authority versus trust in a more decentralized free market of self-interested stakeholders. Taken together, these varied approaches to AI innovation and regulation influence each other, the broader international community, and the future of AI regulation.
+
 * <a href="https://openreview.net/forum?id=pmUUK1CKI5&noteId=pmUUK1CKI5">"AIStorySimilarity: Quantifying Story Similarity Using Narrative for Search, IP Infringement, and Guided Creativity"</a>
 * CoNLL 2024 (accepted)
 
