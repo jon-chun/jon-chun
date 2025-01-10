@@ -527,7 +527,7 @@ IPHS290 Cultural Analytics explores advanced computational methods for cultural 
 
 <hr>
 
-<h3><b><a href="https://digital.kenyon.edu/dh_iphs_ai/">IPHS300 AI for the Humanities</a> (Introduced Fall 2018)</b></h1>
+<h3><b><a href="https://digital.kenyon.edu/dh_iphs_ai/">IPHS300 AI for the Humanities</a> (Introduced 2019)</b></h1>
 
 “Why isn’t AI a branch of mathematics?” Norvig and Russell ask in their seminal textbook Artificial Intelligence: A Modern Approach. “The first answer,” they explain, “is that AI from the start embraced the idea of duplicating human faculties such as creativity, self-improvement, and language use”(18).
 
