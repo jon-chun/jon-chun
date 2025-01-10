@@ -555,7 +555,7 @@ Textual analysis will receive our major attention and will provide an ideal foun
 
 <hr>
 
-<h3><b><a href="https://github.com/jon-chun/GenAI-Multi-Agent-Networks-and-Digital-Twins">IPHS391 Frontiers in Generative AI: Automating Knowledge Work with Autonomous Agent Networks</a> (Introduced Fall 2024)</b><h3>
+<h3><b><a href="[https://digital.kenyon.edu/dh_iphs_ai/](https://github.com/jon-chun/GenAI-Multi-Agent-Networks-and-Digital-Twins)">IPHS300IPHS391 Frontiers in Generative AI - Automating Knowledge Work with Autonomous Agent Network</a> (Introduced Fall 2024)</b></h1>
 
 How is AI changing humanity? This course explores the realities of labor, knowledge work, and automation. Can the current generation of rapidly improving autonomous AI agents collaboratively (or independently) craft novels, social media political campaigns, commercial brand marketing strategies, financial analyst reports, software apps, music videos, or write original scientific research papers? For those with basic Python skills and advanced curiosity, get hands-on experience building your own personal digital twin and a peek into the future.
 
@@ -575,7 +575,7 @@ This is an upper-division course offers an in-depth exploration of advanced AI c
   - Behavioral Economics/Multi-Agent Framework for Digital Marketing Optimization
   - Medical Informatics/AI-Powered Appointment Prioritization System  for Resource-Poor Settings
   - Philosophy/From Ramblings to Reason:Using AI to Elucidate Philosophies Greatest Works (Fall 2024)
-
+<br></br>
 
 <hr>
 
