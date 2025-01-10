@@ -38,7 +38,7 @@ Professional interests: AI advancement, collaborative innovation, creative engin
 ## Research
 ---
 
-My interdisciplinary research spans an unusually wide number of both STEM and non-STEM domains. Rather than traditional focus on a single research speciality, I combine universal theories, good engineering, diverse industry experiences and collaboration with domain experts cover a wide range of topics from AI regulation to multimodal AffectiveAI to state of the art AI model ethical benchmarking:
+My interdisciplinary research spans an unusually wide range of both STEM and non-STEM domains. Rather than maintaining a traditional focus on a single research specialty, I combine universal theories, sound engineering principles, diverse industry experience, and collaborations with domain experts to cover topics ranging from AI regulation to multimodal Affective AI to state-of-the-art AI model ethical benchmarking among others.
 
 Early Career & Industry:
 - Conducted research at Lawrence Berkeley Labs' Advanced Light Source Lab as an undergraduate researcher
