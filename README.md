@@ -47,7 +47,7 @@ Early Career & Industry:
 - Built first resume submission/search website for second the largest recruiting firm Addeco
 - Co-authored genomics and medical informatics papers during medical school
 - Built first Workers Comp claims management web system for largest Silicon Valley return to work managment firm
-- Fortune 500 Director of Development rebranding and launching one of the first VPN appliances within a year
+- Fortune 500 Director of Development rebranding and launching one of the first VPN appliances within one year
 
 Entrepreneurship & Innovation:
 - Co-founded Brasilian-based international fashion, music, and culture lifestyle website (US, Japan, and Latin America)
