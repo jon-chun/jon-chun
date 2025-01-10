@@ -15,8 +15,7 @@ Co-Founder, Kenyon DH Colab
 - [Code, Products and Patents](#code-products-and-patents)
 - [Kenyon AI Digital Humanities](#kenyon-ai-digital-humanities)
 - [Social Media](#-social-media)
-- [Mentored Research](#mentored-research)
-- [Course Descriptions](#course-descriptions)
+- [Course Descriptions and Mentored Research](#course-descriptions-and-mentored-research)
 - [Organizations](#organizations)
 
 <br></br>
@@ -451,7 +450,7 @@ images\kenyon_dh_analytics_institutions_1958.png
 
 <br></br>
 
-## Mentored Research
+## Course Descriptions and Mentored Research
 ---
 
 <figure>
@@ -562,19 +561,19 @@ How is AI changing humanity? This course explores the realities of labor, knowle
 This is an upper-division course offers an in-depth exploration of advanced AI concepts, focusing on interdisciplinary applications of large language models, AI information systems, and autonomous agents. Students will engage with a progressive curriculum, starting with a review of Python and a series of four hands-on projects, equipping them with the skills and knowledge necessary to innovate in the rapidly evolving field of artificial intelligence.
 
 **Sample Course Projects:**
-  - Classics/Ancient Greek Parsing with AIUnpacking Complex Word Composition with Agentic Systems
+  - Classics/Ancient Greek Parsing with AI Unpacking Complex Word Composition with Agentic Systems
   - Finance/Simulating Investment Environments with AI: A Data-Driven ApproachHow to Harness AI for Strategic Consulting Market Analysis
   - Psychology/Multi-Agent Optimization for Holistic College Admissions Leveraging Multi-Agent Systems and Genetic Algorithms to Optimize Holistic College Admissions for a Diverse and High-Achieving Cohort
-  - Sports Analytics/Leveraging AI To Automate MLB Roster Construction;Using High Fidelity Synthetic Data To Optimize Team Performance
-  - Studio Art/AI's Brush with TimeAnalyzing Deviations in Prompt Alignment for Historic and Modern AI-Generated Art
-  - Medical/Developing an AI Chatbot for College Disability Services Support: Using  a RAG-Agent Framework to Create a Context-Aware Chatbot
+  - Sports Analytics/Leveraging AI To Automate MLB Roster Construction; Using High Fidelity Synthetic Data To Optimize Team Performance
+  - Studio Art/AI's Brush with Time Analyzing Deviations in Prompt Alignment for Historic and Modern AI-Generated Art
+  - Medical/Developing an AI Chatbot for College Disability Services Support: Using a RAG-Agent Framework to Create a Context-Aware Chatbot
   - Psychology/Effectiveness of Guided vs Pure Mirroring in Chat De-Escalation Across Simulated Scenarios
   - Sports Analytics/Agentic Framework for Data-Driven Cricket Player Scouting
   - Finance/PitchAI: Streamlining Investment Banking Pitches Using LLMs
   - Fashion/Predicting South Asian Fashion TrendsAnalyzing Desi Fashion Trends through Machine Learning and Image Procesing
   - Behavioral Economics/Multi-Agent Framework for Digital Marketing Optimization
-  - Medical Informatics/AI-Powered Appointment Prioritization System  for Resource-Poor Settings
-  - Philosophy/From Ramblings to Reason:Using AI to Elucidate Philosophies Greatest Works (Fall 2024)
+  - Medical Informatics/AI-Powered Appointment Prioritization System for Resource-Poor Settings
+  - Philosophy/From Ramblings to Reason: Using AI to Elucidate Philosophies Greatest Works (Fall 2024)
 <br></br>
 
 <hr>
