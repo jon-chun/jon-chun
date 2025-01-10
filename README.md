@@ -453,7 +453,7 @@ How do we think of humanity in the digital age? Can we program humanity into our
 - Understand emerging ethical debates surrounding key technologies poised to transform humanity.
 - Have a portfolio of project-based work demonstrating your computational skills with a final project of your choice.
 
-Sample Course Projects: 
+**Sample Course Projects:**
     - Cultural Bias/DALL-E 2: [Adjectivally-Oriented: Women Through the Decades: Stylistic Shifts In Magazines As Represented By Image-Generating AI](https://digital.kenyon.edu/dh_iphs_prog/53)
     - Political Science/Social Media [How Did Sri Lankan Protestors End Up in the President’s Pool? Understanding the evolution of an occupy-style protest: A story of economic turmoil, declining social sentiment and resulting political change](https://digital.kenyon.edu/dh_iphs_prog/59)
     - Gender Studies/Topic Modeling: [The Second Meaning: Uncovering the Linguistic Interpretation of Simone de Beauvior’s The Second Sex](https://digital.kenyon.edu/dh_iphs_prog/52)
