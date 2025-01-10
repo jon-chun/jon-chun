@@ -76,107 +76,130 @@ I created the open-source library SentimentArcs in 2019, at the time the largest
 
 <hr>
 <h3><b></h3><a href="https://techethicslab.nd.edu/call-for-proposals/">"How Well Can GenAI Predict Human Behavior? Auditing State-of-the-Art Large Language Models for Fairness, Accuracy, Transparency, and Explainability (FATE)"</a></b></h3>
+<br>
 * IBM-Notre Dame Tech Ethics Lab Grant (paper forthcoming)
-  
+<br>
 This research project targets a pivotal issue at the intersection of technology and ethics: surfacing how Large Language Models (LLMs) reason in high-stakes decision-making over humans. Our central challenge is enhancing the explainability and transparency of opaque black-box LLMs and our specific use-case is predicting recidivism—a real-world application that influences sentencing, bail, and early release decision. To the best of our knowledge, this is the first study to integrate and contrast three different sources of ethical decision: human, statistical machine learning (ML), and LLMs. Methodologically, we propose a novel framework that combines state-of-the-art (SOTA) qualitative analyses of LLMs with SOTA quantitative performance of traditional statistical ML models. Additionally, we compare these two approaches with documented predictions by human experts. This multi-model human-AI approach aims to surface both faulty predictions across all three as well as correlate patterns of both valid and faulty reasoning by LLMs. This configuration offers a more comprehensive evaluation of their performance, fairness, and reliability that is essential for building trust in LLMs. The anticipated outcomes of our project include a test pipeline to analyze and identify discrepancies and edge cases in both predictions and the reasoning behind them. This pipeline includes automated API scripts, an array of simple to complex prompt engineering strategies, and well as various statistical analyses and visualizations. The pipeline architecture will be designed to generalize to other use cases and accommodate future models and prompt strategies to provide maximal reuse for the AI safety community and future studies. This project not only seeks to advance the field of XAI but also to foster a deeper understanding of how AI can be aligned with ethical principles. By highlighting the intricacies of AI decision-making in a context fraught with moral implications, we underscore the urgent need for models that are not only technologically advanced but also ethically sound and transparent.
 
 <hr>
 <h3><b></h3>"ESP-Ethical Audit: An Ethical Alignment Audit to Quantify Biased Decision-Making with Emotion and Syntactic Framing"</b></h3>
+<br>
 * (Springer Discovery AI, In Review)
-
+<br>
 Autonomous agents and distributed AI networks are beginning to assist and even make decisions in real-world scenarios ranging from smart cities to HR. Ethical assessments are more urgent than ever, and our framework, ESP-Ethical Audit, offers a novel way to assess both strengths and vulnerabilities in current LLM systems. To date, there is surprisingly little quantitative assessment of underlying “ethical belief” systems in LLMs. This type of assessment samples the distribution of a binary classification task when LLMs are presented with complex and ethically-fraught scenarios. We interrogate whether decision-making by leading commercial and open-source LLM models align with human values and if so, whether that alignment reveals biases that typically occur in human decision-making. ESP-Ethical Audit measures confidence levels and explanatory frameworks across a variety of moral scenarios while testing perturbations along two dimensions: syntactic framing and empathic backstory. The former tests whether syntactic framing surfaces biases that mirror common framing biases documented in humans. The latter tests variations in backstory--both positive and negative--within two different relevancy scenarios. The first framework tests the introduction of facts that might be considered allowable in a US court of law; the other tests backstories that rely on emotional appeal.  In all three framing cases, whether syntactic or backstory, we find more performant models more closely mirror human biases and exhibit common shifts in decision-making. Our audit raises important safety concerns: continued AI progress in both performance and human-machine value alignment may also increase security issues related to persuasion, manipulation, and deception.
 
 <hr>
 <h3><b></h3><a href="https://arxiv.org](https://arxiv.org/abs/2410.21279">"Comparative Global AI Regulation: Policy Perspectives from the EU, China, and the US"</a></b></h3>
+<br>
 * SSRN and ArXiv
-
+<br>
 As a powerful and rapidly advancing dual-use technology, AI offers both immense benefits and worrisome risks. In response, governing bodies around the world are developing a range of regulatory AI laws and policies. This paper compares three distinct approaches taken by the EU, China and the US. Within the US, we explore AI regulation at both the federal and state level, with a focus on California's pending Senate Bill 1047. Each regulatory system reflects distinct cultural, political and economic perspectives. Each also highlights differing regional perspectives on regulatory risk-benefit tradeoffs, with divergent judgments on the balance between safety versus innovation and cooperation versus competition. Finally, differences between regulatory frameworks reflect contrastive stances in regards to trust in centralized authority versus trust in a more decentralized free market of self-interested stakeholders. Taken together, these varied approaches to AI innovation and regulation influence each other, the broader international community, and the future of AI regulation.
 
 <hr>
 <h3><b></h3><a href="https://aclanthology.org/2024.conll-1.13/">"AIStorySimilarity: Quantifying Story Similarity Using Narrative for Search, IP Infringement, and Guided Creativity"</a></b></h3>
+<br>
 * ACL EMNLP/CoNLL, Miami (12-16 November 2024)
-
+<br>
 Stories are central for interpreting experiences, communicating and influencing each other via films, medical, media, and other narratives. Quantifying the similarity between stories has numerous applications including detecting IP infringement, detecting hallucinations, search/recommendation engines, and guiding human-AI collaborations. Despite this, traditional NLP text similarity metrics are limited to short text distance metrics like n-gram overlaps and embeddings. Larger texts require preprocessing with significant information loss through paraphrasing or multi-step decomposition. This paper introduces AIStorySimiliarity, a novel benchmark to measure the semantic distance between long-text stories based on core structural elements drawn from narrative theory and script writing. Based on four narrative elements (characters, plot, setting, and themes) as well 31 sub-features within these, we use a SOTA LLM (gpt-3.5-turbo) to extract and evaluate the semantic similarity of of diverse set of major Hollywood movies. In addition, we compare human evaluation with story similarity scores computed three ways: extracting elements from film scripts before evaluation (Elements), directly evaluating entire scripts (Scripts), and extracting narrative elements from the parametric memory of SOTA LLMs without any provided scripts (GenAI). To the best of our knowledge, AIStorySimilarity is the first benchmark to measure long-text story similarity using a comprehensive approach to narrative theory. Code and data are available at https://github.com/anon.
 
 <hr>
 <h3><b></h3><a href="https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2024.1444549/full">"Affective AI, Multimodal Sentiment Analysis, Diachronic Sentiment Analysis, Open-Source AI, LLM, LMM, Narrative, Storytelling, Video Analysis"</a></b></h3>
-* Frontiers in Computer Science
-
+<br>* Frontiers in Computer Science
+<br>
 Affective artificial intelligence and multimodal sentiment analysis play critical roles in designing safe and effective human-computer interactions and are in diverse applications ranging from social chatbots to eldercare robots. However emotionally intelligent artificial intelligence can also manipulate, persuade, and otherwise compromise human autonomy. We face a constant stream of ever more capable models that can better understand nuanced, complex, and interrelated sentiments across different modalities including text, vision, and speech. This paper introduces MultiSentimentArcs, combination of an open and extensible multimodal sentiment analysis framework, a challenging movie dataset, and a novel benchmark. This enables the quantitative and qualitative identification, comparison, and prioritization of conflicting sentiments commonly arising from different models and modalities. Diachronic multimodal sentiment analysis is especially challenging in film narratives where actors, directors, cinematographers and editors use dialog, characters, and other elements in contradiction with each other to accentuate dramatic tension. MultiSentimentArcs uses local open-source software models to democratize artificial intelligence. We demonstrate how a simple 2-step pipeline of specialized open-source software with a large multimodal model followed by a large language model can approximate video sentiment analysis of a commercial state-of-the-art Claude 3 Opus. To the best of our knowledge, MultiSentimentArcs is the first fully open-source diachronic multimodal sentiment analysis framework, dataset, and benchmark to enable automatic or human-in-the-loop exploration, analysis, and critique of multimodal sentiment analysis on long-form narratives. We demonstrate two novel coherence metrics and a methodology to identify, quantify, and explain real-world sentiment models and modalities. MultiSentimentArcs integrates artificial intelligence with traditional narrative studies and related fields like film, linguistic and cultural studies. It also contributes to eXplainable artificial intelligence and artificial intelligence safety by enhancing artificial intelligence transparency in surfacing emotional persuasion, manipulation, and deception techniques. Finally, it can filter noisy emotional input and prioritize information rich channels to build more performant real-world human computer interface applications in fields like e-learning and medicine. This research contributes to the field of Digital Humanities by giving non-artificial intelligence experts access to directly engage in analysis and critique of research around affective artificial intelligence and human-AI alignment. Code and non-copyrighted data will be available at https://github.com/jon-chun/multisentimentarcs.
 
 <hr>
 <h3><b></h3><a href="https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2024.1444021/full">"In search of a translator: using AI to evaluate what's lost in translation"</a></b></h3>
+<br>
 * Frontiers in Computer Science, 12 August 2024, Sec. Human-Media Interaction, Volume 6 - 2024 | https://doi.org/10.3389/fcomp.2024.1444021 (Credited in Paper)
-
+<br>
 Machine translation metrics often fall short in capturing the challenges of literary translation in which translators play a creative role. Large Language Models (LLMs) like GPT4o and Mistral offer new approaches to assessing how well a translation mirrors the reading experience from one language to another. Our case study focuses on the first volume of Marcel Proust's “A la recherche du temps perdu,” a work known for its lively translation debates. We use stylometry and emotional arc leveraging the newest multilingual generative AI models to evaluate loss in translation according to different translation theories. AI analysis reveals previously undertheorized aspects of translation. Notably, we uncover changes in authorial style and the evolution of sentiment language over time. Our study demonstrates that AI-driven approaches leveraging advanced LLMs yield new perspectives on literary translation assessment. These methods offer insight into the creative choices made by translators and open up new avenues for understanding the complexities of translating literary works.
 
 <hr>
-<h3><b></h3><a href="https://arxiv.org/abs/2404.17047">"Near to Mid-term Risks and Opportunities of Open-Source Generative AI"</a></b></h3> ICML 2024, May 7-11, Vienna, Austria
-
+<h3><b></h3><a href="https://arxiv.org/abs/2404.17047">"Near to Mid-term Risks and Opportunities of Open-Source Generative AI"</a></b></h3>
+<br>
+* ICML 2024, May 7-11, Vienna, Austria
+<br>
 <h3><b></h3><a href="https://arxiv.org/abs/2405.08597">"Risks and Opportunities of Open-Source Generative AI"</a></b></h3> (Long form version)
 
 In the next few years, applications of Generative AI are expected to revolutionize a number of different areas, ranging from science & medicine to education. The potential for these seismic changes has triggered a lively debate about potential risks and resulted in calls for tighter regulation, in particular from some of the major tech companies who are leading in AI development. This regulation is likely to put at risk the budding field of open source Generative AI. We argue for the responsible open sourcing of generative AI models in the near and medium term. To set the stage, we first introduce an AI openness taxonomy system and apply it to 40 current large language models. We then outline differential benefits and risks of open versus closed source AI and present potential risk mitigation, ranging from best practices to calls for technical and scientific contributions. We hope that this report will add a much needed missing voice to the current public discourse on near to mid-term AI safety and other societal impact.
 
 <hr>
 <h3><b></h3><a ref="https://arxiv.org/pdf/2402.01651">"Informed AI Regulation: Comparing the Ethical Frameworks of Leading LLM Chatbots Using an Ethics-Based Audit to Assess Moral Reasoning and Normative Values"</a></b></h3>
+<br>
 * ArXiv.org (Jan 9, 2024)
-
+<br>
 With the rise of individual and collaborative networks of autonomous agents, AI is deployed in more key reasoning and decision-making roles. For this reason, ethics-based audits play a
 pivotal role in the rapidly growing fields of AI safety and regulation. This paper undertakes an ethics-based audit to probe the 8 leading commercial and open-source Large Language Models including GPT-4. We assess explicability and trustworthiness by a) establishing how well different models engage in moral reasoning and b) comparing normative values underlying models as ethical frameworks. We employ an experimental, evidence-based approach that challenges the models with ethical dilemmas in order to probe human-AI alignment. The ethical scenarios are designed to require a decision in which the particulars of the situation may or may not necessitate deviating from normative ethical principles. A sophisticated ethical framework was consistently elicited in one model, GPT-4. Nonetheless, troubling findings include underlying normative frameworks with clear bias towards particular cultural norms. Many models also exhibit disturbing authoritarian tendencies. Code is available at https://github.com/jonchun/llm-sota-chatbots-ethics-based-audit.
 
 <hr>
 <h3><b></h3><a ref="https://link.springer.com/article/10.1007/s42803-023-00069-8">"eXplainable AI with GPT4 for story analysis and generation: A novel framework for diachronic sentiment analysis"</a></b></h3>
+<br>
 * Springer International Journal of Digital Humanities 5, 507–532 (2023). https://doi.org/10.1007/s42803-023-00069-8 (Oct 11, 2023)
-  
+<br>
 The recent development of Transformers and large language models (LLMs) offer unique opportunities to work with natural language. They bring a degree of understanding and fluidity far surpassing previous language models, and they are rapidly progressing. They excel at representing and interpreting ideas and experiences that involve complex and subtle language and are therefore ideal for Computational Digital Humanities research. This paper briefly surveys how XAI can be used to augment two Computational Digital Humanities research areas relying on LLMs: (a) diachronic text sentiment analysis and (b) narrative generation. We also introduce a novel XAI greybox ensemble for diachronic sentiment analysis generalizable to any AI classification data points within a structured time series. Under human-in-the-loop supervision (HITL), this greybox ensemble combines the high performance of SOTA blackbox models like gpt-4–0613 with the interpretability, efficiency, and privacy-preserving nature of whitebox models. Two new local (EPC) and global (ECC) metrics enable multi-scale XAI at both the local and global levels. This greybox ensemble framework extends the SentimentArcs framework with OpenAI’s latest GPT models, new metrics and a modified supervisory HITL workflow released as open source software at https://github.com/jon-chun/SentimentArcs-Greybox.
 
 <hr>
 <h3><b></h3><a href="https://www.euppublishing.com/doi/abs/10.3366/ijhac.2023.0310?journalCode=ijhac">"The Crisis of Artificial Intelligence: A New Digital Humanities Curriculum for Human-Centred AI"</a></b>
 </h3>
+<br>
 * International Journal of Humanities and Arts Computing
-
+<br>
 This article outlines what a successful artificial intelligence digital humanities (AI DH) curriculum entails and why it is so critical now. Artificial intelligence is rapidly reshaping our world and is poised to exacerbate long-standing crises including (1) the crisis of higher education and the humanities, (2) the lack of diversity, equity and inclusion (DEI) in computer science and technology fields and (3) the wider social and economic crises facilitated by new technologies. We outline a number of ways in which an AI DH curriculum offers concrete and impactful responses to these many crises. AI DH yields meaningful new avenues of research for the humanities and the humanistic social sciences, and offers new ways that higher education can better prepare students for the world into which they graduate. DEI metrics show how an AI DH curriculum can engage students traditionally underserved by conventional STEM courses. Finally, AI DH educates all students for civic engagement in order to address both the social and economic impacts of emerging AI technologies. This article provides an overview of an AI DH curriculum, the motivating theory behind design decisions, and a detailed look into two sample courses.
 
 <hr>
 <h3><b></h3><a href="https://www.academia.edu/98342630/Narrative_2023_Program?auto=download">"How to Identify, Understand, and Analyze ChatGPT AI Narratives"</a></b></h3> with <a href="https://www.slideshare.net/slideshow/how_to_identify_understand_and_analyze_c-pptx/270858290">Slides</a>
+<br>
 * Narrative 2023, March 1-4th, Dallas, TX
+<br>
 
 <hr>
 <h3><b></h3>"Augmenting Narrative Generation with Visual Imagery Using Integrated Prompt Engineering (ChatGPT, DALL-E 2)"</b></h3>
+<br>
 * Narrative 2023, March 1-4th, Dallas, TX -[Narrative Society](https://www.thenarrativesociety.org/2023-conference)
+<br>
 
 <hr>
 <h3><b></h3>Roundtable: <a href="https://github.com/jon-chun/generative_ai_roundtable">"Generative AI Art and Writing: ChatGPT and Generative AI Art: How it Works, Where It's Going, and What It Means for Our Future"</a></b></h3>
+<br>
 * (video and links to generative AI resources), 17th January 2023, AI DHColab, Kenyon College, Gambier, OH
-
+<br>
 <hr>
 <h3><b></h3><a href="https://www.helixcenter.org/roundtables/living-in-difficult-times/">Living In Difficult Times</a></b></h3>
 * The Helix Center, Nov 19th, 2022, NY, NY
 
 <hr>
 <h3><b></h3><a href="https://muse.jhu.edu/article/846035">"What the Rise of AI Means for Narrative Studies: A Response to “Why Computers Will Never Read (or Write) Literature” by Angus Fletcher."</a></b></h3>
+<br>
 * Narrative 30, no. 1 (2022): 104-113. doi:10.1353/nar.2022.0005.
 
 <hr>
 <h3><b></h3><a href="https://arxiv.org/abs/2110.09454">"SentimentArcs: A Novel Method for Self-Supervised Sentiment Analysis of Time Series Shows SOTA Transformers Can Struggle Finding Narrative Arcs."</a></b></h3>
+<br>
 * ArXiv abs/2110.09454 (2021): n. page.
-
+<br>
 SOTA Transformer and DNN short text sentiment classifiers report over 97% accuracy on narrow domains like IMDB movie reviews. Real-world performance is significantly lower because traditional models overfit benchmarks and generalize poorly to different or more open domain texts. This paper introduces SentimentArcs, a new self-supervised time series sentiment analysis methodology that addresses the two main limitations of traditional supervised sentiment analysis: limited labeled training datasets and poor generalization. A large ensemble of diverse models provides a synthetic ground truth for self-supervised learning. Novel metrics jointly optimize an exhaustive search across every possible corpus:model combination. The joint optimization over both the corpus and model solves the generalization problem. Simple visualizations exploit the temporal structure in narratives so domain experts can quickly spot trends, identify key features, and note anomalies over hundreds of arcs and millions of data points. To our knowledge, this is the first self-supervised method for time series sentiment analysis and the largest survey directly comparing real-world model performance on long-form narratives.
   
 <hr>
-<h3><b></h3><a href="https://www.youtube.com/watch?v=Ldb0vlCQXtQ&t=1s">AI Improv DivaBot</a></b></h3> in collaboration with Katherine Elkins, James Dennen (Denison University and Wexner Arts), Lauren Katz (Thymele Arts, LA), ***100th anniversary of the premiere of “R.U.R.,” by Czechoslovakian playwright Karel Capek. “R.U.R.”*** (for “Rossum’s Universal Robots”) opened on January 25th, 1921, at the National Theater of Prague and marks the first use of the word “robot,” coined by Capek and derived from the Czech word for “forced labor.”, 25 Jan 2021
+<h3><b></h3><a href="https://www.youtube.com/watch?v=Ldb0vlCQXtQ&t=1s">AI Improv DivaBot</a></b></h3> 
+<br>
+* in collaboration with Katherine Elkins, James Dennen (Denison University and Wexner Arts), Lauren Katz (Thymele Arts, LA)
+<br>
+***100th anniversary of the premiere of “R.U.R.,” by Czechoslovakian playwright Karel Capek. “R.U.R.”*** (for “Rossum’s Universal Robots”) opened on January 25th, 1921, at the National Theater of Prague and marks the first use of the word “robot,” coined by Capek and derived from the Czech word for “forced labor.”, 25 Jan 2021
 
 <hr>
 <h3><b></h3><a href="https://culturalanalytics.org/article/17212.pdf">"Can GPT-3 pass a Writer’s Turing Test?."</a></b></h3> 
+<br>
 * Journal of Cultural Analytics 5, no. 2 (2020): 17212.
-
+<br>
 Until recently the field of natural language generation relied upon formalized grammar systems, small-scale statistical models, and lengthy sets of heuristic rules. This older technology was fairly limited and brittle: it could remix language into word salad poems or chat with humans within narrowly defined topics. Recently, very large-scale statistical language models have dramatically advanced the field, and GPT-3 is just one example. It can internalize the rules of language without explicit programming or rules. Instead, much like a human child, GPT-3 learns language through repeated exposure, albeit on a much larger scale. Without explicit rules, it can sometimes fail at the simplest of linguistic tasks, but it can also excel at more difficult ones like imitating an author or waxing philosophical.
 
 <hr>
 <h3><b></h3><a href="https://github.com/jon-chun/conference-narrative2020-GPT2-NLG">How Artificial Intelligence Tells Stories: Natural Language Generation and Narrative</a></b></h3>
+<br>
 * Narrative 2020 Conference (page 28), March 5-7 The Intercontinental Hotel, New Orleans
-  
-<br></br>
+<br>
+
 
 <figure>
 <center>
