@@ -44,6 +44,7 @@ Early Career & Industry:
 - Conducted research at Lawrence Berkeley Labs' Advanced Light Source Lab as an undergraduate researcher
 - Helped build out Asia-Pacific Financial Network from Tokyo office of Bloomberg provider McGraw-Hill
 - Served as a semiconductor research analyst for SEMATECH, leveraging Japanese language skills during graduate studies
+- Setup DELL's first Japanese testbed outside Japan (Austin, TX)
 - Built first resume submission/search website for second the largest recruiting firm Addeco
 - Co-authored genomics and medical informatics papers during medical school
 - Built first Workers Comp claims management web system for largest Silicon Valley return to work managment firm
