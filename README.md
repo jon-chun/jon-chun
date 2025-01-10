@@ -7,7 +7,7 @@ Co-Founder, Kenyon DH Colab
 
 </br>&nbsp;</br>
 
-**Contents (UPDATED July 2024, see <a href="https://jonachun.com/">www.jonachun.com</a> for archive 2023 information)**
+**Contents**
 - [Overview](#overview)
 - [Research](#research)
 - [Innovation in Higher Ed](#innovation-in-higher-ed)
