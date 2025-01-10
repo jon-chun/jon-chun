@@ -515,7 +515,7 @@ How do we think of humanity in the digital age? Can we program humanity into our
 
 <hr>
 
-<h3><b><a href="https://jon-chun.github.io/cultural-analytics/">IPHS290 Cultural Analytics</a>> (Introduced Fall 2022)</b></h2>
+<h3><b><a href="https://jon-chun.github.io/cultural-analytics/">IPHS290 Cultural Analytics</a> (Introduced Fall 2022)</b></h2>
 
 IPHS290 Cultural Analytics explores advanced computational methods for cultural analytics, focusing on the analysis of complex composite data types including geospatial, time series, and network graphs. Building upon foundational programming knowledge, students learn specialized techniques for collecting, transforming, and visualizing unstructured and structured data to investigate contemporary and historical cultural phenomena. Through engagement with Digital Humanities scholarship and hands-on technical implementation, students develop expertise in analyzing spatially, temporally, and semantically correlated data. This course prepares researchers to expand their analytical capabilities beyond traditional structured datasets to encompass the full spectrum of cultural data analysis.
 
@@ -594,7 +594,7 @@ IPHS 484: Senior Seminar integrates academic research methodologies with entrepr
   - Economics/Time Series Anomaly Detection: [Analyzing Pump and Dump Schemes](https://digital.kenyon.edu/dh_iphs_ss/14/)
 <br></br>
 
-* <b>Computing Custom Course: [Industrial IoT (IIoT) Predicitve Maintenance System](https://github.com/jon-chun/iiot-time-series-prediction-system)</b>
+<h3><b><a href="https://github.com/jon-chun/iiot-time-series-prediction-system">Computing Custom Course: Industrial IoT (IIoT) Predicitve Maintenance System</a> (2021)</b></h3>
 
 Based on the paste.txt document provided, here's a concise summary of the Independent Study course:
 
