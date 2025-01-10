@@ -523,13 +523,6 @@ How do we think of humanity in the digital age? Can we program humanity into our
 
 IPHS290 Cultural Analytics explores advanced computational methods for cultural analytics, focusing on the analysis of complex composite data types including geospatial, time series, and network graphs. Building upon foundational programming knowledge, students learn specialized techniques for collecting, transforming, and visualizing unstructured and structured data to investigate contemporary and historical cultural phenomena. Through engagement with Digital Humanities scholarship and hands-on technical implementation, students develop expertise in analyzing spatially, temporally, and semantically correlated data. This course prepares researchers to expand their analytical capabilities beyond traditional structured datasets to encompass the full spectrum of cultural data analysis.
 
-**Sample Course Projects:**
-  - Sociology/Multi-Racial Identity
-  - Medical Narratives/NLP Analysis of End-of-Life Medical Narratives 
-  - Politcal Science/US-Latin American Geopolitical, Economic, & Military Aid and Analysis 
-  - Literature/Exploring Representations of Utopia in Literature over Time
-  - Finance/Analysis of Economic Performance and Healthcare Quality Metrics after Private Equity Acquisitions
-  - Operational Research/Global Supply Chain Analysis post-Covid
 <br></br>
 
 <hr>
