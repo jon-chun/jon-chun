@@ -465,7 +465,7 @@ images\kenyon_dh_analytics_institutions_1958.png
 
 <b>Integrated Program for Humane Studies (2017-)</b>
 
-* <b>IPHS200 [Programming Humanity](https://digital.kenyon.edu/dh_iphs_prog/) (samples below)</b>
+<h3>IPHS200 [Programming Humanity](https://digital.kenyon.edu/dh_iphs_prog/) (samples below)</H3>
 
 How do we think of humanity in the digital age? Can we program humanity into our technology by generating music, analyzing vast quantities of literary text, and producing great visual works of art? Or will humans be programmed through genetic engineering, predictive policing, manipulations of social media, and domestic surveillance? Are we firmly entrenched in a Posthumanist world, and is Transhumanism a future to which we should aspire? By the end of this course you will:
 
@@ -515,7 +515,7 @@ How do we think of humanity in the digital age? Can we program humanity into our
 
 <hr>
 
-* <b>IPHS290 [Cultural Analytics](https://jon-chun.github.io/cultural-analytics/) (New Fall 2022)</b>
+<h2><b>IPHS290 [Cultural Analytics](https://jon-chun.github.io/cultural-analytics/) (New Fall 2022)</b></h2>
 
 IPHS290 Cultural Analytics explores advanced computational methods for cultural analytics, focusing on the analysis of complex composite data types including geospatial, time series, and network graphs. Building upon foundational programming knowledge, students learn specialized techniques for collecting, transforming, and visualizing unstructured and structured data to investigate contemporary and historical cultural phenomena. Through engagement with Digital Humanities scholarship and hands-on technical implementation, students develop expertise in analyzing spatially, temporally, and semantically correlated data. This course prepares researchers to expand their analytical capabilities beyond traditional structured datasets to encompass the full spectrum of cultural data analysis.
 
@@ -530,7 +530,7 @@ IPHS290 Cultural Analytics explores advanced computational methods for cultural 
 
 <hr>
 
-* <b>IPHS300 [AI for the Humanities](https://digital.kenyon.edu/dh_iphs_ai/) (samples below)</b>
+<h1><b>IPHS300 [AI for the Humanities](https://digital.kenyon.edu/dh_iphs_ai/) (samples below)</b><</h1>
 
 “Why isn’t AI a branch of mathematics?” Norvig and Russell ask in their seminal textbook Artificial Intelligence: A Modern Approach. “The first answer,” they explain, “is that AI from the start embraced the idea of duplicating human faculties such as creativity, self-improvement, and language use”(18).
 
