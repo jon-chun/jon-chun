@@ -111,7 +111,7 @@ Affective artificial intelligence and multimodal sentiment analysis play critica
 <hr>
 <h3><b></h3><a href="https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2024.1444021/full">"In search of a translator: using AI to evaluate what's lost in translation"</a></b></h3>
 <br>
-* Frontiers in Computer Science, 12 August 2024, Sec. Human-Media Interaction, Volume 6 - 2024 | https://doi.org/10.3389/fcomp.2024.1444021 (Credited in Paper)
+* Frontiers in Computer Science, 12 August 2024, Sec. Human-Media Interaction, Volume 6 - 2024
 <br>
 Machine translation metrics often fall short in capturing the challenges of literary translation in which translators play a creative role. Large Language Models (LLMs) like GPT4o and Mistral offer new approaches to assessing how well a translation mirrors the reading experience from one language to another. Our case study focuses on the first volume of Marcel Proust's “A la recherche du temps perdu,” a work known for its lively translation debates. We use stylometry and emotional arc leveraging the newest multilingual generative AI models to evaluate loss in translation according to different translation theories. AI analysis reveals previously undertheorized aspects of translation. Notably, we uncover changes in authorial style and the evolution of sentiment language over time. Our study demonstrates that AI-driven approaches leveraging advanced LLMs yield new perspectives on literary translation assessment. These methods offer insight into the creative choices made by translators and open up new avenues for understanding the complexities of translating literary works.
 
@@ -125,7 +125,7 @@ Machine translation metrics often fall short in capturing the challenges of lite
 In the next few years, applications of Generative AI are expected to revolutionize a number of different areas, ranging from science & medicine to education. The potential for these seismic changes has triggered a lively debate about potential risks and resulted in calls for tighter regulation, in particular from some of the major tech companies who are leading in AI development. This regulation is likely to put at risk the budding field of open source Generative AI. We argue for the responsible open sourcing of generative AI models in the near and medium term. To set the stage, we first introduce an AI openness taxonomy system and apply it to 40 current large language models. We then outline differential benefits and risks of open versus closed source AI and present potential risk mitigation, ranging from best practices to calls for technical and scientific contributions. We hope that this report will add a much needed missing voice to the current public discourse on near to mid-term AI safety and other societal impact.
 
 <hr>
-<h3><b></h3><a ref="https://arxiv.org/pdf/2402.01651">"Informed AI Regulation: Comparing the Ethical Frameworks of Leading LLM Chatbots Using an Ethics-Based Audit to Assess Moral Reasoning and Normative Values"</a></b></h3>
+<h3><b></h3><a href="https://arxiv.org/pdf/2402.01651">"Informed AI Regulation: Comparing the Ethical Frameworks of Leading LLM Chatbots Using an Ethics-Based Audit to Assess Moral Reasoning and Normative Values"</a></b></h3>
 <br>
 * ArXiv.org (Jan 9, 2024)
 <br>
@@ -133,7 +133,7 @@ With the rise of individual and collaborative networks of autonomous agents, AI 
 pivotal role in the rapidly growing fields of AI safety and regulation. This paper undertakes an ethics-based audit to probe the 8 leading commercial and open-source Large Language Models including GPT-4. We assess explicability and trustworthiness by a) establishing how well different models engage in moral reasoning and b) comparing normative values underlying models as ethical frameworks. We employ an experimental, evidence-based approach that challenges the models with ethical dilemmas in order to probe human-AI alignment. The ethical scenarios are designed to require a decision in which the particulars of the situation may or may not necessitate deviating from normative ethical principles. A sophisticated ethical framework was consistently elicited in one model, GPT-4. Nonetheless, troubling findings include underlying normative frameworks with clear bias towards particular cultural norms. Many models also exhibit disturbing authoritarian tendencies. Code is available at https://github.com/jonchun/llm-sota-chatbots-ethics-based-audit.
 
 <hr>
-<h3><b></h3><a ref="https://link.springer.com/article/10.1007/s42803-023-00069-8">"eXplainable AI with GPT4 for story analysis and generation: A novel framework for diachronic sentiment analysis"</a></b></h3>
+<h3><b></h3><a href="https://link.springer.com/article/10.1007/s42803-023-00069-8">"eXplainable AI with GPT4 for story analysis and generation: A novel framework for diachronic sentiment analysis"</a></b></h3>
 <br>
 * Springer International Journal of Digital Humanities 5, 507–532 (2023). https://doi.org/10.1007/s42803-023-00069-8 (Oct 11, 2023)
 <br>
@@ -148,10 +148,11 @@ The recent development of Transformers and large language models (LLMs) offer un
 This article outlines what a successful artificial intelligence digital humanities (AI DH) curriculum entails and why it is so critical now. Artificial intelligence is rapidly reshaping our world and is poised to exacerbate long-standing crises including (1) the crisis of higher education and the humanities, (2) the lack of diversity, equity and inclusion (DEI) in computer science and technology fields and (3) the wider social and economic crises facilitated by new technologies. We outline a number of ways in which an AI DH curriculum offers concrete and impactful responses to these many crises. AI DH yields meaningful new avenues of research for the humanities and the humanistic social sciences, and offers new ways that higher education can better prepare students for the world into which they graduate. DEI metrics show how an AI DH curriculum can engage students traditionally underserved by conventional STEM courses. Finally, AI DH educates all students for civic engagement in order to address both the social and economic impacts of emerging AI technologies. This article provides an overview of an AI DH curriculum, the motivating theory behind design decisions, and a detailed look into two sample courses.
 
 <hr>
-<h3><b></h3><a href="https://www.academia.edu/98342630/Narrative_2023_Program?auto=download">"How to Identify, Understand, and Analyze ChatGPT AI Narratives"</a></b></h3> with <a href="https://www.slideshare.net/slideshow/how_to_identify_understand_and_analyze_c-pptx/270858290">Slides</a>
+<h3><b></h3><a href="https://www.academia.edu/98342630/Narrative_2023_Program?auto=download">"How to Identify, Understand, and Analyze ChatGPT AI Narratives"</a></b></h3>
 <br>
 * Narrative 2023, March 1-4th, Dallas, TX
 <br>
+<a href="https://www.slideshare.net/slideshow/how_to_identify_understand_and_analyze_c-pptx/270858290">Slides</a>
 
 <hr>
 <h3><b></h3>"Augmenting Narrative Generation with Visual Imagery Using Integrated Prompt Engineering (ChatGPT, DALL-E 2)"</b></h3>
@@ -164,14 +165,18 @@ This article outlines what a successful artificial intelligence digital humaniti
 <br>
 * (video and links to generative AI resources), 17th January 2023, AI DHColab, Kenyon College, Gambier, OH
 <br>
+
 <hr>
 <h3><b></h3><a href="https://www.helixcenter.org/roundtables/living-in-difficult-times/">Living In Difficult Times</a></b></h3>
+<br>
 * The Helix Center, Nov 19th, 2022, NY, NY
+<br>
 
 <hr>
 <h3><b></h3><a href="https://muse.jhu.edu/article/846035">"What the Rise of AI Means for Narrative Studies: A Response to “Why Computers Will Never Read (or Write) Literature” by Angus Fletcher."</a></b></h3>
 <br>
 * Narrative 30, no. 1 (2022): 104-113. doi:10.1353/nar.2022.0005.
+<br>
 
 <hr>
 <h3><b></h3><a href="https://arxiv.org/abs/2110.09454">"SentimentArcs: A Novel Method for Self-Supervised Sentiment Analysis of Time Series Shows SOTA Transformers Can Struggle Finding Narrative Arcs."</a></b></h3>
