@@ -24,8 +24,6 @@ Co-Founder, Kenyon DH Colab
 ## Overview
 ---
 
-Here's a professionally refined version with minimal revisions:
-
 I am an interdisciplinary ML/AI researcher and educator specializing in bridging traditional academic divisions, AI research, industry practices, and emerging social topics including government regulation, ethics, and entrepreneurship. My research focuses on ML/AI approaches to language, narrative, emotion, cognition, and persuasion/deception, employing data science, statistical machine learning, and deep learning including NLP, LLM, and LMM. My work extends to eXplainable AI (XAI), fairness-accuracy-transparency-explainability (FATE), AI ethical auditing, and AI regulation.
 
 As an entrepreneur and innovator, I've contributed to diverse fields from network security and education to finance, insurance, and healthcare across environments ranging from Silicon Valley startups to higher education institutions. I've published pioneering interdisciplinary AI research on storytelling and emotion in major venues including Narrative and the Modern Language Association (MLA). In 2016, I co-founded the first human-centered AI curriculum integrating domain experts from literature, music, political science, and economics. We established the term 'AI Digital Humanities' and have guided approximately 400 ML/AI DH projects, achieving over 65,000 downloads from leading institutions worldwide. Currently, I serve as a co-principal investigator for the US NIST AI Safety Institute representing the Modern Language Association and collaborate with the IBM-Notre Dame Tech Ethics Lab researching LLM prediction capabilities.
