@@ -553,7 +553,9 @@ Textual analysis will receive our major attention and will provide an ideal foun
   - Literature/NLP Sentiment Analysis: [Jane AI-sten: What is Sentiment Analysis’s Connection to Best-Selling Literature?](https://digital.kenyon.edu/dh_iphs_prog/44/)
 <br></br>
 
-<h3><b><a href="(https://github.com/jon-chun/GenAI-Multi-Agent-Networks-and-Digital-Twins">IPHS391 Frontiers in Generative AI: Automating Knowledge Work with Autonomous Agent Networks</a> (Introduced Fall 2024)</b><h3>
+<hr>
+
+<h3><b><a href="https://github.com/jon-chun/GenAI-Multi-Agent-Networks-and-Digital-Twins">IPHS391 Frontiers in Generative AI: Automating Knowledge Work with Autonomous Agent Networks</a> (Introduced Fall 2024)</b><h3>
 
 How is AI changing humanity? This course explores the realities of labor, knowledge work, and automation. Can the current generation of rapidly improving autonomous AI agents collaboratively (or independently) craft novels, social media political campaigns, commercial brand marketing strategies, financial analyst reports, software apps, music videos, or write original scientific research papers? For those with basic Python skills and advanced curiosity, get hands-on experience building your own personal digital twin and a peek into the future.
 
