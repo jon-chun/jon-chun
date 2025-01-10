@@ -46,12 +46,13 @@ Early Career & Industry:
 - Served as a semiconductor research analyst for SEMATECH, leveraging Japanese language skills during graduate studies
 - Built first resume submission/search website for second the largest recruiting firm Addeco
 - Co-authored genomics and medical informatics papers during medical school
-- Built first Workers Comp claims management web system for largest Silicon Valley return to work managment firm 
+- Built first Workers Comp claims management web system for largest Silicon Valley return to work managment firm
+- Fortune 500 Director of Development rebranding and launching one of the first VPN appliances within a year
 
 Entrepreneurship & Innovation:
 - Co-founded Brasilian-based international fashion, music, and culture lifestyle website (US, Japan, and Latin America)
 - CTO for logistics and computer supplier startup integrating supply chains across the US and Latin America
-- Co-founded and CEO a successful Silicon Valley startup, later acquired by a leading global security company
+- Co-founded and CEO a successful Silicon Valley startup, B2C privacy/anonymity pivot to B2B enterprise seucrity, acquired by world's largest security provider
 - Co-inventor on several VPN patents focusing on network security and anonymity
 
 Academic Leadership & AI Research:
