@@ -462,8 +462,6 @@ images\kenyon_dh_analytics_institutions_1958.png
 
 <br></br>
 
-<b>Integrated Program for Humane Studies (2017-)</b>
-
 <h3><a href="https://digital.kenyon.edu/dh_iphs_prog/">IPHS200 Programming Humanity (Introduced Fall 2017)</a></H3>
 
 How do we think of humanity in the digital age? Can we program humanity into our technology by generating music, analyzing vast quantities of literary text, and producing great visual works of art? Or will humans be programmed through genetic engineering, predictive policing, manipulations of social media, and domestic surveillance? Are we firmly entrenched in a Posthumanist world, and is Transhumanism a future to which we should aspire? By the end of this course you will:
