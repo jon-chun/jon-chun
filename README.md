@@ -447,6 +447,16 @@ images\kenyon_dh_analytics_institutions_1958.png
 
 * <b>IPHS200 [Programming Humanity](https://digital.kenyon.edu/dh_iphs_prog/) (samples below)</b>
 
+How do we think of humanity in the digital age? Can we program humanity into our technology by generating music, analyzing vast quantities of literary text, and producing great visual works of art? Or will humans be programmed through genetic engineering, predictive policing, manipulations of social media, and domestic surveillance? Are we firmly entrenched in a Posthumanist world, and is Transhumanism a future to which we should aspire? By the end of this course you will:
+
+- Have basic skills in Python, data visualization, data wrangling, and natural language processing.
+- Gain a foundational understanding of key aspects of our Age of Information from Dataism and Information Theory to Machine Learning and Artificial Intelligence.
+- Relate this emerging picture to conversations about Humanism, Posthumanism, and Transhumanism.
+- Understand how new computational tools both challenge and deepen traditional approaches to the Social Sciences, Humanities, and Fine Arts.
+- Understand emerging ethical debates surrounding key technologies poised to transform humanity.
+- Have a portfolio of project-based work demonstrating your computational skills with a final project of your choice.
+
+Sample Course Projects: 
     - Cultural Bias/DALL-E 2: [Adjectivally-Oriented: Women Through the Decades: Stylistic Shifts In Magazines As Represented By Image-Generating AI](https://digital.kenyon.edu/dh_iphs_prog/53)
     - Political Science/Social Media [How Did Sri Lankan Protestors End Up in the President’s Pool? Understanding the evolution of an occupy-style protest: A story of economic turmoil, declining social sentiment and resulting political change](https://digital.kenyon.edu/dh_iphs_prog/59)
     - Gender Studies/Topic Modeling: [The Second Meaning: Uncovering the Linguistic Interpretation of Simone de Beauvior’s The Second Sex](https://digital.kenyon.edu/dh_iphs_prog/52)
@@ -484,16 +494,27 @@ images\kenyon_dh_analytics_institutions_1958.png
 <br></br>
 
 * <b>IPHS290 [Cultural Analytics](https://jon-chun.github.io/cultural-analytics/) (New Fall 2022)</b>
-    - **Upcoming Projects:** (Intentionally vague for now)
-    - Multi-Racial Identity
-    - NLP Analysis of End-of-Life Medical Narratives 
-    - US-Latin American Geopolitical, Economic, & Military Aid and Analysis 
-    - Exploring Representations of Utopia in Literature over Time
-    - Analysis of Economic Performance and Healthcare Quality Metrics after Private Equity Acquisitions
-    - Global Supply Chain Analysis post-Covid
+
+IPHS290 Cultural Analytics explores advanced computational methods for cultural analytics, focusing on the analysis of complex composite data types including geospatial, time series, and network graphs. Building upon foundational programming knowledge, students learn specialized techniques for collecting, transforming, and visualizing unstructured and structured data to investigate contemporary and historical cultural phenomena. Through engagement with Digital Humanities scholarship and hands-on technical implementation, students develop expertise in analyzing spatially, temporally, and semantically correlated data. This course prepares researchers to expand their analytical capabilities beyond traditional structured datasets to encompass the full spectrum of cultural data analysis.
+
+Sample Course Projects:
+    - Sociology/Multi-Racial Identity
+    - Medical Narratives/NLP Analysis of End-of-Life Medical Narratives 
+    - Politcal Science/US-Latin American Geopolitical, Economic, & Military Aid and Analysis 
+    - Literature/Exploring Representations of Utopia in Literature over Time
+    - Finance/Analysis of Economic Performance and Healthcare Quality Metrics after Private Equity Acquisitions
+    - Operational Research/Global Supply Chain Analysis post-Covid
 <br></br>
 
 * <b>IPHS300 [AI for the Humanities](https://digital.kenyon.edu/dh_iphs_ai/) (samples below)</b>
+
+“Why isn’t AI a branch of mathematics?” Norvig and Russell ask in their seminal textbook Artificial Intelligence: A Modern Approach. “The first answer,” they explain, “is that AI from the start embraced the idea of duplicating human faculties such as creativity, self-improvement, and language use”(18).
+
+We explore AI from this humanist perspective by building a foundation to understand the creativity, self-improvement and language at the core of the discipline. Our approach blends the conceptual with hands-on exploration and application. We think through the humanist-centered theory and practice of artificial intelligence and machine learning from a liberal arts perspective that is highly interdisciplinary in nature. To that end, the course will touch on domains intertwined with AI like cognitive science and language and linguistics.
+
+Textual analysis will receive our major attention and will provide an ideal foundation for students interested in computational approaches to literature. However we will also explore a wide range of textual applications that will be of interest to a broader range of students: textual analytics that help us explore disciplines like economics, politics, sociology, cultural studies, and psychology. The last weeks of the course will move to image, video and sound by building on previous skills acquired from textual analysis.
+
+Sample Course Projects:
     - Jewish Studies/Information Science: [Taxonomy Techniques for Holocaust-Related Image Digitization and Text](https://digital.kenyon.edu/dh_iphs_prog/21/)
     - Law: [Synthetic Biology: Analyzing Trends in Intellectual Property Rights vs. Open Access to Research, 1989-2019](https://digital.kenyon.edu/dh_iphs_prog/5/)
     - Asian-American Studies/Sentiment Analysis: [The Rise of Anti-Asian American Sentiment with COVID-19](https://digital.kenyon.edu/dh_iphs_prog/15/)
@@ -512,8 +533,15 @@ images\kenyon_dh_analytics_institutions_1958.png
 
 How is AI changing humanity? This course explores the realities of labor, knowledge work, and automation. Can the current generation of rapidly improving autonomous AI agents collaboratively (or independently) craft novels, social media political campaigns, commercial brand marketing strategies, financial analyst reports, software apps, music videos, or write original scientific research papers? For those with basic Python skills and advanced curiosity, get hands-on experience building your own personal digital twin and a peek into the future.
 
+This is an upper-division course offers an in-depth exploration of advanced AI concepts, focusing on interdisciplinary applications of large language models, AI information systems, and autonomous agents. Students will engage with a progressive curriculum, starting with a review of Python and a series of four hands-on projects, equipping them with the skills and knowledge necessary to innovate in the rapidly evolving field of artificial intelligence.
 
 * <b>IPHS484 [Senior Seminar/Research](https://digital.kenyon.edu/dh_iphs_ss/) (samples below)</b>
+
+Here's a concise graduate-level course description:
+
+IPHS 484: Senior Seminar integrates academic research methodologies with entrepreneurial product development practices, guiding students through the creation of an innovative technical project that bridges scholarly contribution with real-world impact. Students develop comprehensive skills in research design, competitive analysis, technical architecture, product management, and performance metrics while producing a minimum viable product or proof of concept. Through intensive mentorship and peer collaboration, participants transform their academic foundations into tangible outcomes, whether aimed at scholarly publication or venture development. This capstone experience emphasizes independent project execution while providing structured support for students to synthesize their coursework into a launching pad for their post-graduate aspirations.
+
+Sample Course Projects:
   - Film/ChatGPT & DALL-E2: [When AI Met Screenwriting... Can AI Generate Beat Sheets and Storyboards?](https://digital.kenyon.edu/dh_iphs_ss/18/)
   - Sociology/AI Visual Sentiment Analysis: [AI reads Playboy (but not for the articles): Revealing Cover Trends with Deep Neural Networks](https://digital.kenyon.edu/dh_iphs_ss/17/)
   - Political Science/Econometrics: [An Econometric Measure of the Post-9/11 Growth of the Defense Budget: Quantifying the Military-Industrial Complex’s Growing Influence Over the Pentagon](https://digital.kenyon.edu/dh_iphs_ss/16/)
