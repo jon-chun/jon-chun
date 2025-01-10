@@ -227,6 +227,8 @@ Our interdisciplinary AI DH research has been published in top presses, journals
 * **2022 Jan**: Collaboration with <a href="https://cs.kenyon.edu/index.php/scmp-401-scientific-computing-seminar/">*Scientific Computing program at Kenyon*</a> mentoring several majors on interdisciplinary research  
 * **2022 Aug**: Kenyon offers first computational <a href="https://jon-chun.github.io/cultural-analytics/">'*Cultural Analytics*'</a> DH methodology course for Social Sciences and Humanities 
 * **2022 Aug**: First collaboration with local industry via <a href="https://github.com/jon-chun/iiot-time-series-prediction-system">'*Industrial IoT Independent Study*'</a> targeting technical reference implementation and strategic whitepaper
+* **2024**: Co-Principle Investigator for the Modern Language Institute's team for the <a href="https://www.nist.gov/aisi/artificial-intelligence-safety-institute-consortium/aisic-members">NIST AI Safety Institute Consortium</a> created by <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/">Whitehouse Exectuive Order "Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligenc"</a>
+* **2024**: Co-Principle Investigator for the IBM-Notre Dame Tech Ethics Grant: <a href="https://techethicslab.nd.edu/news/notre-dameibm-technology-ethics-lab-awards-more-than-900-000-to-support-collaborative-research-projects-between-teams-of-notre-dame-faculty-and-international-scholars/>How Well Can GenAI Predict Human Behavior? Auditing State-of-the-Art Large Language Models for Fairness, Accuracy, Transparency, and Explainability (FATE)</a>
 
 <br></br>
 
