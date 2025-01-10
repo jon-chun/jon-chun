@@ -37,6 +37,26 @@ There isn’t a topic I’m not curious about although keeping up with AI is my 
 ## Research
 ---
 
+My interdisciplinary research spans multiple domains, combining technical innovation with practical applications across various fields:
+
+Early Career & Industry:
+- Conducted research at Lawrence Berkeley Labs' Advanced Light Source Lab as an undergraduate researcher
+- Served as a semiconductor research analyst for SEMATECH, leveraging Japanese language skills during graduate studies
+- Co-authored genomics and medical informatics papers during medical school
+
+Entrepreneurship & Innovation:
+- Co-founded a successful Silicon Valley startup, later acquired by a leading global security company
+- Co-inventor on several VPN patents focusing on network security and anonymity
+
+Academic Leadership & AI Research:
+- Pioneer in human-centered AI education, co-founding one of the world's first AI Digital Humanities Colabs in the early 2010s
+- Published research in premier venues across AI, Computer Science, and Humanities:
+  - Machine Learning: International Conference on Machine Learning (ICML)
+  - Computational Linguistics: ACL's EMNLP/CoNLL
+  - Computer Science: Frontiers in Computer Science
+  - Humanities: Modern Language Association, Narrative
+  - Digital Humanities: Springer International Journal of Digital Humanities, International Journal of Humanities and Arts Computing
+
 I created the open-source library SentimentArcs in 2019, at the time the largest ensemble for diachronic sentiment analysis and the basis for Katherine Elkins's “The Shapes of Stories” (Cambridge UP 2022). I presented some of the earliest GPT-2 story generation work at Narrative2020 and have since published in Cultural Analytics and Narrative on AI and narrative. As of January 2025, I've mentored approximately four hundred computational Digital Humanities projects since 2017 across virtually every department of Kenyon College as part of the Integrated Program for Humane Studies and the Scientific Computing programs. I co-founded the AI Digital Humanities Colab, the world's first human-centered AI Digital Humanities curriculum at Kenyon, and our AI KDH research colab. I currently have research papers pending on using LLMs to compare multiple translations of Proust, multimodal (dialog+image) diachronic sentiment arcs in film, emotional hacking of LLM high-stakes decision-making, a novel benchmark on semantic similarity, IP infringement and creativity using Narrative theory, and an updated and expanding ethical audit of the leading LLMs. I'm also a co-author on an ICML position paper that was invited as an oral presentation this year in Vienna. My current research projects focus on AI persuasion, manipulation and deception as well as using LLMs for predictive analytics and decision-making on structured tabular data. (July 2024)
 
 * Google Scholar: [jonchun2000](https://scholar.google.com/citations?user=l-iUHQMAAAAJ&hl=en)
