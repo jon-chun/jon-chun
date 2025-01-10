@@ -157,8 +157,9 @@ This article outlines what a successful artificial intelligence digital humaniti
 <hr>
 <h3><b></h3>"Augmenting Narrative Generation with Visual Imagery Using Integrated Prompt Engineering (ChatGPT, DALL-E 2)"</b></h3>
 <br>
-* Narrative 2023, March 1-4th, Dallas, TX -[Narrative Society](https://www.thenarrativesociety.org/2023-conference)
+* Narrative 2023, March 1-4th, Dallas, TX
 <br>
+<a href="(https://www.thenarrativesociety.org/2023-conference">Conference Program</a>a>
 
 <hr>
 <h3><b></h3>Roundtable: <a href="https://github.com/jon-chun/generative_ai_roundtable">"Generative AI Art and Writing: ChatGPT and Generative AI Art: How it Works, Where It's Going, and What It Means for Our Future"</a></b></h3>
