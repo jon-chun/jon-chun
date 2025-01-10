@@ -154,7 +154,7 @@ I've also long been interested in bringing diverse voices to urgent debates surr
 
 Over most of the last decade, I have been developing a new human-first approach to teaching computation grounded in ML, AI and Data Science with real-world applications inseparable from ethics. One challenge was to bridge the STEM and non-STEM divide. Another challenge was harmonizing the rigorous specialization of academia with practical, interdisciplinary and generalizable real-world solutions. The final challenge was to bootstrap an entirely new AI Digital Humanities computing curriculum without a budget, support staff, or academic credit toward any major/minor.
 
-Over the first 6 years, our foundational course has become one of the most popular on campus. Both our professors' and students' research have been published in top journals, presented at leading conferences and have been read by thousands from top universities and research centers around the world. Both founders of our program have been involved in several organizations beyond Kenyon dedicated to AI, Ethics and innovating CS Education.
+Over the first 6 years, our foundational course has become one of the most popular on campus. Both our professors' and students' research have been published in top journals, presented at leading conferences and have been read by tens thousands from top universities and research centers around the world. Both founders of our program have been involved in several organizations beyond Kenyon dedicated to AI, Ethics and innovating CS Education.
 
 Philosophically, my goal is to cultivate in students a technologically informed worldview grounded in universal humanistic values. This integrated worldview is designed to intimately align the core strengths of traditional education with more ethical, practical and beneficial uses of technology for all.
 
@@ -507,6 +507,11 @@ images\kenyon_dh_analytics_institutions_1958.png
     - Political Science/Data Science: [2020 Election Fraud: What Can Twitter Teach Us?](https://digital.kenyon.edu/dh_iphs_prog/31/)
     - Literature/NLP Sentiment Analysis: [Jane AI-sten: What is Sentiment Analysis’s Connection to Best-Selling Literature?](https://digital.kenyon.edu/dh_iphs_prog/44/)
 <br></br>
+
+* <b>IPHS391 [Frontiers in Generative AI: Automating Knowledge Work with Autonomous Agent Networks](https://github.com/jon-chun/GenAI-Multi-Agent-Networks-and-Digital-Twins)
+
+How is AI changing humanity? This course explores the realities of labor, knowledge work, and automation. Can the current generation of rapidly improving autonomous AI agents collaboratively (or independently) craft novels, social media political campaigns, commercial brand marketing strategies, financial analyst reports, software apps, music videos, or write original scientific research papers? For those with basic Python skills and advanced curiosity, get hands-on experience building your own personal digital twin and a peek into the future.
+
 
 * <b>IPHS484 [Senior Seminar/Research](https://digital.kenyon.edu/dh_iphs_ss/) (samples below)</b>
   - Film/ChatGPT & DALL-E2: [When AI Met Screenwriting... Can AI Generate Beat Sheets and Storyboards?](https://digital.kenyon.edu/dh_iphs_ss/18/)
