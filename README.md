@@ -491,6 +491,8 @@ How do we think of humanity in the digital age? Can we program humanity into our
   - Film/GPT-2: [https://digital.kenyon.edu/dh_iphs_prog/19/](https://digital.kenyon.edu/dh_iphs_prog/19/)
 <br></br>
 
+<hr>
+
 * <b>IPHS290 [Cultural Analytics](https://jon-chun.github.io/cultural-analytics/) (New Fall 2022)</b>
 
 IPHS290 Cultural Analytics explores advanced computational methods for cultural analytics, focusing on the analysis of complex composite data types including geospatial, time series, and network graphs. Building upon foundational programming knowledge, students learn specialized techniques for collecting, transforming, and visualizing unstructured and structured data to investigate contemporary and historical cultural phenomena. Through engagement with Digital Humanities scholarship and hands-on technical implementation, students develop expertise in analyzing spatially, temporally, and semantically correlated data. This course prepares researchers to expand their analytical capabilities beyond traditional structured datasets to encompass the full spectrum of cultural data analysis.
@@ -503,6 +505,8 @@ IPHS290 Cultural Analytics explores advanced computational methods for cultural 
   - Finance/Analysis of Economic Performance and Healthcare Quality Metrics after Private Equity Acquisitions
   - Operational Research/Global Supply Chain Analysis post-Covid
 <br></br>
+
+<hr>
 
 * <b>IPHS300 [AI for the Humanities](https://digital.kenyon.edu/dh_iphs_ai/) (samples below)</b>
 
@@ -533,9 +537,25 @@ How is AI changing humanity? This course explores the realities of labor, knowle
 
 This is an upper-division course offers an in-depth exploration of advanced AI concepts, focusing on interdisciplinary applications of large language models, AI information systems, and autonomous agents. Students will engage with a progressive curriculum, starting with a review of Python and a series of four hands-on projects, equipping them with the skills and knowledge necessary to innovate in the rapidly evolving field of artificial intelligence.
 
-* <b>IPHS484 [Senior Seminar/Research](https://digital.kenyon.edu/dh_iphs_ss/) (samples below)</b>
+**Sample Course Projects:**
+  - Classics/Ancient Greek Parsing with AIUnpacking Complex Word Composition with Agentic Systems
+  - Finance/Simulating Investment Environments with AI: A Data-Driven ApproachHow to Harness AI for Strategic Consulting Market Analysis
+  - Psychology/Multi-Agent Optimization for Holistic College Admissions Leveraging Multi-Agent Systems and Genetic Algorithms to Optimize Holistic College Admissions for a Diverse and High-Achieving Cohort
+  - Sports Analytics/Leveraging AI To Automate MLB Roster Construction;Using High Fidelity Synthetic Data To Optimize Team Performance
+  - Studio Art/AI's Brush with TimeAnalyzing Deviations in Prompt Alignment for Historic and Modern AI-Generated Art
+  - Medical/Developing an AI Chatbot for College Disability Services Support: Using  a RAG-Agent Framework to Create a Context-Aware Chatbot
+  - Psychology/Effectiveness of Guided vs Pure Mirroring in Chat De-Escalation Across Simulated Scenarios
+  - Sports Analytics/Agentic Framework for Data-Driven Cricket Player Scouting
+  - Finance/PitchAI: Streamlining Investment Banking Pitches Using LLMs
+  - Fashion/Predicting South Asian Fashion TrendsAnalyzing Desi Fashion Trends through Machine Learning and Image Procesing
+  - Behavioral Economics/Multi-Agent Framework for Digital Marketing Optimization
+  - Medical Informatics/AI-Powered Appointment Prioritization System  for Resource-Poor Settings
+  - Philosophy/From Ramblings to Reason:Using AI to Elucidate Philosophies Greatest Works (Fall 2024)
 
-Here's a concise graduate-level course description:
+
+<hr>
+
+* <b>IPHS484 [Senior Seminar/Research](https://digital.kenyon.edu/dh_iphs_ss/) (samples below)</b>
 
 IPHS 484: Senior Seminar integrates academic research methodologies with entrepreneurial product development practices, guiding students through the creation of an innovative technical project that bridges scholarly contribution with real-world impact. Students develop comprehensive skills in research design, competitive analysis, technical architecture, product management, and performance metrics while producing a minimum viable product or proof of concept. Through intensive mentorship and peer collaboration, participants transform their academic foundations into tangible outcomes, whether aimed at scholarly publication or venture development. This capstone experience emphasizes independent project execution while providing structured support for students to synthesize their coursework into a launching pad for their post-graduate aspirations.
 
@@ -551,6 +571,13 @@ IPHS 484: Senior Seminar integrates academic research methodologies with entrepr
   - Art/Deep Neural Networks Generative Art: [An Artist's Guide to AI Art](https://digital.kenyon.edu/dh_iphs_ss/3/)
   - Economics/Time Series Anomaly Detection: [Analyzing Pump and Dump Schemes](https://digital.kenyon.edu/dh_iphs_ss/14/)
 <br></br>
+
+* <b>Computing Custom Course: [Industrial IoT (IIoT) Predicitve Maintenance System](https://github.com/jon-chun/iiot-time-series-prediction-system)</b>
+
+Based on the paste.txt document provided, here's a concise summary of the Independent Study course:
+
+This advanced project-based independent study focuses on developing an end-to-end Industrial Internet of Things (IIoT) predictive maintenance system through collaboration with a local fabrication factory. Over fourteen weeks, students progress from foundational research through system implementation, combining academic theory with practical engineering. The curriculum covers IIoT architecture, time series analysis, machine learning for predictive modeling, real-time data streaming, cloud infrastructure, and user interface development. Through hands-on experience with both hardware and software components, students learn to design, implement, and deploy a complete IIoT solution while addressing real-world industrial challenges. The course emphasizes both theoretical understanding and practical implementation, culminating in a functional predictive maintenance system that serves actual business needs.
+
 
 [Back to Top](#ai-digital-humanities)
 
@@ -582,6 +609,8 @@ This upper-division course offers an in-depth exploration of advanced AI concept
 NOTE: These 4 broad frontiers of AI research are rapidly evolving and based upon my AI research and industry consulting with Meta, IBM, the Whitehouse/NIST AI Safety Institute, etc. There is a constant flow of major new AI research, libraries, frameworks and startups nearly every week. Since this course will begin 9 months after this syllabus was written, expect updates to reflect the most recent in AI research breakthroughs, tooling, and industry best practices as of August 2024. Nonetheless, the class will be structured around these 4 broad and relatively consistent universal areas in AI.
 
 <br></br>
+
+<hr>
 
 <b>Scientific Computing Mentored Projects(2020-)</b>
 
