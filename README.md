@@ -588,8 +588,10 @@ This is an upper-division course offers an in-depth exploration of advanced AI c
 IPHS 484: Senior Seminar integrates academic research methodologies with entrepreneurial product development practices, guiding students through the creation of an innovative technical project that bridges scholarly contribution with real-world impact. Students develop comprehensive skills in research design, competitive analysis, technical architecture, product management, and performance metrics while producing a minimum viable product or proof of concept. Through intensive mentorship and peer collaboration, participants transform their academic foundations into tangible outcomes, whether aimed at scholarly publication or venture development. This capstone experience emphasizes independent project execution while providing structured support for students to synthesize their coursework into a launching pad for their post-graduate aspirations.
 
 **Sample Course Projects:**
-  - Film/ChatGPT & DALL-E2: [When AI Met Screenwriting... Can AI Generate Beat Sheets and Storyboards?](https://digital.kenyon.edu/dh_iphs_ss/18/)
-  - Sociology/AI Visual Sentiment Analysis: [AI reads Playboy (but not for the articles): Revealing Cover Trends with Deep Neural Networks](https://digital.kenyon.edu/dh_iphs_ss/17/)
+  - Medical Narratives: [On Death and Emotion: Evaluating the Five Stages of Grief in End-of-Life Memoirs Using AI Deep Learning Models](https://digital.kenyon.edu/dh_iphs_ss/20/)
+  - Gender Studies: [AI Reads Playboy (but not for the articles): Revealing Cover Trends with Deep Neural Networks](https://digital.kenyon.edu/dh_iphs_ss/17/)
+  - Medical Economics: [New Insights into Private Equity in the US Healthcare Space: Balancing Economic Efficiency with Patient Care Quality Using Novel Metrics](https://digital.kenyon.edu/dh_iphs_ss/21/)
+  - TV/Film: [When AI Met Screenwriting: Can AI Generate Beat Sheets and Storyboards?](https://digital.kenyon.edu/dh_iphs_ss/18/)
   - Political Science/Econometrics: [An Econometric Measure of the Post-9/11 Growth of the Defense Budget: Quantifying the Military-Industrial Complex’s Growing Influence Over the Pentagon](https://digital.kenyon.edu/dh_iphs_ss/16/)
   - Sociology/NLG with GPT-2 vs GPT-3: [Black Box Karl Marx: What do large language models have to say about Das Kapital? A Comparison of GPT-2 and GPT-3 Outputs](https://digital.kenyon.edu/dh_iphs_ai/32/)
   - Fiction Narrative/NLP Sentiment Analysis: [Adapted Arcs: Sentiment Analysis and The Sorcerer’s Stone](https://digital.kenyon.edu/dh_iphs_ss/1/)
