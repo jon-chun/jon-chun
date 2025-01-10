@@ -54,6 +54,7 @@ Entrepreneurship & Innovation:
 - CTO for logistics and computer supplier startup integrating supply chains across the US and Latin America
 - Co-founded and CEO a successful Silicon Valley startup, B2C privacy/anonymity pivot to B2B enterprise seucrity, acquired by world's largest security provider
 - Co-inventor on several VPN patents focusing on network security and anonymity
+- Judge for entrepreneur/startup competitions at UC Berkeley College of Engineering (graduate) and the Ohio Statue University (undergraduate)
 
 Academic Leadership & AI Research:
 - Pioneer in human-centered AI education, co-founding one of the world's first AI Digital Humanities Colabs in the early 2010s
