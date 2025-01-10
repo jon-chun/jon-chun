@@ -465,7 +465,7 @@ images\kenyon_dh_analytics_institutions_1958.png
 
 <b>Integrated Program for Humane Studies (2017-)</b>
 
-<h3>IPHS200 [Programming Humanity](https://digital.kenyon.edu/dh_iphs_prog/) (samples below)</H3>
+<h3><a href="https://digital.kenyon.edu/dh_iphs_prog/">IPHS200 Programming Humanity (Introduced Fall 2017)</a></H3>
 
 How do we think of humanity in the digital age? Can we program humanity into our technology by generating music, analyzing vast quantities of literary text, and producing great visual works of art? Or will humans be programmed through genetic engineering, predictive policing, manipulations of social media, and domestic surveillance? Are we firmly entrenched in a Posthumanist world, and is Transhumanism a future to which we should aspire? By the end of this course you will:
 
@@ -515,7 +515,7 @@ How do we think of humanity in the digital age? Can we program humanity into our
 
 <hr>
 
-<h2><b>IPHS290 [Cultural Analytics](https://jon-chun.github.io/cultural-analytics/) (New Fall 2022)</b></h2>
+<h3><b><a href="https://jon-chun.github.io/cultural-analytics/">IPHS290 Cultural Analytics</a>> (Introduced Fall 2022)</b></h2>
 
 IPHS290 Cultural Analytics explores advanced computational methods for cultural analytics, focusing on the analysis of complex composite data types including geospatial, time series, and network graphs. Building upon foundational programming knowledge, students learn specialized techniques for collecting, transforming, and visualizing unstructured and structured data to investigate contemporary and historical cultural phenomena. Through engagement with Digital Humanities scholarship and hands-on technical implementation, students develop expertise in analyzing spatially, temporally, and semantically correlated data. This course prepares researchers to expand their analytical capabilities beyond traditional structured datasets to encompass the full spectrum of cultural data analysis.
 
@@ -530,7 +530,7 @@ IPHS290 Cultural Analytics explores advanced computational methods for cultural 
 
 <hr>
 
-<h1><b>IPHS300 [AI for the Humanities](https://digital.kenyon.edu/dh_iphs_ai/) (samples below)</b><</h1>
+<h3><b><a href="https://digital.kenyon.edu/dh_iphs_ai/">IPHS300 AI for the Humanities</a> (Introduced Fall 2018)</b></h1>
 
 “Why isn’t AI a branch of mathematics?” Norvig and Russell ask in their seminal textbook Artificial Intelligence: A Modern Approach. “The first answer,” they explain, “is that AI from the start embraced the idea of duplicating human faculties such as creativity, self-improvement, and language use”(18).
 
@@ -553,7 +553,7 @@ Textual analysis will receive our major attention and will provide an ideal foun
   - Literature/NLP Sentiment Analysis: [Jane AI-sten: What is Sentiment Analysis’s Connection to Best-Selling Literature?](https://digital.kenyon.edu/dh_iphs_prog/44/)
 <br></br>
 
-* <b>IPHS391 [Frontiers in Generative AI: Automating Knowledge Work with Autonomous Agent Networks](https://github.com/jon-chun/GenAI-Multi-Agent-Networks-and-Digital-Twins)
+<h3><b><a href="(https://github.com/jon-chun/GenAI-Multi-Agent-Networks-and-Digital-Twins">IPHS391 Frontiers in Generative AI: Automating Knowledge Work with Autonomous Agent Networks</a> (Introduced Fall 2024)</b><h3>
 
 How is AI changing humanity? This course explores the realities of labor, knowledge work, and automation. Can the current generation of rapidly improving autonomous AI agents collaboratively (or independently) craft novels, social media political campaigns, commercial brand marketing strategies, financial analyst reports, software apps, music videos, or write original scientific research papers? For those with basic Python skills and advanced curiosity, get hands-on experience building your own personal digital twin and a peek into the future.
 
@@ -577,7 +577,7 @@ This is an upper-division course offers an in-depth exploration of advanced AI c
 
 <hr>
 
-* <b>IPHS484 [Senior Seminar/Research](https://digital.kenyon.edu/dh_iphs_ss/) (samples below)</b>
+<h3><b><a href="https://digital.kenyon.edu/dh_iphs_ss/">IPHS484 Senior Seminar/Research</a> (Introduced 2018)</b></h3>
 
 IPHS 484: Senior Seminar integrates academic research methodologies with entrepreneurial product development practices, guiding students through the creation of an innovative technical project that bridges scholarly contribution with real-world impact. Students develop comprehensive skills in research design, competitive analysis, technical architecture, product management, and performance metrics while producing a minimum viable product or proof of concept. Through intensive mentorship and peer collaboration, participants transform their academic foundations into tangible outcomes, whether aimed at scholarly publication or venture development. This capstone experience emphasizes independent project execution while providing structured support for students to synthesize their coursework into a launching pad for their post-graduate aspirations.
 
