@@ -49,7 +49,9 @@ Early Career & Industry:
 - Built first Workers Comp claims management web system for largest Silicon Valley return to work managment firm 
 
 Entrepreneurship & Innovation:
-- Co-founded a successful Silicon Valley startup, later acquired by a leading global security company
+- Co-founded Brasilian-based international fashion, music, and culture lifestyle website (US, Japan, and Latin America)
+- CTO for logistics and computer supplier startup integrating supply chains across the US and Latin America
+- Co-founded and CEO a successful Silicon Valley startup, later acquired by a leading global security company
 - Co-inventor on several VPN patents focusing on network security and anonymity
 
 Academic Leadership & AI Research:
