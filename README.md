@@ -10,6 +10,7 @@ Co-Founder, Kenyon DH Colab
 **Contents**
 - [Overview](#overview)
 - [Research](#research)
+- [Collaborations](#collaborations)
 - [Innovation in Higher Ed](#innovation-in-higher-ed)
 - [Diversity from A Human-Centered AI Curriculum](#diversity-from-a-human-centered-ai-curriculum)
 - [Code, Products and Patents](#code-products-and-patents)
@@ -216,6 +217,34 @@ Until recently the field of natural language generation relied upon formalized g
 </figure>
 
 Sentiment analysis has gained widespread adoption in many fields, but not―until now―in literary studies. Scholars have lacked a robust methodology that adapts the tool to the skills and questions central to literary scholars. Also lacking has been quantitative data to help the scholar choose between the many models. Which model is best for which narrative, and why? By comparing over three dozen models, including the latest Deep Learning AI, the author details how to choose the correct model―or set of models―depending on the unique affective fingerprint of a narrative. The author also demonstrates how to combine a clustered close reading of textual cruxes in order to interpret a narrative. By analyzing a diverse and cross-cultural range of texts in a series of case studies, the Element highlights new insights into the many shapes of stories.
+<br></br>
+
+[Back to Top](#ai-digital-humanities)
+
+<br></br>
+
+
+## Collaborations
+
+Here is a sample list of collabrations across different institutions in academia, industry, and goverment:
+
+* US Whitehouse AI Safety Policy/NIST AI Safety Institute (NIST, Modern Language Assoc)
+* Collaborative AI Safety and Open Source Policy (Oxford, Berkeley, UVa, Berklee/MIT, etc)
+* Computational Digital Humanities (Dartmouth, U Tenn)
+* Literature, language, linguistics (MLA)
+* Narrative and Affective AI (Yale, Harvard, Narrative Conferences)
+* Diachronic Sentiment Analysis (Cambridge UP, ArXiv)
+* Economics and Law (IBM-Notre Dame)
+* NLP and AI Reearch (ICML, ACL, ACM)
+* Theatre and Film (Denison, NEH, LA Theatre)
+* Psychology and Cognitive Science (Ohio State U)
+* Medicine (AFDO/RAPS)
+* Theoretical computer science (McGill, UPitt, CMU)
+* Physics and Engineering Simulations (NAFEMS)
+* Polical Science and Public Policy (NIST, Meta, IEEE/EU)
+* Philosophy and Ethics (ArXiv, Montreal AI Ethics Inst)
+* Interdisciplinary Roundtables (The Helix Institute)
+
 <br></br>
 
 [Back to Top](#ai-digital-humanities)
