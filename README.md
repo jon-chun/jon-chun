@@ -193,7 +193,7 @@ SOTA Transformer and DNN short text sentiment classifiers report over 97% accura
 <br>
 * in collaboration with Katherine Elkins, James Dennen (Denison University and Wexner Arts), Lauren Katz (Thymele Arts, LA)
 <br>
-***100th anniversary of the premiere of “R.U.R.,” by Czechoslovakian playwright Karel Capek. “R.U.R.”*** (for “Rossum’s Universal Robots”) opened on January 25th, 1921, at the National Theater of Prague and marks the first use of the word “robot,” coined by Capek and derived from the Czech word for “forced labor.”, 25 Jan 2021
+100th anniversary of the premiere of “R.U.R.,” by Czechoslovakian playwright Karel Capek. “R.U.R.” (for “Rossum’s Universal Robots”) opened on January 25th, 1921, at the National Theater of Prague and marks the first use of the word “robot,” coined by Capek and derived from the Czech word for “forced labor.”, 25 Jan 2021
 
 <hr>
 <h3><b></h3><a href="https://culturalanalytics.org/article/17212.pdf">"Can GPT-3 pass a Writer’s Turing Test?."</a></b></h3> 
