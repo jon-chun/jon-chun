@@ -240,7 +240,7 @@ Here is a sample list of collabrations across different institutions in academia
 * NLP and AI Reearch (ICML, ACL, ACM)
 * Theatre and Film (Denison, NEH, LA Theatre)
 * Psychology and Cognitive Science (Ohio State U)
-* Medicine (AFDO/RAPS)
+* Medicine / Federal Drug Administration (FDA, AFDO/RAPS)
 * Theoretical computer science (McGill, UPitt, CMU)
 * Physics and Engineering Simulations (NAFEMS)
 * Polical Science and Public Policy (NIST, Meta, IEEE/EU)
