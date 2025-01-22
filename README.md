@@ -242,7 +242,7 @@ Here is a sample list of collabrations across different institutions in academia
 * Economics and Law (IBM-Notre Dame)
 * NLP and AI Reearch (ICML, ACL, ACM)
 * Theatre and Film (Denison, NEH, LA Theatre)
-* Psychology and Cognitive Science: LatinX Summer Scholars (Ohio State U)
+* Psychology and Cognitive Science: LatinX Summer Scholars (Ohio State University, Kenyon College)
 * Medicine / Federal Drug Administration (FDA, AFDO/RAPS)
 * Theoretical computer science (McGill, UPitt, CMU)
 * Physics and Engineering Simulations for Manufacturing (NAFEMS)
