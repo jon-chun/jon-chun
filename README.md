@@ -249,6 +249,13 @@ Here is a sample list of collabrations across different institutions in academia
 * Polical Science and Public Policy (NIST, Meta, IEEE/EU)
 * Philosophy and Ethics (ArXiv, Montreal AI Ethics Inst)
 * Interdisciplinary Roundtables (The Helix Institute)
+* Judge for Startup Competitions and Entrpreneurship (UC Berkeley Graduate College of Engineering, tOSU)
+* Int'l Startups: Latin American Supply Chain and Pan-Pacific Lifestyle Commerce (LA, Sao Paulo, Brazil, and Tokyo)
+* Computer and Network Security (USTPO, VPN and secure relay patents, Symantec)
+* Electronic Medical Records (U of Iowa Hospitals and Clinics, UI Medical School, American Medical Informatics Journal)
+* Financial Information Systems, Asia Pacific (Bloomberg, McGraw-Hill Tokyo HQ)
+* Semiconductor Research and Competitive Analysis of Japanese Patents (SEMATECH)
+* Technical Japanese and Hardware Test Lab (MIT Japan Program, DELL Computing)
 
 <br></br>
 
