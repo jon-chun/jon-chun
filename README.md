@@ -233,6 +233,7 @@ Here is a sample list of collabrations across different institutions in academia
 * Tech Strategy and Investing (Panelists on monthly calls with BWG Strategy, NYC)
 * AI Alliance Essential AI Competencies Guide 2024 (Meta, IBM, Intel, US Chamber of Commerce, etc)
 * AI and the Future of Higher Education (Notre Dame, CMU, UC Berkeley, Harvard Business School, LSU, St. Johns, etc.)
+* Computational Law, Ethics and eXplainable AI (upcoming: Northwestern, IBM, Notre Dame)
 * Computational Digital Humanities (Dartmouth, U Tenn)
 * Literature, language, linguistics (MLA)
 * Narrative and Affective AI (Yale, Harvard, Narrative Conferences)
