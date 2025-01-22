@@ -246,7 +246,7 @@ Here is a sample list of collabrations across different institutions in academia
 * Medicine / Federal Drug Administration (FDA, AFDO/RAPS)
 * Theoretical computer science (McGill, UPitt, CMU)
 * Physics and Engineering Simulations for Manufacturing (NAFEMS)
-* Internet of Things for Predictive Maintenance (Kenyon College, Weyehauser Paper)
+* Internet of Things (IoT) real-time predictive maintenance (Kenyon College, Weyehauser Paper)
 * Polical Science and Public Policy (NIST, Meta, IEEE/EU)
 * Philosophy and Ethics (ArXiv, Montreal AI Ethics Inst)
 * Interdisciplinary Roundtables (The Helix Institute)
