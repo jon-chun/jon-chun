@@ -254,8 +254,8 @@ Here is a sample list of collabrations across different institutions in academia
 * Computer and Network Security (USTPO, VPN and secure relay patents, Symantec)
 * Electronic Medical Records (U of Iowa Hospitals and Clinics, UI Medical School, American Medical Informatics Journal)
 * Financial Information Systems, Asia Pacific (Bloomberg, McGraw-Hill Tokyo HQ)
-* Semiconductor Research and Competitive Analysis of Japanese Patents (SEMATECH)
-* Technical Japanese and Hardware Test Lab (MIT Japan Program, DELL Computing)
+* Semiconductor Research and Competitive Analysis of Japanese Patents (SEMATECH, Lawrence Berkeley Labs)
+* Technical Japanese and Founder Hardware Test Lab (MIT Japan Program, DELL Computing)
 
 <br></br>
 
