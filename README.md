@@ -654,19 +654,24 @@ How is AI changing humanity? This course explores the realities of labor, knowle
 This is an upper-division course offers an in-depth exploration of advanced AI concepts, focusing on interdisciplinary applications of large language models, AI information systems, and autonomous agents. Students will engage with a progressive curriculum, starting with a review of Python and a series of four hands-on projects, equipping them with the skills and knowledge necessary to innovate in the rapidly evolving field of artificial intelligence.
 
 **Sample Course Projects:**
-  - Classics/Ancient Greek Parsing with AI Unpacking Complex Word Composition with Agentic Systems
-  - Finance/Simulating Investment Environments with AI: A Data-Driven Approach How to Harness AI for Strategic Consulting Market Analysis in Ghana and East Africa
-  - Psychology/Multi-Agent Optimization for Holistic College Admissions Leveraging Multi-Agent Systems and Genetic Algorithms to Optimize Holistic College Admissions for a Diverse and High-Achieving Cohort
-  - Sports Analytics/Leveraging AI To Automate MLB Roster Construction; Using High Fidelity Synthetic Data To Optimize Team Performance
-  - Studio Art/AI's Brush with Time Analyzing Deviations in Prompt Alignment for Historic and Modern AI-Generated Art
-  - Medical/Developing an AI Chatbot for College Disability Services Support: Using a RAG-Agent Framework to Create a Context-Aware Chatbot
-  - Psychology/Effectiveness of Guided vs Pure Mirroring in Chat De-Escalation Across Simulated Scenarios
-  - Sports Analytics/Agentic Framework for Data-Driven Cricket Player Scouting
-  - Finance/PitchAI: Streamlining Investment Banking Pitches Using LLMs
-  - Fashion/Predicting South Asian Fashion Trends Analyzing Desi Fashion Trends through Machine Learning and Image Procesing
-  - Behavioral Economics/Multi-Agent Framework for Digital Marketing Optimization
-  - Medical Informatics/AI-Powered Appointment Prioritization System for Resource-Poor Settings
-  - Philosophy/From Ramblings to Reason: Using AI to Elucidate Philosophies Greatest Works (Fall 2024)
+- Multi-Agent Optimization for Holistic College Admissions: Leveraging Multi-Agent Systems and Genetic Algorithms to Optimize Holistic College Admissions for a Diverse and High-Achieving Cohort
+- Leveraging AI To Automate MLB Roster Construction: Using High Fidelity Synthetic Data To Optimize Team Performance
+- Predicting South Asian Fashion TrendsAnalyzing Desi Fashion Trends through Machine Learning and Image Processing
+- Simulating Investment Environments with AI: A Data-Driven Approach How to Harness AI for Strategic Consulting Market Analysis
+- Multi-Agent AI Framework for Digital Marketing Optimization
+- AI-Powered Appointment Prioritization System for Resource-Poor Settings
+- PitchAI: Streamlining Investment Banking Pitches Using LLMs - How LLMs and Generative AI tools can be utilized to optimize deal processes 
+- Ancient Greek Parsing with AI Unpacking Complex Word Composition with Agentic System
+- Developing an AI Chatbot for College Disability Services Support: Using  a RAG-Agent Framework to Create a Context-Aware Chatbot
+- College Search Made Friendly AI Agentic Work Flow to Navigate Schools, Scholarships, Financial Aid, and Essays
+- AI Economist: A Tool for Public Policy Analysis and Decision Support
+- Effectiveness of Guided vs Pure Mirroring in Chat De-Escalation Across Simulated Scenarios
+- Revolutionizing Sales Training with AI: Your Virtual Sales Professional
+- Agentic Framework for Data-Driven Cricket Player Scouting
+- AI's Brush with Time: Analyzing Deviations in Prompt Alignment for Historic and Modern AI-Generated Art
+- AI Analytics: Using Multi-Agent Networks to Automate Stock Selection
+- From Ramblings to Reason: Using AI to Elucidate Philosophies Greatest Works
+- Digital Doppelgangers: Generative Agent Stimulation of Reddit users Building AI Agents for Jury Simulations and Behavioral Insights
 <br></br>
 
 <hr>
