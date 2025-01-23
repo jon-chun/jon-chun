@@ -653,7 +653,7 @@ How is AI changing humanity? This course explores the realities of labor, knowle
 
 This is an upper-division course offers an in-depth exploration of advanced AI concepts, focusing on interdisciplinary applications of large language models, AI information systems, and autonomous agents. Students will engage with a progressive curriculum, starting with a review of Python and a series of four hands-on projects, equipping them with the skills and knowledge necessary to innovate in the rapidly evolving field of artificial intelligence.
 
-**Sample Course Projects using Multi-Agent Networks to Automate Knowledge Workflow (fall 2024):**
+**Sample Course Projects using Multi-Agent Networks to Automate Knowledge Workflow (New Course as of Fall 2024):**
 - Multi-Agent Optimization for Holistic College Admissions: Leveraging Multi-Agent Systems and Genetic Algorithms to Optimize Holistic College Admissions for a Diverse and High-Achieving Cohort
 - Leveraging AI To Automate MLB Roster Construction: Using High Fidelity Synthetic Data To Optimize Team Performance
 - Predicting South Asian Fashion TrendsAnalyzing Desi Fashion Trends through Machine Learning and Image Processing
