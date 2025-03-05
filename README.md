@@ -655,19 +655,19 @@ This is an upper-division course offers an in-depth exploration of advanced AI c
 
 **Sample Course Projects using Multi-Agent Networks to Automate Knowledge Workflow (New Course as of Fall 2024):**
 - Multi-Agent Optimization for Holistic College Admissions: Leveraging Multi-Agent Systems and Genetic Algorithms to Optimize Holistic College Admissions for a Diverse and High-Achieving Cohort
-- Leveraging AI To Automate MLB Roster Construction: Using High Fidelity Synthetic Data To Optimize Team Performance
+- <a href="https://digital.kenyon.edu/dh_iphs_391/1/">Leveraging AI To Automate MLB Roster Construction: Using High Fidelity Synthetic Data To Optimize Team Performance</a> (Fall 2024)
 - Predicting South Asian Fashion TrendsAnalyzing Desi Fashion Trends through Machine Learning and Image Processing
 - Simulating Investment Environments with AI: A Data-Driven Approach How to Harness AI for Strategic Consulting Market Analysis
 - Multi-Agent AI Framework for Digital Marketing Optimization
-- AI-Powered Appointment Prioritization System for Resource-Poor Settings
-- PitchAI: Streamlining Investment Banking Pitches Using LLMs - How LLMs and Generative AI tools can be utilized to optimize deal processes 
-- Ancient Greek Parsing with AI Unpacking Complex Word Composition with Agentic System
-- Developing an AI Chatbot for College Disability Services Support: Using  a RAG-Agent Framework to Create a Context-Aware Chatbot
+- <a href="https://digital.kenyon.edu/dh_iphs_391/2/">AI-Powered Appointment Prioritization System for Resource-Poor Settings</a> (Fall 2024)
+- <a href="https://digital.kenyon.edu/dh_iphs_391/4/">PitchAI: Streamlining Investment Banking Pitches Using LLMs - How LLMs and Generative AI tools can be utilized to optimize deal processes</a> (Fall 2024)
+- <a href="https://digital.kenyon.edu/dh_iphs_391/7/">Ancient Greek Parsing with AI Unpacking Complex Word Composition with Agentic System</a> (Fall 2024)
+- <a href="https://digital.kenyon.edu/dh_iphs_391/6/f">Developing an AI Chatbot for College Disability Services Support: Using  a RAG-Agent Framework to Create a Context-Aware Chatbot</a> (Fall 2024)
 - College Search Made Friendly AI Agentic Work Flow to Navigate Schools, Scholarships, Financial Aid, and Essays
 - AI Economist: A Tool for Public Policy Analysis and Decision Support
 - Effectiveness of Guided vs Pure Mirroring in Chat De-Escalation Across Simulated Scenarios
 - Revolutionizing Sales Training with AI: Your Virtual Sales Professional
-- Agentic Framework for Data-Driven Cricket Player Scouting
+- <a href="https://digital.kenyon.edu/dh_iphs_391/5/">Agentic Framework for Data-Driven Cricket Player Scouting</a> (Fall 2024)
 - AI's Brush with Time: Analyzing Deviations in Prompt Alignment for Historic and Modern AI-Generated Art
 - AI Analytics: Using Multi-Agent Networks to Automate Stock Selection
 - From Ramblings to Reason: Using AI to Elucidate Philosophies Greatest Works
