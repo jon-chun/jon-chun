@@ -1,6 +1,6 @@
-<h1><b>Human-Centered AI Researcher</b></h1>
+<h1><b>Interdisciplinary Human-Centered AI Researcher</b></h1>
 Jon A Chun<br>
-Co-Founder, Kenyon DH Colab
+Co-Founder, Kenyon Human-Centered AI Colab
 <br></br>
 
 ![Interdiscipliinary AI Studies](./images/kenyon_ai_dh_banner.png)
@@ -14,7 +14,7 @@ Co-Founder, Kenyon DH Colab
 - [Innovation in Higher Ed](#innovation-in-higher-ed)
 - [Diversity from A Human-Centered AI Curriculum](#diversity-from-a-human-centered-ai-curriculum)
 - [Code, Products and Patents](#code-products-and-patents)
-- [Kenyon AI Lab](#kenyon-ai-lab)
+- [Kenyon Human-Centered AI Lab](#kenyon-human-centered-ai-lab)
 - [Social Media](#-social-media)
 - [Course Descriptions and Mentored Research](#course-descriptions-and-mentored-research)
 - [Organizations](#organizations)
@@ -451,7 +451,7 @@ Stories are everywhere. Here are a few examples of original research projects us
 
 <br></br>
 
-## Kenyon Interdisciplinary Human-Centered AI
+## Kenyon Human-Centered AI Lab
 ---
 <figure>
 <center>
