@@ -1,9 +1,9 @@
-<h1><b>AI Digital Humanities</b></h1>
+<h1><b>Human-Centered AI Researcher</b></h1>
 Jon A Chun<br>
 Co-Founder, Kenyon DH Colab
 <br></br>
 
-![AI Digital Humanities](./images/kenyon_ai_dh_banner.png)
+![Interdiscipliinary AI Studies](./images/kenyon_ai_dh_banner.png)
 
 </br>&nbsp;</br>
 
@@ -14,7 +14,7 @@ Co-Founder, Kenyon DH Colab
 - [Innovation in Higher Ed](#innovation-in-higher-ed)
 - [Diversity from A Human-Centered AI Curriculum](#diversity-from-a-human-centered-ai-curriculum)
 - [Code, Products and Patents](#code-products-and-patents)
-- [Kenyon AI Digital Humanities](#kenyon-ai-digital-humanities)
+- [Kenyon AI Lab](#kenyon-ai-lab)
 - [Social Media](#-social-media)
 - [Course Descriptions and Mentored Research](#course-descriptions-and-mentored-research)
 - [Organizations](#organizations)
@@ -26,7 +26,7 @@ Co-Founder, Kenyon DH Colab
 
 I am an interdisciplinary ML/AI researcher and educator specializing in bridging traditional academic divisions, AI research, industry practices, and emerging social topics including government regulation, ethics, and entrepreneurship. My research focuses on ML/AI approaches to language, narrative, emotion, cognition, and persuasion/deception, employing data science, statistical machine learning, and deep learning including NLP, LLM, and LMM. My work extends to eXplainable AI (XAI), fairness-accuracy-transparency-explainability (FATE), AI ethical auditing, and AI regulation.
 
-As an entrepreneur and innovator, I've contributed to diverse fields from network security and education to finance, insurance, and healthcare across environments ranging from Silicon Valley startups to higher education institutions. I've published pioneering interdisciplinary AI research on storytelling and emotion in major venues including Narrative and the Modern Language Association (MLA). In 2016, I co-founded the first human-centered AI curriculum integrating domain experts from literature, music, political science, and economics. We established the term 'AI Digital Humanities' and have guided approximately 400 ML/AI DH projects, achieving over 65,000 downloads from leading institutions worldwide. Currently, I serve as a co-principal investigator for the US NIST AI Safety Institute representing the Modern Language Association and collaborate with the IBM-Notre Dame Tech Ethics Lab researching LLM prediction capabilities.
+As an entrepreneur and innovator, I've contributed to diverse fields from network security and education to finance, insurance, and healthcare across environments ranging from Silicon Valley startups to higher education institutions. I've published pioneering interdisciplinary AI research on storytelling and emotion in major venues including Narrative and the Modern Language Association (MLA). In 2016, I co-founded the first human-centered AI curriculum integrating domain experts from literature, music, political science, and economics. We established the term 'AI Digital Humanities' and have guided approximately 400 original ML/AI DH projects, achieving over 65,000 downloads from leading institutions worldwide. Currently, I serve as a co-principal investigator for the US NIST AI Safety Institute representing the Modern Language Association and collaborate with the IBM-Notre Dame Tech Ethics Lab researching LLM prediction capabilities.
 
 My prior experience includes co-founding the world's largest privacy and anonymity website, backed by In-Q-Tel. As CEO, I led a successful company pivot, co-authored patents on the first browser-based VPN appliance, and navigated the acquisition by Symantec, where I later directed the product's successful relaunch. Previously, I served as CIO for Silicon Valley's premier return-to-work firm and as CTO for international startups in Latin America and Japan. During medical school, I was an American Heart Association research fellow, publishing on gene therapy and pioneering web-based EMR systems in the American Medical Informatics Journal. My early career included roles as DELL's first US-based Japanese localization engineer, SEMATECH's initial Japanese patent analyst, and positions in Tokyo financial reporting, Lawrence Berkeley Labs' synchrotron facility (ALS), and Computer Associates' aerospace IT division.
 
@@ -60,7 +60,7 @@ Entrepreneurship & Innovation:
 - Advisor for several student startups: EV in Sri Lanka, Crowdfunding in Venezuela, Culinary Social Network in US
 
 Academic Leadership & AI Research:
-- Pioneer in human-centered AI education, co-founding one of the world's first AI Digital Humanities Colabs in the early 2010s
+- Pioneer in human-centered AI education, co-founding one of the world's first Interdisciplinary AI Colabs in the early 2010s
 - Published research in premier venues across AI, Computer Science, and Humanities:
   - Machine Learning: International Conference on Machine Learning (ICML)
   - Computational Linguistics: ACL's EMNLP/CoNLL
@@ -68,7 +68,7 @@ Academic Leadership & AI Research:
   - Humanities: Modern Language Association, Narrative
   - Digital Humanities: Springer International Journal of Digital Humanities, International Journal of Humanities and Arts Computing
 
-I created the open-source library SentimentArcs in 2019, at the time the largest ensemble for diachronic sentiment analysis and the basis for Katherine Elkins's “The Shapes of Stories” (Cambridge UP 2022). I presented some of the earliest GPT-2 story generation work at Narrative2020 and have since published in Cultural Analytics and Narrative on AI and narrative. As of January 2025, I've mentored approximately four hundred computational Digital Humanities projects since 2017 across virtually every department of Kenyon College as part of the Integrated Program for Humane Studies and the Scientific Computing programs. I co-founded the AI Digital Humanities Colab, the world's first human-centered AI Digital Humanities curriculum at Kenyon, and our AI KDH research colab. I currently have research papers pending on using LLMs to compare multiple translations of Proust, multimodal (dialog+image) diachronic sentiment arcs in film, emotional hacking of LLM high-stakes decision-making, a novel benchmark on semantic similarity, IP infringement and creativity using Narrative theory, and an updated and expanding ethical audit of the leading LLMs. I'm also a co-author on an ICML position paper that was invited as an oral presentation this year in Vienna. My current research projects focus on AI persuasion, manipulation and deception as well as using LLMs for predictive analytics and decision-making on structured tabular data. (July 2024)
+I created the open-source library SentimentArcs in 2019, at the time the largest ensemble for diachronic sentiment analysis and the basis for Katherine Elkins's “The Shapes of Stories” (Cambridge UP 2022). I presented some of the earliest GPT-2 story generation work at Narrative2020 and have since published in Cultural Analytics and Narrative on AI and narrative. As of January 2025, I've mentored approximately four hundred computational interdisciplinary ML/AI projects since 2017 across virtually every department of Kenyon College as part of the Integrated Program for Humane Studies and the Scientific Computing programs. I co-founded the AI Colab, the world's first human-centered AI curriculum at Kenyon, and our AI KDH research colab. I currently have research papers pending on using LLMs to compare multiple translations of Proust, multimodal (dialog+image) diachronic sentiment arcs in film, emotional hacking of LLM high-stakes decision-making, a novel benchmark on semantic similarity, IP infringement and creativity using Narrative theory, and an updated and expanding ethical audit of the leading LLMs. I'm also a co-author on an ICML position paper that was invited as an oral presentation this year in Vienna. My current research projects focus on AI persuasion, manipulation and deception as well as using LLMs for predictive analytics and decision-making on structured tabular data. (July 2024)
 
 * Google Scholar: [jonchun2000](https://scholar.google.com/citations?user=l-iUHQMAAAAJ&hl=en)
 * Academia.edu: [kenyon.academia.edu/jchun](https://kenyon.academia.edu/jchun)
@@ -108,7 +108,7 @@ Stories are central for interpreting experiences, communicating and influencing 
 <h3><b></h3><a href="https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2024.1444549/full">"Affective AI, Multimodal Sentiment Analysis, Diachronic Sentiment Analysis, Open-Source AI, LLM, LMM, Narrative, Storytelling, Video Analysis"</a></b></h3>
 <br>* Frontiers in Computer Science
 <br>
-Affective artificial intelligence and multimodal sentiment analysis play critical roles in designing safe and effective human-computer interactions and are in diverse applications ranging from social chatbots to eldercare robots. However emotionally intelligent artificial intelligence can also manipulate, persuade, and otherwise compromise human autonomy. We face a constant stream of ever more capable models that can better understand nuanced, complex, and interrelated sentiments across different modalities including text, vision, and speech. This paper introduces MultiSentimentArcs, combination of an open and extensible multimodal sentiment analysis framework, a challenging movie dataset, and a novel benchmark. This enables the quantitative and qualitative identification, comparison, and prioritization of conflicting sentiments commonly arising from different models and modalities. Diachronic multimodal sentiment analysis is especially challenging in film narratives where actors, directors, cinematographers and editors use dialog, characters, and other elements in contradiction with each other to accentuate dramatic tension. MultiSentimentArcs uses local open-source software models to democratize artificial intelligence. We demonstrate how a simple 2-step pipeline of specialized open-source software with a large multimodal model followed by a large language model can approximate video sentiment analysis of a commercial state-of-the-art Claude 3 Opus. To the best of our knowledge, MultiSentimentArcs is the first fully open-source diachronic multimodal sentiment analysis framework, dataset, and benchmark to enable automatic or human-in-the-loop exploration, analysis, and critique of multimodal sentiment analysis on long-form narratives. We demonstrate two novel coherence metrics and a methodology to identify, quantify, and explain real-world sentiment models and modalities. MultiSentimentArcs integrates artificial intelligence with traditional narrative studies and related fields like film, linguistic and cultural studies. It also contributes to eXplainable artificial intelligence and artificial intelligence safety by enhancing artificial intelligence transparency in surfacing emotional persuasion, manipulation, and deception techniques. Finally, it can filter noisy emotional input and prioritize information rich channels to build more performant real-world human computer interface applications in fields like e-learning and medicine. This research contributes to the field of Digital Humanities by giving non-artificial intelligence experts access to directly engage in analysis and critique of research around affective artificial intelligence and human-AI alignment. Code and non-copyrighted data will be available at https://github.com/jon-chun/multisentimentarcs.
+Affective artificial intelligence and multimodal sentiment analysis play critical roles in designing safe and effective human-computer interactions and are in diverse applications ranging from social chatbots to eldercare robots. However emotionally intelligent artificial intelligence can also manipulate, persuade, and otherwise compromise human autonomy. We face a constant stream of ever more capable models that can better understand nuanced, complex, and interrelated sentiments across different modalities including text, vision, and speech. This paper introduces MultiSentimentArcs, combination of an open and extensible multimodal sentiment analysis framework, a challenging movie dataset, and a novel benchmark. This enables the quantitative and qualitative identification, comparison, and prioritization of conflicting sentiments commonly arising from different models and modalities. Diachronic multimodal sentiment analysis is especially challenging in film narratives where actors, directors, cinematographers and editors use dialog, characters, and other elements in contradiction with each other to accentuate dramatic tension. MultiSentimentArcs uses local open-source software models to democratize artificial intelligence. We demonstrate how a simple 2-step pipeline of specialized open-source software with a large multimodal model followed by a large language model can approximate video sentiment analysis of a commercial state-of-the-art Claude 3 Opus. To the best of our knowledge, MultiSentimentArcs is the first fully open-source diachronic multimodal sentiment analysis framework, dataset, and benchmark to enable automatic or human-in-the-loop exploration, analysis, and critique of multimodal sentiment analysis on long-form narratives. We demonstrate two novel coherence metrics and a methodology to identify, quantify, and explain real-world sentiment models and modalities. MultiSentimentArcs integrates artificial intelligence with traditional narrative studies and related fields like film, linguistic and cultural studies. It also contributes to eXplainable artificial intelligence and artificial intelligence safety by enhancing artificial intelligence transparency in surfacing emotional persuasion, manipulation, and deception techniques. Finally, it can filter noisy emotional input and prioritize information rich channels to build more performant real-world human computer interface applications in fields like e-learning and medicine. This research contributes to the field of interdisciplinary human-centered AI by giving non-artificial intelligence experts access to directly engage in analysis and critique of research around affective artificial intelligence and human-AI alignment. Code and non-copyrighted data will be available at https://github.com/jon-chun/multisentimentarcs.
 
 <hr>
 <h3><b></h3><a href="https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2024.1444021/full">"In search of a translator: using AI to evaluate what's lost in translation"</a></b></h3>
@@ -139,7 +139,7 @@ pivotal role in the rapidly growing fields of AI safety and regulation. This pap
 <br>
 * Springer International Journal of Digital Humanities 5, 507–532 (2023). https://doi.org/10.1007/s42803-023-00069-8 (Oct 11, 2023)
 <br>
-The recent development of Transformers and large language models (LLMs) offer unique opportunities to work with natural language. They bring a degree of understanding and fluidity far surpassing previous language models, and they are rapidly progressing. They excel at representing and interpreting ideas and experiences that involve complex and subtle language and are therefore ideal for Computational Digital Humanities research. This paper briefly surveys how XAI can be used to augment two Computational Digital Humanities research areas relying on LLMs: (a) diachronic text sentiment analysis and (b) narrative generation. We also introduce a novel XAI greybox ensemble for diachronic sentiment analysis generalizable to any AI classification data points within a structured time series. Under human-in-the-loop supervision (HITL), this greybox ensemble combines the high performance of SOTA blackbox models like gpt-4–0613 with the interpretability, efficiency, and privacy-preserving nature of whitebox models. Two new local (EPC) and global (ECC) metrics enable multi-scale XAI at both the local and global levels. This greybox ensemble framework extends the SentimentArcs framework with OpenAI’s latest GPT models, new metrics and a modified supervisory HITL workflow released as open source software at https://github.com/jon-chun/SentimentArcs-Greybox.
+The recent development of Transformers and large language models (LLMs) offer unique opportunities to work with natural language. They bring a degree of understanding and fluidity far surpassing previous language models, and they are rapidly progressing. They excel at representing and interpreting ideas and experiences that involve complex and subtle language and are therefore ideal for interdisciplinary human-centered AI research. This paper briefly surveys how XAI can be used to augment two interdisciplinary human-centered AI research areas relying on LLMs: (a) diachronic text sentiment analysis and (b) narrative generation. We also introduce a novel XAI greybox ensemble for diachronic sentiment analysis generalizable to any AI classification data points within a structured time series. Under human-in-the-loop supervision (HITL), this greybox ensemble combines the high performance of SOTA blackbox models like gpt-4–0613 with the interpretability, efficiency, and privacy-preserving nature of whitebox models. Two new local (EPC) and global (ECC) metrics enable multi-scale XAI at both the local and global levels. This greybox ensemble framework extends the SentimentArcs framework with OpenAI’s latest GPT models, new metrics and a modified supervisory HITL workflow released as open source software at https://github.com/jon-chun/SentimentArcs-Greybox.
 
 <hr>
 <h3><b></h3><a href="https://www.euppublishing.com/doi/abs/10.3366/ijhac.2023.0310?journalCode=ijhac">"The Crisis of Artificial Intelligence: A New Digital Humanities Curriculum for Human-Centred AI"</a></b>
@@ -147,7 +147,7 @@ The recent development of Transformers and large language models (LLMs) offer un
 <br>
 * International Journal of Humanities and Arts Computing
 <br>
-This article outlines what a successful artificial intelligence digital humanities (AI DH) curriculum entails and why it is so critical now. Artificial intelligence is rapidly reshaping our world and is poised to exacerbate long-standing crises including (1) the crisis of higher education and the humanities, (2) the lack of diversity, equity and inclusion (DEI) in computer science and technology fields and (3) the wider social and economic crises facilitated by new technologies. We outline a number of ways in which an AI DH curriculum offers concrete and impactful responses to these many crises. AI DH yields meaningful new avenues of research for the humanities and the humanistic social sciences, and offers new ways that higher education can better prepare students for the world into which they graduate. DEI metrics show how an AI DH curriculum can engage students traditionally underserved by conventional STEM courses. Finally, AI DH educates all students for civic engagement in order to address both the social and economic impacts of emerging AI technologies. This article provides an overview of an AI DH curriculum, the motivating theory behind design decisions, and a detailed look into two sample courses.
+This article outlines what a successful interdisciplinary human-centered artificial intelligence curriculum entails and why it is so critical now. Artificial intelligence is rapidly reshaping our world and is poised to exacerbate long-standing crises including (1) the crisis of higher education and the humanities, (2) the lack of diversity, equity and inclusion (DEI) in computer science and technology fields and (3) the wider social and economic crises facilitated by new technologies. We outline a number of ways in which an AI DH curriculum offers concrete and impactful responses to these many crises. AI DH yields meaningful new avenues of research for the humanities and the humanistic social sciences, and offers new ways that higher education can better prepare students for the world into which they graduate. DEI metrics show how an AI DH curriculum can engage students traditionally underserved by conventional STEM courses. Finally, AI DH educates all students for civic engagement in order to address both the social and economic impacts of emerging AI technologies. This article provides an overview of an AI DH curriculum, the motivating theory behind design decisions, and a detailed look into two sample courses.
 
 <hr>
 <h3><b></h3><a href="https://www.academia.edu/98342630/Narrative_2023_Program?auto=download">"How to Identify, Understand, and Analyze ChatGPT AI Narratives"</a></b></h3>
@@ -235,7 +235,7 @@ Here is a sample list of collabrations across different institutions in academia
 * AI and the Future of Higher Education (Notre Dame, CMU, UC Berkeley, Harvard Business School, LSU, St. Johns, etc.)
 * Computational Law, Ethics and eXplainable AI (upcoming: ACM, Northwestern Law School, IBM, Notre Dame)
 * Multimodal AffectiveAI/Emotions (Meta, NEH, EMNLP/CoNLL)
-* Computational Digital Humanities (Dartmouth, U Tenn)
+* Computational Interdisciplinary human-centered AI (Dartmouth, U Tenn)
 * Literature, language, linguistics (MLA)
 * Narrative and Affective AI (Yale, Harvard, Narrative Conferences)
 * Diachronic Sentiment Analysis (Cambridge UP, ArXiv)
@@ -271,9 +271,9 @@ I creatively apply industry best practices and state-of-the-art AI/ML techniques
 
 Our human-centered curriculum is designed to be collaborative at multiple levels and interdisciplinary while maintaining academic rigor. Students from virtually every department across campus create a unique classroom learning and research environment. Research from our AI Colab has contributed to numerous collaborative projects with institutions including Oxford, UC Berkeley, CMU, and Harvard Business School, with co-authors from departments spanning Computer Science, AI, Mathematics, Physics, Economics, and MBA programs. We focus on productive collaborations to operationalize solutions to the "big questions" central to the Liberal Arts experience. This includes partnerships with industry leaders (Meta, IBM), government agencies (NIST AI Safety Institute), and non-profits (AI Alliance, The Modern Language Association, US Chamber of Commerce, The Helix Center). Recent projects have addressed international AI regulation, researched ethical frameworks inherent in AI models, and reimagined education and skills development for an AI-integrated workforce (<a href="https://thealliance.ai/core-projects/guide-to-essential-competencies-for-ai">Guide to Essential Competencies for AI</a>).
 
-I am committed to bringing diverse voices to urgent debates surrounding technology's societal impact. Our AI Digital Humanities computing curriculum has successfully attracted a majority female enrollment (61%), non-STEM majors (91%), and historically underrepresented minorities (11% Hispanic, 13% Black) as of 2022. The program has grown to become one of the most popular courses on campus, with both faculty and student research generating significant academic impact through citations and institutional engagement worldwide.
+I am committed to bringing diverse voices to urgent debates surrounding technology's societal impact. Our interdisciplinary human-centered AI computing curriculum has successfully attracted a majority female enrollment (61%), non-STEM majors (91%), and historically underrepresented minorities (11% Hispanic, 13% Black) as of 2022. The program has grown to become one of the most popular courses on campus, with both faculty and student research generating significant academic impact through citations and institutional engagement worldwide.
 
-Over the past decade, I have developed a human-first approach to teaching computation grounded in ML, AI, and Data Science, with real-world applications inseparable from ethics. This required bridging the <a href="https://sciencepolicy.colorado.edu/students/envs_5110/snow_1959.pdf">C.P. Snow STEM and non-STEM divide</a>, harmonizing academic specialization with practical interdisciplinary solutions, and building a new AI Digital Humanities computing curriculum without any additional institutional budget, headcount, or support resources.
+Over the past decade, I have developed a human-first approach to teaching computation grounded in ML, AI, and Data Science, with real-world applications inseparable from ethics. This required bridging the <a href="https://sciencepolicy.colorado.edu/students/envs_5110/snow_1959.pdf">C.P. Snow STEM and non-STEM divide</a>, harmonizing academic specialization with practical interdisciplinary solutions, and building a new interdisciplinary human-centered AI computing curriculum without any additional institutional budget, headcount, or support resources.
 
 In its first six years, our foundational course has become one of the most popular on campus. Faculty and student research has been published in leading journals and presented at major conferences, reaching tens of thousands of readers from prestigious universities and research centers globally. Both program founders have engaged with multiple organizations beyond our institution dedicated to AI ethics and CS education innovation.
 
@@ -311,7 +311,7 @@ My philosophical goal is to cultivate in students a technologically informed wor
 <center>
 <img src="images/iphs_ai_dh_gender.jpg" alt="Trulli" style="width:80%">
 </center>
-<figcaption align = "center"><i>Progress on Gender Diversity in AI Digital Humanities curriculum since<br>the 2017-2018 academic year<br>(61% female as of Spring 2022)</figcaption>
+<figcaption align = "center"><i>Progress on Gender Diversity in interdisciplinary human-centered AI curriculum since<br>the 2017-2018 academic year<br>(61% female as of Spring 2022)</figcaption>
 </figure>
 
 
@@ -321,7 +321,7 @@ At Kenyon College, I co-founded the world’s first human-centric AI curriculum.
 
 • <b>Research:</b> Published research in top publications and conferences (Cambridge UP, Narrative, Journal of Cultural Analytics, etc.) with clear growth in citations.
 
-• <b>AI Digital Humanities/DH Colab Research:</b> Organically grew (no marketing/PR) to ~15k hits from top universities worldwide (#4 CMU, #5 Berkeley, #6 Stanford, #7 Columbia, #9 NYU, #16 Princeton, #22 Oxford, #23 MIT, #25 Cambridge, etc.)
+• <b>Interdisciplinary human-centered AI Colab Research:</b> Organically grew (no marketing/PR) to ~15k hits from top universities worldwide (#4 CMU, #5 Berkeley, #6 Stanford, #7 Columbia, #9 NYU, #16 Princeton, #22 Oxford, #23 MIT, #25 Cambridge, etc.)
 
 • <b>Diversity:</b> 
   * <b>Female</b> Grew from 18% to 61% between 2017-2021 
@@ -333,21 +333,21 @@ At Kenyon College, I co-founded the world’s first human-centric AI curriculum.
     
 • <b>Enrollment:</b> Experienced enrollment growth from 20 to 120 between 2017-2022 becoming one of the largest classes at Kenyon as an elective with no credit toward the traditional STEM computing major/minor
 
-• <b>Budget:</b> With no budget or antecedent, innovated from scratch a globally recognized computational DH Colab research center and AI Digital Humanities. This includes no funds for hardware, software, cloud computing, support staff or other common expenses. This is achieved thru continual strategic planning, careful curation and testing fully open-source, robust, best-of-breed and/or freely available resources informed by decades of experience in industry.
+• <b>Budget:</b> With no budget or antecedent, innovated from scratch a globally recognized interdisciplinary AI Colab research center and human-centered AI program. This includes no funds for hardware, software, cloud computing, support staff or other common expenses. This is achieved thru continual strategic planning, careful curation and testing fully open-source, robust, best-of-breed and/or freely available resources informed by decades of experience in industry.
 
 Our interdisciplinary AI DH research has been published in top presses, journals, and conferences. We have also mentored hundreds of ML/AI DH projects that synthesize Artificial Intelligence with literature, history, political science, art, dance, music, law, medicine, economics and more. Various sample AI DH projects are given at the bottom of this page.
 
 <b>Timeline</b>
 
 * **1992-99**: The <a href="https://www.kenyon.edu/academics/departments-and-majors/integrated-program-in-humane-studies/">*Integrated Program for Humane Studies*</a> (IPHS, the oldest interdisciplinary program at Kenyon) established a computer lab in Timberlake House for DH scholarship under Director Michael Brint
-* **2002 Jul**: Katherine Elkins joined Kenyon and began mentoring traditional Digital Humanities projects (e.g. critiques of technology, websites, media, etc.) in the IPHS program
+* **2002 Jul**: Katherine Elkins joined Kenyon and began mentoring traditional interdisciplinary computational projects (e.g. critiques of technology, websites, media, etc.) in the IPHS program
 * **2003 May**: Launched product Symantec Clientless VPN appliance as Director of Development and relocated from Silicon Valley
-* **2005 Mar**: Proposed new humanity-centered AI Digital Humanities curriculum in conjunction with a multi-million <a href="https://philanthropynewsdigest.org/news/morgan-kauffman-foundations-launch-liberal-arts-entrepreneurship-initiative">Ewing Marion Kauffman Foundation</a> grant
-* **2015 Aug**: Formulated detailed interdisciplinary AI Digital Humanities curriculum after years of research and training
-* **2017 Mar**: Lead DH Kenyon Team at the <a href="https://hackoh5.ohio5.org/">HackOH5</a> Hackathon to explore challenges and opportunities in implementing computational Digital Humanities and effecting collaboration across disciplines
+* **2005 Mar**: Proposed new humanity-centered AI curriculum in conjunction with a multi-million <a href="https://philanthropynewsdigest.org/news/morgan-kauffman-foundations-launch-liberal-arts-entrepreneurship-initiative">Ewing Marion Kauffman Foundation</a> grant
+* **2015 Aug**: Formulated detailed interdisciplinary AI curriculum after years of research and training
+* **2017 Mar**: Lead DH Kenyon Team at the <a href="https://hackoh5.ohio5.org/">HackOH5</a> Hackathon to explore challenges and opportunities in implementing computational interdisciplinary AI program and effecting collaboration across disciplines
 * **2017 Aug**: Kenyon supports the first <a href="https://digital.kenyon.edu/dh_iphs_prog/">'*Programming Humanity*'</a> course co-taught with a Humanities and Comparative Literature professor.
 * **2018 Aug**: Kenyon adds first <a href="https://digital.kenyon.edu/dh_iphs_ai/">'*AI for the Humanities*'</a> course with a differentiated approach to GOFAI/ML through DNN, RL, and GA
-* **2018 Aug**: Katherine Elkins awarded a multi-year <a href="https://www.kenyon.edu/offices-and-services/office-of-the-provost/recognition/neh-professorship/">National Endowment of the Humanities Distinguished Professorship</a> to continue developing a campus-wide Digital Humanities program to include every interested department
+* **2018 Aug**: Katherine Elkins awarded a multi-year <a href="https://www.kenyon.edu/offices-and-services/office-of-the-provost/recognition/neh-professorship/">National Endowment of the Humanities Distinguished Professorship</a> to continue developing a campus-wide human-centered AI program to include every interested department
 * **2022 Jan**: Collaboration with <a href="https://cs.kenyon.edu/index.php/scmp-401-scientific-computing-seminar/">*Scientific Computing program at Kenyon*</a> mentoring several majors on interdisciplinary research  
 * **2022 Aug**: Kenyon offers first computational <a href="https://jon-chun.github.io/cultural-analytics/">'*Cultural Analytics*'</a> DH methodology course for Social Sciences and Humanities 
 * **2022 Aug**: First collaboration with local industry via <a href="https://github.com/jon-chun/iiot-time-series-prediction-system">'*Industrial IoT Independent Study*'</a> targeting technical reference implementation and strategic whitepaper
@@ -383,7 +383,7 @@ Our AI research and DHColab were collaboratively developed, and the curriculum i
 <center>
 <img src="images/iphs_ai_dh_stem.jpg" alt="Trulli" style="width:80%">
 </center>
-<figcaption align = "center"><br><i>A Humanity-First approach to AI Digital Humanities<br>consistently attracts over 90% non-STEM majors<br>(Kenyon College Institutional Research)</a></i><br></figcaption>
+<figcaption align = "center"><br><i>A Humanity-First approach to interdisciplinary AI project-based learning <br>consistently attracts over 90% non-STEM majors<br>(Kenyon College Institutional Research)</a></i><br></figcaption>
 </figure>
 
 <br></br>
@@ -451,7 +451,7 @@ Stories are everywhere. Here are a few examples of original research projects us
 
 <br></br>
 
-## Kenyon AI Digital Humanities
+## Kenyon Interdisciplinary Human-Centered AI
 ---
 <figure>
 <center>
@@ -463,9 +463,9 @@ Stories are everywhere. Here are a few examples of original research projects us
 
 <br></br>
 
-* [AI/ML Digital Humanities Projects](https://digital.kenyon.edu/dh/)
+* [Interdisciplinary AI/ML Projects](https://digital.kenyon.edu/dh/)
 * [Kenyon Digital Colab](https://www.kenyon.edu/digital-humanities/kdh-colab/)
-* [Kenyon AI Digital Humanities](https://www.kenyon.edu/digital-humanities/)
+* [Kenyon Interdisciplinary Human-Centered AI Program](https://www.kenyon.edu/digital-humanities/)
 
 <br></br>
 
@@ -617,7 +617,7 @@ How do we think of humanity in the digital age? Can we program humanity into our
 
 <h3><b><a href="https://jon-chun.github.io/cultural-analytics/">IPHS290 Cultural Analytics</a> (Introduced Fall 2022)</b></h2>
 
-IPHS290 Cultural Analytics explores advanced computational methods for cultural analytics, focusing on the analysis of complex composite data types including geospatial, time series, and network graphs. Building upon foundational programming knowledge, students learn specialized techniques for collecting, transforming, and visualizing unstructured and structured data to investigate contemporary and historical cultural phenomena. Through engagement with Digital Humanities scholarship and hands-on technical implementation, students develop expertise in analyzing spatially, temporally, and semantically correlated data. This course prepares researchers to expand their analytical capabilities beyond traditional structured datasets to encompass the full spectrum of cultural data analysis.
+IPHS290 Cultural Analytics explores advanced computational methods for cultural analytics, focusing on the analysis of complex composite data types including geospatial, time series, and network graphs. Building upon foundational programming knowledge, students learn specialized techniques for collecting, transforming, and visualizing unstructured and structured data to investigate contemporary and historical cultural phenomena. Through engagement with interdisciplinary AI scholarship and hands-on technical implementation, students develop expertise in analyzing spatially, temporally, and semantically correlated data. This course prepares researchers to expand their analytical capabilities beyond traditional structured datasets to encompass the full spectrum of cultural data analysis.
 <br></br>
 
 <hr>
@@ -777,5 +777,5 @@ The AISIC includes companies and organizations on the front lines of developing 
 <center>
 <img src="images/logo_tilt5_kenyon_dh_colab.png" alt="Trulli" style="width:40%">
 </center>
-<figcaption align = "center"><br><i><b>Kenyon DHColab</b><br>(Kenyon AI Digital Humanities Colab)</i></figcaption>
+<figcaption align = "center"><br><i><b>Kenyon DHColab</b><br>(Kenyon AI Colab)</i></figcaption>
 </figure>
