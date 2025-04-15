@@ -1,4 +1,4 @@
-<h1><b>Interdisciplinary Human-Centered AI Researcher</b></h1>
+<h1><b>Interdisciplinary AI Researcher</b></h1>
 Jon A Chun<br>
 Co-Founder, Kenyon Human-Centered AI Colab
 <br></br>
