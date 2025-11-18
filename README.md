@@ -1,6 +1,6 @@
 <h1><b>Interdisciplinary AI Researcher</b></h1>
 Jon A Chun<br>
-Co-Founder with [Katherine Elkins](https://github.com/KatherineElkins/), Kenyon Human-Centered AI Colab
+Co-Founder with Katherine Elkins @ [github.com/KatherineElkins/](https://github.com/KatherineElkins), Kenyon Human-Centered AI Colab
 <br><br>
 
 **Contents**
@@ -775,6 +775,7 @@ The AISIC includes companies and organizations on the front lines of developing 
 </center>
 <figcaption align = "center"><br><i><b>Kenyon DHColab</b><br>(Kenyon AI Colab)</i></figcaption>
 </figure>
+
 
 
 
