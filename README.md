@@ -66,7 +66,7 @@ My interdisciplinary research spans an unusually wide range of both STEM and non
   - Machine Learning: International Conference on Machine Learning (ICML)
   - Computational Linguistics: ACL's EMNLP/CoNLL
   - Computer Science: Frontiers in Computer Science
-  - Humanities: Modern Language Association, Narrative
+  - Humanities: Modern Language Association, Narrative, Cultural Analytics
   - Digital Humanities: Springer International Journal of Digital Humanities, International Journal of Humanities and Arts Computing
 
 I created the open-source library SentimentArcs in 2019, at the time the largest ensemble for diachronic sentiment analysis and the basis for Katherine Elkins's *The Shapes of Stories* (Cambridge UP 2022). I presented some of the earliest GPT-2 story generation work at Narrative 2020 and have since published in *Cultural Analytics* and *Narrative* on AI and narrative. As of January 2025, I've mentored over 300 computational interdisciplinary ML/AI projects since 2017 across virtually every department of Kenyon College as part of the Integrated Program for Humane Studies and the Scientific Computing programs. I co-founded the AI Colab, the world's first human-centered AI curriculum at Kenyon, and our AI KDH research colab. I currently have research papers pending on using LLMs to compare multiple translations of Proust, multimodal (dialog+image) diachronic sentiment arcs in film, emotional hacking of LLM high-stakes decision-making, a novel benchmark on semantic similarity, IP infringement and creativity using Narrative theory, and an updated and expanding ethical audit of the leading LLMs. I'm also a co-author on an ICML position paper that was invited as an oral presentation this year in Vienna. My current research projects focus on AI persuasion, manipulation and deception as well as using LLMs for predictive analytics and decision-making on structured tabular data. (July 2024)
@@ -721,3 +721,4 @@ The AISIC includes companies and organizations on the front lines of developing 
 ![Kenyon AI Colab logo with tilted text design](images/logo_tilt5_kenyon_dh_colab.png)
 
 **Kenyon AI Colab** (Kenyon Human-Centered AI Colab)
+
