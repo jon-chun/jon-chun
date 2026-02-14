@@ -58,7 +58,7 @@ Background includes Fortune 500 Director roles, Silicon Valley startup co-founde
 
 #### ["The Paradox of Robustness: Decoupling Rule-Based Logic from Affective Noise in High-Stakes Decision-Making"](https://arxiv.org/abs/2601.09724)
 
-*Submitted to ICML 2026 and TMLR 2026*
+*Pending*
 
 While LLMs are widely documented to be sensitive to minor prompt perturbations, we uncover a striking "Paradox of Robustness": instruction-tuned LLMs exhibit 110--300x greater resistance to narrative manipulation than human subjects. Using a controlled perturbation framework across healthcare, law, and finance, we find a near-zero effect size (Cohen's h = 0.003) compared to substantial human biases (h = 0.3--0.8).
 
@@ -82,13 +82,13 @@ Audits seven language models for narrative vulnerability -- the tendency to let 
 
 #### "When Prohibitions Become Permissions: Auditing Negation Sensitivity in Language Models"
 
-*Submitted to FAccT 2026*
+*Pending*
 
 ---
 
 #### "Quantal Response Equilibrium as a Measure of Strategic Sophistication: Theory and Validation for LLM Evaluation"
 
-*Submitted to UAI 2026 (Conference on Uncertainty in Artificial Intelligence)*
+*Submission for UAI 2026 (Conference on Uncertainty in Artificial Intelligence)*
 
 Introduces a game-theoretic evaluation framework grounded in quantal response equilibrium (QRE). Theory of Mind benchmarks for LLMs typically produce aggregate scores without theoretical grounding; our approach offers three methodological advances addressing whether high performance reflects strategic reasoning or surface-level heuristics.
 
@@ -104,7 +104,7 @@ Uses large language model failures as a novel probe of pragmatic architecture. C
 
 #### "CEI: A Benchmark for Evaluating Pragmatic Reasoning in Language Models"
 
-*Submitted to DMLR 2026 (Dataset Track)*
+*Pending (Dataset Track)*
 
 Presents the Contextual Emotional Inference (CEI) Benchmark: 300 human-validated scenarios for evaluating how well LLMs disambiguate pragmatically complex utterances. Each scenario pairs situational context and speaker-listener roles with explicit power relations against an ambiguous utterance.
 
@@ -112,7 +112,7 @@ Presents the Contextual Emotional Inference (CEI) Benchmark: 300 human-validated
 
 #### "AgenticSimLaw: A Multi-Agent Courtroom Debate Framework for Explainable Recidivism Prediction from Tabular Data"
 
-*Submitted to TMLR 2026 | Extended version of AAAI-26 LaMAS accepted paper | [IBM-Notre Dame Tech Ethics Lab Grant](https://techethicslab.nd.edu/call-for-proposals/)*
+*Pending | Extended version of AAAI-26 LaMAS accepted paper | [IBM-Notre Dame Tech Ethics Lab Grant](https://techethicslab.nd.edu/call-for-proposals/)*
 
 Role-structured, multi-agent debate framework providing transparent and controllable test-time reasoning for recidivism prediction from tabular data. Benchmarked across ~90 unique model-strategy combinations on the NLSY97 dataset.
 
@@ -120,7 +120,7 @@ Role-structured, multi-agent debate framework providing transparent and controll
 
 #### "The Cyber Governance Trilemma: Comparative AI Regulation in the EU, China, and the United States"
 
-*Submitted to Journal of Cyber Policy 2026*
+*Pending*
 
 ---
 
@@ -413,3 +413,4 @@ Interdisciplinary roundtables drawing together leaders from arts, humanities, sc
 2. Stephen Dao Hui Hsu, James Noshir Hormuzdiar, **Jon A. Chun**; Symantec Corp. "Method and Apparatus for Encrypted Communications to a Secure Server." US Patent 8,065,520 (November 22, 2011).
 
 [Back to Top](#jon-a-chun)
+
