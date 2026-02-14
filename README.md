@@ -48,7 +48,7 @@ Background includes Fortune 500 Director roles, Silicon Valley startup co-founde
 ### Grants
 
 **[Schmidt Sciences Humanities and AI Virtual Institute (HAVI)](https://www.schmidtsciences.org/humanities-and-ai-virtual-institute/)** (December 2025--Present)
-*Principal Investigator and AI Architect -- 1 of 23 HAVI grants awarded to leading AI research teams worldwide*
+*Principal Investigator and AI Architect -- 1 of 23 HAVI grants awarded to leading AI research teams worldwide (top 2-3%)*
 
 "Archival Intelligence: Can AI Rescue Endangered Archives" -- Co-PI and AI Architect leading an interdisciplinary team of scholars in jazz studies, musicology and CS from Columbia University, Berklee College of Music, and Louisiana State University. A team of AI researchers, archival scientists, jazz historians, and New Orleans cultural experts racing to preserve endangered small community archives using only smartphone photos, with AI to recover portions lost to damage. This 18-month pilot tackles the hardest cases by focusing on voices systematically excluded from historical archives: multilingual newspapers documenting Creole and Cajun communities as well as early jazz materials.
 
@@ -413,4 +413,5 @@ Interdisciplinary roundtables drawing together leaders from arts, humanities, sc
 2. Stephen Dao Hui Hsu, James Noshir Hormuzdiar, **Jon A. Chun**; Symantec Corp. "Method and Apparatus for Encrypted Communications to a Secure Server." US Patent 8,065,520 (November 22, 2011).
 
 [Back to Top](#jon-a-chun)
+
 
